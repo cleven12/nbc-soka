@@ -1,0 +1,5 @@
+# Minimal deps to serve the API in production
+fastapi
+uvicorn[standard]
+orjson
+pydantic

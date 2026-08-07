@@ -1,0 +1,8656 @@
+{
+  "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
+  "competitions": [
+    {
+      "id": 419,
+      "kind": "nbc_championship",
+      "name": "NBC CHAMPIONSHIP LEAGUE 2025/2026",
+      "slug": "nbc-championship-2025-2026"
+    },
+    {
+      "id": 444,
+      "kind": "nbc_championship",
+      "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
+      "slug": "nbc-championship-league-2026-27"
+    },
+    {
+      "id": 418,
+      "kind": "nbc_premier",
+      "name": "NBC PREMIER LEAGUE 2025/2026",
+      "slug": "nbc-premier-league-2025-2026"
+    },
+    {
+      "id": 432,
+      "kind": "nbc_premier",
+      "name": "NBC PREMIER LEAGUE 2026/2027",
+      "slug": "nbc-premier-league-2026-2027"
+    }
+  ],
+  "counts": {
+    "events": 215,
+    "tables": 2,
+    "teams": 32
+  },
+  "events": [
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2026-08-14T14:00:00",
+      "date_gmt": "2026-08-14T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17298,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17298",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-08-14T16:15:00",
+      "date_gmt": "2026-08-14T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17299,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17299",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2026-08-14T19:00:00",
+      "date_gmt": "2026-08-14T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17300,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17300",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2026-08-15T16:00:00",
+      "date_gmt": "2026-08-15T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17301,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17301",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-08-15T18:30:00",
+      "date_gmt": "2026-08-15T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17302,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17302",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2026-08-15T21:00:00",
+      "date_gmt": "2026-08-15T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17303,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17303",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-08-16T18:00:00",
+      "date_gmt": "2026-08-16T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17304,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17304",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-08-16T20:30:00",
+      "date_gmt": "2026-08-16T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17305,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17305",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-08-18T16:00:00",
+      "date_gmt": "2026-08-18T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17306,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17306",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-08-18T19:00:00",
+      "date_gmt": "2026-08-18T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17307,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17307",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2026-08-19T14:00:00",
+      "date_gmt": "2026-08-19T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17308,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17308",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-08-19T16:15:00",
+      "date_gmt": "2026-08-19T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17309,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17309",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-08-19T19:00:00",
+      "date_gmt": "2026-08-19T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17310,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17310",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2026-08-20T16:00:00",
+      "date_gmt": "2026-08-20T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17311,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17311",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2026-08-20T18:30:00",
+      "date_gmt": "2026-08-20T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17312,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17312",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-08-20T21:00:00",
+      "date_gmt": "2026-08-20T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17313,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17313",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-08-22T18:00:00",
+      "date_gmt": "2026-08-22T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17314,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17314",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2026-08-22T20:30:00",
+      "date_gmt": "2026-08-22T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17315,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17315",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-08-23T16:00:00",
+      "date_gmt": "2026-08-23T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17316,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17316",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2026-08-23T19:00:00",
+      "date_gmt": "2026-08-23T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17317,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17317",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2026-08-24T18:00:00",
+      "date_gmt": "2026-08-24T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17318,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17318",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-08-24T20:30:00",
+      "date_gmt": "2026-08-24T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17319,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17319",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2026-08-25T18:00:00",
+      "date_gmt": "2026-08-25T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17320,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17320",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2026-08-25T20:30:00",
+      "date_gmt": "2026-08-25T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17321,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma jiji vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17321",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2026-08-27T16:00:00",
+      "date_gmt": "2026-08-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17322,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17322",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2026-08-27T19:00:00",
+      "date_gmt": "2026-08-27T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17323,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17323",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2026-08-28T16:00:00",
+      "date_gmt": "2026-08-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17324,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "fountain Gate vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17324",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2026-08-28T18:30:00",
+      "date_gmt": "2026-08-28T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17325,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17325",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2026-08-28T21:00:00",
+      "date_gmt": "2026-08-28T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17326,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17326",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2026-08-29T16:00:00",
+      "date_gmt": "2026-08-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17327,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17327",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2026-08-29T18:30:00",
+      "date_gmt": "2026-08-29T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17328,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17328",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-08-29T21:00:00",
+      "date_gmt": "2026-08-29T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17329,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17329",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-08-31T18:00:00",
+      "date_gmt": "2026-08-31T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17330,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17330",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2026-08-31T20:30:00",
+      "date_gmt": "2026-08-31T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17331,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17331",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2026-09-01T16:00:00",
+      "date_gmt": "2026-09-01T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17332,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17332",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-09-01T19:00:00",
+      "date_gmt": "2026-09-01T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17333,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17333",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2026-09-04T16:00:00",
+      "date_gmt": "2026-09-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17334,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17334",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-09-04T19:00:00",
+      "date_gmt": "2026-09-04T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17335,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma jiji vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17335",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17337,
+      "date": "2026-09-05T19:00:00",
+      "date_gmt": "2026-09-05T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17336,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs pamba jiji fc",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        17337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17336",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2026-09-05T16:00:00",
+      "date_gmt": "2026-09-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17338,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Coastal union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17338",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-09-08T16:00:00",
+      "date_gmt": "2026-09-08T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17339,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17339",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-09-08T19:00:00",
+      "date_gmt": "2026-09-08T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17340,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17340",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-09-09T19:00:00",
+      "date_gmt": "2026-09-09T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17341,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17341",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-09-11T19:00:00",
+      "date_gmt": "2026-09-11T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17342,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17342",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2026-09-12T16:00:00",
+      "date_gmt": "2026-09-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17343,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17343",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2026-09-12T19:00:00",
+      "date_gmt": "2026-09-12T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17344,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17344",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-09-13T16:00:00",
+      "date_gmt": "2026-09-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17345,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17345",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2026-09-13T19:00:00",
+      "date_gmt": "2026-09-13T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17346,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17346",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2026-10-08T14:00:00",
+      "date_gmt": "2026-10-08T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17347,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17347",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-10-08T16:15:00",
+      "date_gmt": "2026-10-08T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17348,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17348",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-10-08T18:30:00",
+      "date_gmt": "2026-10-08T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17349,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17349",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-10-08T21:00:00",
+      "date_gmt": "2026-10-08T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17350,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17350",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2026-10-09T14:00:00",
+      "date_gmt": "2026-10-09T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17351,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17351",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2026-10-09T16:15:00",
+      "date_gmt": "2026-10-09T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17352,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17352",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-10-09T19:00:00",
+      "date_gmt": "2026-10-09T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17353,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17353",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2026-10-10T19:00:00",
+      "date_gmt": "2026-10-10T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17354,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17354",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-10-12T18:00:00",
+      "date_gmt": "2026-10-12T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17355,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17355",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-10-12T20:30:00",
+      "date_gmt": "2026-10-12T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17356,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17356",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2026-10-13T16:00:00",
+      "date_gmt": "2026-10-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17357,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17357",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-10-13T19:00:00",
+      "date_gmt": "2026-10-13T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17358,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17358",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2026-10-16T16:00:00",
+      "date_gmt": "2026-10-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17359,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17359",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2026-10-16T19:00:00",
+      "date_gmt": "2026-10-16T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17360,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17360",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2026-10-17T19:00:00",
+      "date_gmt": "2026-10-17T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17361,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17361",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2026-10-18T19:00:00",
+      "date_gmt": "2026-10-18T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17362,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17362",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2026-10-23T16:00:00",
+      "date_gmt": "2026-10-23T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17363,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17363",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2026-10-24T18:00:00",
+      "date_gmt": "2026-10-24T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17364,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17364",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2026-10-24T20:30:00",
+      "date_gmt": "2026-10-24T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17365,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17365",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2026-10-26T19:00:00",
+      "date_gmt": "2026-10-26T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17366,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17366",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-10-27T16:00:00",
+      "date_gmt": "2026-10-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17367,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17367",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-10-27T18:30:00",
+      "date_gmt": "2026-10-27T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17368,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17368",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2026-10-27T21:00:00",
+      "date_gmt": "2026-10-27T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17369,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma jiji vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17369",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-10-28T16:00:00",
+      "date_gmt": "2026-10-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17370,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17370",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2026-10-28T18:30:00",
+      "date_gmt": "2026-10-28T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17371,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17371",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2026-10-28T21:00:00",
+      "date_gmt": "2026-10-28T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17372,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17372",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-10-29T16:00:00",
+      "date_gmt": "2026-10-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17373,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17373",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2026-10-29T19:00:00",
+      "date_gmt": "2026-10-29T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17374,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17374",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-10-31T16:00:00",
+      "date_gmt": "2026-10-31T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17375,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17375",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2026-10-31T18:30:00",
+      "date_gmt": "2026-10-31T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17376,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17376",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2026-10-31T21:00:00",
+      "date_gmt": "2026-10-31T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17377,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17377",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-11-01T16:00:00",
+      "date_gmt": "2026-11-01T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17378,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17378",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2026-11-01T19:00:00",
+      "date_gmt": "2026-11-01T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17379,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Kagera sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17379",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2026-11-02T14:00:00",
+      "date_gmt": "2026-11-02T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17380,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17380",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2026-11-02T16:15:00",
+      "date_gmt": "2026-11-02T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17381,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17381",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-11-02T19:00:00",
+      "date_gmt": "2026-11-02T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17382,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17382",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2026-11-20T16:00:00",
+      "date_gmt": "2026-11-20T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17383,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17383",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2026-11-20T18:30:00",
+      "date_gmt": "2026-11-20T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17384,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17384",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-11-20T21:00:00",
+      "date_gmt": "2026-11-20T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17385,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17385",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2026-11-21T16:00:00",
+      "date_gmt": "2026-11-21T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17386,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Coastal union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17386",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-11-21T18:30:00",
+      "date_gmt": "2026-11-21T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17387,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17387",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2026-11-21T21:00:00",
+      "date_gmt": "2026-11-21T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17388,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma jiji vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17388",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-11-22T18:00:00",
+      "date_gmt": "2026-11-22T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17389,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17389",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-11-22T20:30:00",
+      "date_gmt": "2026-11-22T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17390,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17390",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-11-27T16:00:00",
+      "date_gmt": "2026-11-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17391,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs namungo fc",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17391",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2026-11-27T19:00:00",
+      "date_gmt": "2026-11-27T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17392,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17392",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-11-28T16:00:00",
+      "date_gmt": "2026-11-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17393,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17393",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2026-11-29T19:00:00",
+      "date_gmt": "2026-11-29T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17394,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Coastal union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17394",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2026-12-04T14:00:00",
+      "date_gmt": "2026-12-04T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17395,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17395",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2026-12-04T16:15:00",
+      "date_gmt": "2026-12-04T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17396,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17396",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2026-12-05T19:00:00",
+      "date_gmt": "2026-12-05T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17397,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17397",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2026-12-06T16:00:00",
+      "date_gmt": "2026-12-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17398,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa fc vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17398",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-12-06T19:00:00",
+      "date_gmt": "2026-12-06T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17399,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17399",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2026-12-11T14:00:00",
+      "date_gmt": "2026-12-11T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17400,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Kagera sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17400",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2026-12-11T16:15:00",
+      "date_gmt": "2026-12-11T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17401,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17401",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-12-11T16:15:00",
+      "date_gmt": "2026-12-11T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17402,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17402",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2026-12-12T16:00:00",
+      "date_gmt": "2026-12-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17403,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17403",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2026-12-12T18:30:00",
+      "date_gmt": "2026-12-12T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17404,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17404",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2026-12-12T21:00:00",
+      "date_gmt": "2026-12-12T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17405,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17405",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2026-12-13T16:00:00",
+      "date_gmt": "2026-12-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17406,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17406",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2026-12-13T19:00:00",
+      "date_gmt": "2026-12-13T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17407,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17407",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2026-12-29T16:00:00",
+      "date_gmt": "2026-12-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17408,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17408",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2026-12-29T18:30:00",
+      "date_gmt": "2026-12-29T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17409,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17409",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2026-12-29T21:00:00",
+      "date_gmt": "2026-12-29T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17410,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17410",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2026-12-30T16:00:00",
+      "date_gmt": "2026-12-30T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17411,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17411",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2026-12-30T19:00:00",
+      "date_gmt": "2026-12-30T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17412,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17412",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2026-12-31T16:00:00",
+      "date_gmt": "2026-12-31T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17413,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17413",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2026-12-31T18:30:00",
+      "date_gmt": "2026-12-31T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17414,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17414",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2026-12-31T21:00:00",
+      "date_gmt": "2026-12-31T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17415,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17415",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2027-01-15T18:00:00",
+      "date_gmt": "2027-01-15T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17416,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17416",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-01-16T16:00:00",
+      "date_gmt": "2027-01-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17417,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17417",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2027-01-16T19:00:00",
+      "date_gmt": "2027-01-16T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17418,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17418",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2027-01-17T16:00:00",
+      "date_gmt": "2027-01-17T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17419,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17419",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2027-01-22T19:00:00",
+      "date_gmt": "2027-01-22T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17420,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Mbeya city",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17420",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2027-01-23T19:00:00",
+      "date_gmt": "2027-01-23T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17421,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Kagera sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17421",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2027-01-24T14:00:00",
+      "date_gmt": "2027-01-24T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17422,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17422",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2027-01-24T16:15:00",
+      "date_gmt": "2027-01-24T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17423,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17423",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2027-02-02T14:00:00",
+      "date_gmt": "2027-02-02T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17424,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17424",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2027-02-02T16:15:00",
+      "date_gmt": "2027-02-02T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17425,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17425",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2027-02-02T19:00:00",
+      "date_gmt": "2027-02-02T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17426,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17426",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2027-02-03T16:00:00",
+      "date_gmt": "2027-02-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17427,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17427",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2027-02-03T18:30:00",
+      "date_gmt": "2027-02-03T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17428,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17428",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2027-02-03T21:00:00",
+      "date_gmt": "2027-02-03T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17429,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17429",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2027-02-04T18:00:00",
+      "date_gmt": "2027-02-04T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17430,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17430",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2027-02-04T20:30:00",
+      "date_gmt": "2027-02-04T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17431,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17431",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2027-02-06T19:00:00",
+      "date_gmt": "2027-02-06T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17432,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17432",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2027-02-07T16:00:00",
+      "date_gmt": "2027-02-07T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17433,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17433",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2027-02-07T18:30:00",
+      "date_gmt": "2027-02-07T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17434,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17434",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2027-02-07T21:00:00",
+      "date_gmt": "2027-02-07T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17435,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17435",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-02-08T16:00:00",
+      "date_gmt": "2027-02-08T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17436,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17436",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2027-02-08T18:30:00",
+      "date_gmt": "2027-02-08T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17437,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17437",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2027-02-08T18:30:00",
+      "date_gmt": "2027-02-08T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17438,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17438",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2027-02-08T21:00:00",
+      "date_gmt": "2027-02-08T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17439,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17439",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2027-02-01T14:00:00",
+      "date_gmt": "2027-02-01T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17440,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17440",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2027-02-11T16:15:00",
+      "date_gmt": "2027-02-11T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17441,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17441",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-02-11T19:00:00",
+      "date_gmt": "2027-02-11T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17442,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17442",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2027-02-12T14:00:00",
+      "date_gmt": "2027-02-12T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17443,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17443",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2027-02-12T16:15:00",
+      "date_gmt": "2027-02-12T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17444,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17444",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2027-02-12T19:00:00",
+      "date_gmt": "2027-02-12T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17445,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17445",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2027-02-13T16:00:00",
+      "date_gmt": "2027-02-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17446,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17446",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2027-02-13T19:00:00",
+      "date_gmt": "2027-02-13T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17447,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17447",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2027-02-15T16:00:00",
+      "date_gmt": "2027-02-15T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17448,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17448",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2027-02-15T19:00:00",
+      "date_gmt": "2027-02-15T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17449,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17449",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-02-15T21:00:00",
+      "date_gmt": "2027-02-15T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17450,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17450",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2027-02-16T16:00:00",
+      "date_gmt": "2027-02-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17451,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17451",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2027-02-16T18:30:00",
+      "date_gmt": "2027-02-16T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17452,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17452",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2027-02-16T21:00:00",
+      "date_gmt": "2027-02-16T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17453,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17453",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2027-02-17T16:00:00",
+      "date_gmt": "2027-02-17T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17454,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17454",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2027-02-17T19:00:00",
+      "date_gmt": "2027-02-17T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17455,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17455",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2027-02-23T18:00:00",
+      "date_gmt": "2027-02-23T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17456,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17456",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2027-02-23T20:30:00",
+      "date_gmt": "2027-02-23T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17457,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17457",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2027-02-24T18:00:00",
+      "date_gmt": "2027-02-24T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17458,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17458",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2027-02-24T20:30:00",
+      "date_gmt": "2027-02-24T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17459,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17459",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2027-02-26T14:00:00",
+      "date_gmt": "2027-02-26T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17460,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17460",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2027-02-26T16:15:00",
+      "date_gmt": "2027-02-26T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17461,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17461",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2027-02-27T16:00:00",
+      "date_gmt": "2027-02-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17462,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17462",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2027-02-28T19:00:00",
+      "date_gmt": "2027-02-28T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17463,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17463",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2027-03-05T16:00:00",
+      "date_gmt": "2027-03-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17464,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17464",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2027-03-05T19:00:00",
+      "date_gmt": "2027-03-05T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17465,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17465",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2027-03-06T16:00:00",
+      "date_gmt": "2027-03-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17466,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17466",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2027-03-07T18:00:00",
+      "date_gmt": "2027-03-07T15:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17467,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17467",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2027-03-07T20:30:00",
+      "date_gmt": "2027-03-07T17:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17468,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17468",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2027-03-12T16:00:00",
+      "date_gmt": "2027-03-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17469,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17469",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2027-03-12T19:00:00",
+      "date_gmt": "2027-03-12T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17470,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17470",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2027-03-13T16:00:00",
+      "date_gmt": "2027-03-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17471,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17471",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2027-03-13T18:30:00",
+      "date_gmt": "2027-03-13T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 291,
+      "id": 17472,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Simba SC vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        291,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17472",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2027-03-13T21:00:00",
+      "date_gmt": "2027-03-13T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17473,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17473",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2027-03-14T16:00:00",
+      "date_gmt": "2027-03-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17474,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17474",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2027-03-14T18:30:00",
+      "date_gmt": "2027-03-14T15:30:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17475,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17475",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17337,
+      "date": "2027-03-14T21:00:00",
+      "date_gmt": "2027-03-14T18:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17476,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs pamba Jiji fc",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        17337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17476",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2027-04-06T16:00:00",
+      "date_gmt": "2027-04-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17477,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17477",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2027-04-07T16:00:00",
+      "date_gmt": "2027-04-07T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17478,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17478",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2027-04-07T19:00:00",
+      "date_gmt": "2027-04-07T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17479,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17479",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-04-09T16:00:00",
+      "date_gmt": "2027-04-09T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17480,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17480",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2027-04-09T19:00:00",
+      "date_gmt": "2027-04-09T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17481,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17481",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2027-04-10T16:00:00",
+      "date_gmt": "2027-04-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17482,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17482",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2027-04-10T19:00:00",
+      "date_gmt": "2027-04-10T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17483,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17483",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2027-04-11T16:00:00",
+      "date_gmt": "2027-04-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17484,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17484",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 268,
+      "date": "2027-04-16T14:00:00",
+      "date_gmt": "2027-04-16T11:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17485,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs JKT Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        268
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17485",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2027-04-16T16:15:00",
+      "date_gmt": "2027-04-16T13:15:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17486,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17486",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2027-04-17T16:00:00",
+      "date_gmt": "2027-04-17T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17487,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17487",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2027-04-18T16:00:00",
+      "date_gmt": "2027-04-18T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 288,
+      "id": 17488,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Polisi Tanzania vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        288,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17488",
+      "status": "future",
+      "venues": [
+        93
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-04-18T19:00:00",
+      "date_gmt": "2027-04-18T16:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17489,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17489",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 322,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17490,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Geita Gold",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        322
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17490",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 278,
+      "id": 17491,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Coastal Union vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        278,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17491",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 321,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17492,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs pamba Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        321
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17492",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 292,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17493,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Young Africans",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        292
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17493",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 344,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 269,
+      "id": 17494,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Kagera Sugar vs Mashujaa FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        269,
+        344
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17494",
+      "status": "future",
+      "venues": [
+        95
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 294,
+      "id": 17495,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Azam FC vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        294,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17495",
+      "status": "future",
+      "venues": [
+        280
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17496,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17496",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17497,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17497",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17498,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17498",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 286,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17499,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Namungo FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        286
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17499",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2582,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17500,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Fountain Gate",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        2582
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17500",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 267,
+      "id": 17501,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Dodoma Jiji vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        267,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17501",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17502,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17502",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17503,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17503",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 325,
+      "id": 17504,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "TRA United vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        325,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17504",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 285,
+      "date": "2027-05-12T16:00:00",
+      "date_gmt": "2027-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2189,
+      "id": 17505,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Singida BS vs Mbeya City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2189,
+        285
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17505",
+      "status": "future",
+      "venues": [
+        427
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 288,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 285,
+      "id": 17506,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mbeya City vs Polisi Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        285,
+        288
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17506",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 2189,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 292,
+      "id": 17507,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Young Africans vs Singida BS",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        292,
+        2189
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17507",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 267,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 286,
+      "id": 17508,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Namungo FC vs Dodoma Jiji",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        286,
+        267
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17508",
+      "status": "future",
+      "venues": [
+        27
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 269,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 2582,
+      "id": 17509,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Fountain Gate vs Kagera Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        2582,
+        269
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17509",
+      "status": "future",
+      "venues": [
+        313
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 294,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 321,
+      "id": 17510,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Pamba Jiji vs Azam FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        321,
+        294
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17510",
+      "status": "future",
+      "venues": [
+        106
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 278,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 268,
+      "id": 17511,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "JKT Tanzania vs Coastal Union",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        268,
+        278
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17511",
+      "status": "future",
+      "venues": [
+        279
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 291,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 344,
+      "id": 17512,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Mashujaa FC vs Simba SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        344,
+        291
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17512",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 325,
+      "date": "2027-05-16T16:00:00",
+      "date_gmt": "2027-05-16T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 322,
+      "id": 17513,
+      "is_placeholder": false,
+      "leagues": [
+        432
+      ],
+      "minutes": "90",
+      "name": "Geita Gold vs TRA United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        322,
+        325
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17513",
+      "status": "future",
+      "venues": [
+        434
+      ],
+      "winner_id": null
+    }
+  ],
+  "scraped_at": "2026-08-07T13:37:32+00:00",
+  "season": {
+    "id": 431,
+    "name": "2026/27",
+    "slug": "2026-27"
+  },
+  "source": "ligikuu",
+  "tables": [
+    {
+      "id": 17188,
+      "leagues": [
+        432
+      ],
+      "name": "NBC PREMIER LEAGUE 2026/2027",
+      "seasons": [
+        431
+      ],
+      "slug": "nbc-premier-league-2026-2027",
+      "standings": [
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Azam",
+          "played": 0,
+          "points": 0,
+          "pos": 1,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Azam",
+            "p": "0",
+            "pos": 1,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 294,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Coastal Union",
+          "played": 0,
+          "points": 0,
+          "pos": 2,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Coastal Union",
+            "p": "0",
+            "pos": 2,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 278,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Dodoma Jiji",
+          "played": 0,
+          "points": 0,
+          "pos": 3,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Dodoma Jiji",
+            "p": "0",
+            "pos": 3,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 267,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Fountain Gate",
+          "played": 0,
+          "points": 0,
+          "pos": 4,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Fountain Gate",
+            "p": "0",
+            "pos": 4,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 2582,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Geita Gold",
+          "played": 0,
+          "points": 0,
+          "pos": 5,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Geita Gold",
+            "p": "0",
+            "pos": 5,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 322,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "JKT Tanzania",
+          "played": 0,
+          "points": 0,
+          "pos": 6,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "JKT Tanzania",
+            "p": "0",
+            "pos": 6,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 268,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Kagera Sugar",
+          "played": 0,
+          "points": 0,
+          "pos": 7,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Kagera Sugar",
+            "p": "0",
+            "pos": 7,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 269,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mashujaa",
+          "played": 0,
+          "points": 0,
+          "pos": 8,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mashujaa",
+            "p": "0",
+            "pos": 8,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 344,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mbeya City",
+          "played": 0,
+          "points": 0,
+          "pos": 9,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mbeya City",
+            "p": "0",
+            "pos": 9,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 285,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Namungo",
+          "played": 0,
+          "points": 0,
+          "pos": 10,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Namungo",
+            "p": "0",
+            "pos": 10,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 286,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Pamba Jiji",
+          "played": 0,
+          "points": 0,
+          "pos": 11,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Pamba Jiji",
+            "p": "0",
+            "pos": 11,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 321,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Polisi Tanzania",
+          "played": 0,
+          "points": 0,
+          "pos": 12,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Polisi Tanzania",
+            "p": "0",
+            "pos": 12,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 288,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Simba",
+          "played": 0,
+          "points": 0,
+          "pos": 13,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Simba",
+            "p": "0",
+            "pos": 13,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 291,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Singida BS",
+          "played": 0,
+          "points": 0,
+          "pos": 14,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Singida BS",
+            "p": "0",
+            "pos": 14,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 2189,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "TRA United",
+          "played": 0,
+          "points": 0,
+          "pos": 15,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "TRA United",
+            "p": "0",
+            "pos": 15,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 325,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Young Africans",
+          "played": 0,
+          "points": 0,
+          "pos": 16,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Young Africans",
+            "p": "0",
+            "pos": 16,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 292,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Club",
+          "played": 0,
+          "points": 0,
+          "pos": null,
+          "raw": {
+            "a": "GA",
+            "awayrecord": "Away Record",
+            "d": "D",
+            "f": "GF",
+            "gd": "GD",
+            "l": "L",
+            "name": "Club",
+            "p": "P",
+            "pos": "Pos",
+            "pts": "Pts",
+            "w": "W"
+          },
+          "team_id": 0,
+          "won": 0
+        }
+      ],
+      "status": "publish"
+    },
+    {
+      "id": 17614,
+      "leagues": [
+        444
+      ],
+      "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE",
+      "seasons": [
+        431
+      ],
+      "slug": "nbc-championship-league-2026-2027-table",
+      "standings": [
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "B19",
+          "played": 0,
+          "points": 0,
+          "pos": 1,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "B19",
+            "p": "0",
+            "pos": 1,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 6048,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Bandari",
+          "played": 0,
+          "points": 0,
+          "pos": 2,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Bandari",
+            "p": "0",
+            "pos": 2,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 14180,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Bigman",
+          "played": 0,
+          "points": 0,
+          "pos": 3,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Bigman",
+            "p": "0",
+            "pos": 3,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 266,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Gunners",
+          "played": 0,
+          "points": 0,
+          "pos": 4,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Gunners",
+            "p": "0",
+            "pos": 4,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 10894,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "IAA",
+          "played": 0,
+          "points": 0,
+          "pos": 5,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "IAA",
+            "p": "0",
+            "pos": 5,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 14179,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "KMC",
+          "played": 0,
+          "points": 0,
+          "pos": 6,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "KMC",
+            "p": "0",
+            "pos": 6,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 281,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "KenGold",
+          "played": 0,
+          "points": 0,
+          "pos": 7,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "KenGold",
+            "p": "0",
+            "pos": 7,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 315,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mbeya Kwanza",
+          "played": 0,
+          "points": 0,
+          "pos": 8,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mbeya Kwanza",
+            "p": "0",
+            "pos": 8,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 312,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mbuni",
+          "played": 0,
+          "points": 0,
+          "pos": 9,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mbuni",
+            "p": "0",
+            "pos": 9,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 340,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mtibwa Sugar",
+          "played": 0,
+          "points": 0,
+          "pos": 10,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mtibwa Sugar",
+            "p": "0",
+            "pos": 10,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 283,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Rhino",
+          "played": 0,
+          "points": 0,
+          "pos": 11,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Rhino",
+            "p": "0",
+            "pos": 11,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 330,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Songea United",
+          "played": 0,
+          "points": 0,
+          "pos": 12,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Songea United",
+            "p": "0",
+            "pos": 12,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 429,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Stand United",
+          "played": 0,
+          "points": 0,
+          "pos": 13,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Stand United",
+            "p": "0",
+            "pos": 13,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 349,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "TMA",
+          "played": 0,
+          "points": 0,
+          "pos": 14,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "TMA",
+            "p": "0",
+            "pos": 14,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 4536,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Tanzania Prisons",
+          "played": 0,
+          "points": 0,
+          "pos": 15,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Tanzania Prisons",
+            "p": "0",
+            "pos": 15,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 290,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Transit Camp",
+          "played": 0,
+          "points": 0,
+          "pos": 16,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Transit Camp",
+            "p": "0",
+            "pos": 16,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 326,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Club",
+          "played": 0,
+          "points": 0,
+          "pos": null,
+          "raw": {
+            "a": "GA",
+            "awayrecord": "Away Record",
+            "d": "D",
+            "f": "GF",
+            "gd": "GD",
+            "l": "L",
+            "name": "Club",
+            "p": "P",
+            "pos": "Pos",
+            "pts": "Pts",
+            "w": "W"
+          },
+          "team_id": 0,
+          "won": 0
+        }
+      ],
+      "status": "publish"
+    }
+  ],
+  "teams": [
+    {
+      "abbreviation": "Bigman",
+      "id": 266,
+      "leagues": [
+        58,
+        258,
+        419,
+        290,
+        444
+      ],
+      "name": "BIGMAN FC",
+      "seasons": [
+        87,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mwadui-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        420
+      ]
+    },
+    {
+      "abbreviation": "DODOMA",
+      "id": 267,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Dodoma Jiji",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "dodoma-jiji-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        29
+      ]
+    },
+    {
+      "abbreviation": "JKT",
+      "id": 268,
+      "leagues": [
+        151,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "JKT Tanzania",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "jkt-tanzania",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        279
+      ]
+    },
+    {
+      "abbreviation": "KAGERA",
+      "id": 269,
+      "leagues": [
+        91,
+        419,
+        134,
+        236,
+        287,
+        432
+      ],
+      "name": "Kagera Sugar",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "kagera-sugar",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        95
+      ]
+    },
+    {
+      "abbreviation": "COASTAL",
+      "id": 278,
+      "leagues": [
+        88,
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Coastal Union",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "coastal-union-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        25
+      ]
+    },
+    {
+      "abbreviation": "KMC",
+      "id": 281,
+      "leagues": [
+        91,
+        444,
+        134,
+        236,
+        287,
+        418
+      ],
+      "name": "KMC FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "kmc-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        309
+      ]
+    },
+    {
+      "abbreviation": "MTIBWA",
+      "id": 283,
+      "leagues": [
+        91,
+        290,
+        444,
+        134,
+        236,
+        418
+      ],
+      "name": "Mtibwa Sugar",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mtibwa-sugar",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        29
+      ]
+    },
+    {
+      "abbreviation": "MBEYA C.",
+      "id": 285,
+      "leagues": [
+        238,
+        91,
+        290,
+        134,
+        418,
+        432
+      ],
+      "name": "Mbeya City",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mbeya-city-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        31
+      ]
+    },
+    {
+      "abbreviation": "NAMUNGO",
+      "id": 286,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Namungo FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "namungo-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        27
+      ]
+    },
+    {
+      "abbreviation": "POLISI",
+      "id": 288,
+      "leagues": [
+        238,
+        91,
+        419,
+        290,
+        134,
+        432
+      ],
+      "name": "Polisi Tanzania",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "polisi-tanzania",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        93
+      ]
+    },
+    {
+      "abbreviation": "PRISONS",
+      "id": 290,
+      "leagues": [
+        91,
+        444,
+        134,
+        236,
+        287,
+        418
+      ],
+      "name": "Tanzania Prisons",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tanzania-prisons",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        31
+      ]
+    },
+    {
+      "abbreviation": "SIMBA",
+      "id": 291,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Simba SC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "simba-sc",
+      "status": "publish",
+      "url": "https://simbasc.co.tz/",
+      "venues": [
+        442
+      ]
+    },
+    {
+      "abbreviation": "YOUNG AFRICANS",
+      "id": 292,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Young Africans",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "young-africans-sc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        442
+      ]
+    },
+    {
+      "abbreviation": "AZAM",
+      "id": 294,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Azam FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "azam-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        280
+      ]
+    },
+    {
+      "abbreviation": "MBEYA K.",
+      "id": 312,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Mbeya Kwanza",
+      "seasons": [
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mbeya-kwanza",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        125
+      ]
+    },
+    {
+      "abbreviation": "KEN G.",
+      "id": 315,
+      "leagues": [
+        238,
+        419,
+        151,
+        444,
+        287
+      ],
+      "name": "Kengold FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "kengold-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        31
+      ]
+    },
+    {
+      "abbreviation": "PAMBA",
+      "id": 321,
+      "leagues": [
+        238,
+        58,
+        151,
+        287,
+        418,
+        432
+      ],
+      "name": "Pamba Jiji",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "pamba",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        106
+      ]
+    },
+    {
+      "abbreviation": "GEITA",
+      "id": 322,
+      "leagues": [
+        91,
+        419,
+        290,
+        134,
+        236,
+        432
+      ],
+      "name": "Geita Gold",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "geita-gold",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        434
+      ]
+    },
+    {
+      "abbreviation": "TRA",
+      "id": 325,
+      "leagues": [
+        151,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "TRA United",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tabora-united",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "TRANSIT",
+      "id": 326,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Transit Camp",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "transit-camp",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "Rhino Rangers",
+      "id": 330,
+      "leagues": [
+        58,
+        258,
+        323,
+        422,
+        444
+      ],
+      "name": "Rhino Rangers",
+      "seasons": [
+        23,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "rhino-rangers-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        423
+      ]
+    },
+    {
+      "abbreviation": "MBUNI",
+      "id": 340,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Mbuni FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mbuni-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "MASHUJAA",
+      "id": 344,
+      "leagues": [
+        151,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Mashujaa FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mashujaa-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        97
+      ]
+    },
+    {
+      "abbreviation": "Stand",
+      "id": 349,
+      "leagues": [
+        238,
+        419,
+        290,
+        444,
+        59
+      ],
+      "name": "Stand United",
+      "seasons": [
+        23,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "stand-united",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        275
+      ]
+    },
+    {
+      "abbreviation": "SONGEA UTD",
+      "id": 429,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Songea United",
+      "seasons": [
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "fountain-gate-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        104
+      ]
+    },
+    {
+      "abbreviation": "SINGIDA BS",
+      "id": 2189,
+      "leagues": [
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Singida BS",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "singida-black-stars",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        427
+      ]
+    },
+    {
+      "abbreviation": "Fountain Gate",
+      "id": 2582,
+      "leagues": [
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Fountain Gate",
+      "seasons": [
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "fountain-gate-3",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        313
+      ]
+    },
+    {
+      "abbreviation": "TMA",
+      "id": 4536,
+      "leagues": [
+        238,
+        419,
+        290,
+        444
+      ],
+      "name": "TMA FC",
+      "seasons": [
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tma-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "B19",
+      "id": 6048,
+      "leagues": [
+        58,
+        258,
+        323,
+        419,
+        444
+      ],
+      "name": "B19 FC",
+      "seasons": [
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tanesco-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        30
+      ]
+    },
+    {
+      "abbreviation": "Gunners",
+      "id": 10894,
+      "leagues": [
+        323,
+        419,
+        444
+      ],
+      "name": "Gunners FC",
+      "seasons": [
+        288,
+        417,
+        431
+      ],
+      "slug": "gunners-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        29
+      ]
+    },
+    {
+      "abbreviation": "IAA",
+      "id": 14179,
+      "leagues": [
+        422,
+        444
+      ],
+      "name": "IAA SC",
+      "seasons": [
+        417,
+        431
+      ],
+      "slug": "iaa-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "BANDARI",
+      "id": 14180,
+      "leagues": [
+        421,
+        444
+      ],
+      "name": "Bandari Tanzania",
+      "seasons": [
+        417,
+        431
+      ],
+      "slug": "bandari-tanzania",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        125
+      ]
+    }
+  ]
+}

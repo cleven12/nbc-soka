@@ -1,0 +1,46 @@
+[project]
+name = "nbc-soka"
+version = "0.1.0"
+description = "Professional scraper and data pipeline for Tanzanian football."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "httpx",
+  "rich",
+  "typer",
+  "pydantic",
+  "orjson",
+  "tenacity",
+  "fastapi",
+  "uvicorn[standard]",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest",
+  "ruff",
+  "black",
+  "mypy",
+  "pre-commit",
+  "httpx",
+]
+
+[project.scripts]
+nbc-soka = "scraper.cli:main"
+tfs = "scraper.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["scraper*", "api*"]
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

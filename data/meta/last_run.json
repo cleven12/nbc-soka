@@ -1,0 +1,201 @@
+{
+  "mode": "incremental",
+  "modified_after_used": "2026-08-07T11:20:51+00:00",
+  "ok": true,
+  "resource_counts": {
+    "calendars": 21,
+    "events": 1915,
+    "leagues": 30,
+    "lists": 31,
+    "seasons": 7,
+    "tables": 12,
+    "teams": 51,
+    "venues": 55
+  },
+  "scraped_at": "2026-08-07T13:37:32+00:00",
+  "season_plan": {
+    "active_league_ids": [
+      236,
+      238,
+      287,
+      290,
+      414,
+      415,
+      416,
+      418,
+      419,
+      432,
+      444
+    ],
+    "active_season_ids": [
+      288,
+      417,
+      431
+    ],
+    "competitions": [
+      {
+        "id": 151,
+        "kind": "nbc_championship",
+        "name": "NBC CHAMPIONSHIP LEAGUE 2022/2023",
+        "season_ids": [],
+        "slug": "nbc-championship-league-2022-23"
+      },
+      {
+        "id": 238,
+        "kind": "nbc_championship",
+        "name": "NBC CHAMPIONSHIP LEAGUE 2023/2024",
+        "season_ids": [],
+        "slug": "championship-league-2023-24"
+      },
+      {
+        "id": 290,
+        "kind": "nbc_championship",
+        "name": "NBC CHAMPIONSHIP LEAGUE 2024/2025",
+        "season_ids": [],
+        "slug": "nbc-championship-league-2024-2025"
+      },
+      {
+        "id": 419,
+        "kind": "nbc_championship",
+        "name": "NBC CHAMPIONSHIP LEAGUE 2025/2026",
+        "season_ids": [],
+        "slug": "nbc-championship-2025-2026"
+      },
+      {
+        "id": 444,
+        "kind": "nbc_championship",
+        "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
+        "season_ids": [],
+        "slug": "nbc-championship-league-2026-27"
+      },
+      {
+        "id": 415,
+        "kind": "nbc_championship",
+        "name": "NBC CHAMPIONSHIP LEAGUE PROMOTION PLAY OFFS 2024/2025",
+        "season_ids": [],
+        "slug": "nbc-championship-league-promotion-play-offs-2024-2025"
+      },
+      {
+        "id": 285,
+        "kind": "nbc_championship",
+        "name": "NBC CHAMPIONSHIP PROMOTION TO NBC PL PLAYOFFS",
+        "season_ids": [],
+        "slug": "nbc-championship-promotion-to-nbcpl-playoffs"
+      },
+      {
+        "id": 134,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE 2022/23",
+        "season_ids": [],
+        "slug": "nbc-premier-league-2022-23"
+      },
+      {
+        "id": 236,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE 2023/2024",
+        "season_ids": [],
+        "slug": "nbc-premier-league-2023-2024"
+      },
+      {
+        "id": 287,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE 2024/2025",
+        "season_ids": [],
+        "slug": "nbc-premier-league-2024-25"
+      },
+      {
+        "id": 418,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE 2025/2026",
+        "season_ids": [],
+        "slug": "nbc-premier-league-2025-2026"
+      },
+      {
+        "id": 432,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE 2026/2027",
+        "season_ids": [],
+        "slug": "nbc-premier-league-2026-2027"
+      },
+      {
+        "id": 289,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE PROMOTION/RELEGATION PLAY OFFS",
+        "season_ids": [],
+        "slug": "nbc-premier-league-promotion-relegation-play-offs"
+      },
+      {
+        "id": 414,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE RELEGATION PLAYOFF 2024/2025",
+        "season_ids": [],
+        "slug": "nbc-premier-league-relegation-playoff-2024-2025"
+      },
+      {
+        "id": 286,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE RELEGATION PLAYOFFS",
+        "season_ids": [],
+        "slug": "nbc-premier-league-2023-24"
+      },
+      {
+        "id": 416,
+        "kind": "nbc_premier",
+        "name": "NBC PREMIER LEAGUE RELEGATION/ PROMOTION PLAY OFF 2024/2025",
+        "season_ids": [],
+        "slug": "nbc-premier-league-relegation-promotion-play-off"
+      }
+    ],
+    "focus_labels": [
+      "nbc_championship:championship-league-2023-24",
+      "nbc_championship:nbc-championship-2025-2026",
+      "nbc_championship:nbc-championship-league-2024-2025",
+      "nbc_championship:nbc-championship-league-2026-27",
+      "nbc_championship:nbc-championship-league-promotion-play-offs-2024-2025",
+      "nbc_premier:nbc-premier-league-2023-2024",
+      "nbc_premier:nbc-premier-league-2024-25",
+      "nbc_premier:nbc-premier-league-2025-2026",
+      "nbc_premier:nbc-premier-league-2026-2027",
+      "nbc_premier:nbc-premier-league-relegation-playoff-2024-2025",
+      "nbc_premier:nbc-premier-league-relegation-promotion-play-off"
+    ],
+    "seasons": [
+      {
+        "id": 431,
+        "name": "2026/27",
+        "slug": "2026-27"
+      },
+      {
+        "id": 417,
+        "name": "2025/26",
+        "slug": "2025-26"
+      },
+      {
+        "id": 288,
+        "name": "2024/25",
+        "slug": "2024-25"
+      },
+      {
+        "id": 235,
+        "name": "2023/24",
+        "slug": "2023-24"
+      },
+      {
+        "id": 135,
+        "name": "2022/23",
+        "slug": "2022-23"
+      },
+      {
+        "id": 87,
+        "name": "2021/22",
+        "slug": "2021-22"
+      },
+      {
+        "id": 23,
+        "name": "2020/21",
+        "slug": "2020-21"
+      }
+    ]
+  },
+  "source": "ligikuu"
+}

@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.coverage
+dist/
+build/
+output/
+node_modules/
+web/dist/
+web/.env.local
+*.swp
+*.swo
+*~
+last.txt
+.session*
+# Keep committed datasets under data/ (CI refreshes them). Ignore local caches only.
+data/**/*.sqlite3
+data/.cache/
+*.sqlite3
+.DS_Store
+.vscode/

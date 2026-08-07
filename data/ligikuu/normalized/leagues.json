@@ -1,0 +1,250 @@
+{
+  "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
+  "count": 30,
+  "filters": {},
+  "items": [
+    {
+      "count": 35,
+      "description": "",
+      "id": 21,
+      "name": "FIRST DIVISION LEAGUE GROUP A",
+      "parent": 0,
+      "slug": "first-division-league-group-a"
+    },
+    {
+      "count": 37,
+      "description": "",
+      "id": 58,
+      "name": "FIRST DIVISION LEAGUE GROUP B",
+      "parent": 0,
+      "slug": "first-division-league-group-b"
+    },
+    {
+      "count": 56,
+      "description": "",
+      "id": 88,
+      "name": "FIRST LEAGUE GROUP A 2023/24",
+      "parent": 0,
+      "slug": "first-league-group-a"
+    },
+    {
+      "count": 67,
+      "description": "",
+      "id": 322,
+      "name": "FIRST LEAGUE GROUP A 2024/2025",
+      "parent": 0,
+      "slug": "first-league-group-a-2024-2025"
+    },
+    {
+      "count": 65,
+      "description": "",
+      "id": 421,
+      "name": "FIRST LEAGUE GROUP A 2025/2026",
+      "parent": 0,
+      "slug": "first-league-group-a-2025-2026"
+    },
+    {
+      "count": 4,
+      "description": "",
+      "id": 89,
+      "name": "FIRST LEAGUE GROUP B",
+      "parent": 0,
+      "slug": "first-league-group-b"
+    },
+    {
+      "count": 68,
+      "description": "",
+      "id": 258,
+      "name": "FIRST LEAGUE GROUP B 2023/24",
+      "parent": 0,
+      "slug": "first-league-group-b-2023-24"
+    },
+    {
+      "count": 67,
+      "description": "",
+      "id": 323,
+      "name": "FIRST LEAGUE GROUP B 2024/2025",
+      "parent": 0,
+      "slug": "first-league-group-b-2024-2025"
+    },
+    {
+      "count": 69,
+      "description": "",
+      "id": 422,
+      "name": "FIRST LEAGUE GROUP B 2025/2026",
+      "parent": 0,
+      "slug": "first-league-group-b-2025-2026"
+    },
+    {
+      "count": 139,
+      "description": "",
+      "id": 91,
+      "name": "LIGI KUU 2021/22",
+      "parent": 0,
+      "slug": "ligi-kuu"
+    },
+    {
+      "count": 18,
+      "description": "",
+      "id": 151,
+      "name": "NBC CHAMPIONSHIP LEAGUE 2022/2023",
+      "parent": 0,
+      "slug": "nbc-championship-league-2022-23"
+    },
+    {
+      "count": 259,
+      "description": "",
+      "id": 238,
+      "name": "NBC CHAMPIONSHIP LEAGUE 2023/2024",
+      "parent": 0,
+      "slug": "championship-league-2023-24"
+    },
+    {
+      "count": 264,
+      "description": "",
+      "id": 290,
+      "name": "NBC CHAMPIONSHIP LEAGUE 2024/2025",
+      "parent": 0,
+      "slug": "nbc-championship-league-2024-2025"
+    },
+    {
+      "count": 741,
+      "description": "",
+      "id": 419,
+      "name": "NBC CHAMPIONSHIP LEAGUE 2025/2026",
+      "parent": 0,
+      "slug": "nbc-championship-2025-2026"
+    },
+    {
+      "count": 17,
+      "description": "",
+      "id": 444,
+      "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
+      "parent": 0,
+      "slug": "nbc-championship-league-2026-27"
+    },
+    {
+      "count": 3,
+      "description": "",
+      "id": 415,
+      "name": "NBC CHAMPIONSHIP LEAGUE PROMOTION PLAY OFFS 2024/2025",
+      "parent": 0,
+      "slug": "nbc-championship-league-promotion-play-offs-2024-2025"
+    },
+    {
+      "count": 4,
+      "description": "",
+      "id": 285,
+      "name": "NBC CHAMPIONSHIP PROMOTION TO NBC PL PLAYOFFS",
+      "parent": 0,
+      "slug": "nbc-championship-promotion-to-nbcpl-playoffs"
+    },
+    {
+      "count": 260,
+      "description": "",
+      "id": 134,
+      "name": "NBC PREMIER LEAGUE 2022/23",
+      "parent": 0,
+      "slug": "nbc-premier-league-2022-23"
+    },
+    {
+      "count": 808,
+      "description": "",
+      "id": 236,
+      "name": "NBC PREMIER LEAGUE 2023/2024",
+      "parent": 0,
+      "slug": "nbc-premier-league-2023-2024"
+    },
+    {
+      "count": 820,
+      "description": "",
+      "id": 287,
+      "name": "NBC PREMIER LEAGUE 2024/2025",
+      "parent": 0,
+      "slug": "nbc-premier-league-2024-25"
+    },
+    {
+      "count": 820,
+      "description": "",
+      "id": 418,
+      "name": "NBC PREMIER LEAGUE 2025/2026",
+      "parent": 0,
+      "slug": "nbc-premier-league-2025-2026"
+    },
+    {
+      "count": 18,
+      "description": "",
+      "id": 432,
+      "name": "NBC PREMIER LEAGUE 2026/2027",
+      "parent": 0,
+      "slug": "nbc-premier-league-2026-2027"
+    },
+    {
+      "count": 3,
+      "description": "",
+      "id": 289,
+      "name": "NBC PREMIER LEAGUE PROMOTION/RELEGATION PLAY OFFS",
+      "parent": 0,
+      "slug": "nbc-premier-league-promotion-relegation-play-offs"
+    },
+    {
+      "count": 3,
+      "description": "",
+      "id": 414,
+      "name": "NBC PREMIER LEAGUE RELEGATION PLAYOFF 2024/2025",
+      "parent": 0,
+      "slug": "nbc-premier-league-relegation-playoff-2024-2025"
+    },
+    {
+      "count": 4,
+      "description": "",
+      "id": 286,
+      "name": "NBC PREMIER LEAGUE RELEGATION PLAYOFFS",
+      "parent": 0,
+      "slug": "nbc-premier-league-2023-24"
+    },
+    {
+      "count": 3,
+      "description": "",
+      "id": 416,
+      "name": "NBC PREMIER LEAGUE RELEGATION/ PROMOTION PLAY OFF 2024/2025",
+      "parent": 0,
+      "slug": "nbc-premier-league-relegation-promotion-play-off"
+    },
+    {
+      "count": 22,
+      "description": "",
+      "id": 22,
+      "name": "SECOND DIVISION LEAGUE GROUP A",
+      "parent": 0,
+      "slug": "second-division-league-group-a"
+    },
+    {
+      "count": 15,
+      "description": "",
+      "id": 59,
+      "name": "SECOND DIVISION LEAGUE GROUP B",
+      "parent": 0,
+      "slug": "second-division-league-group-b"
+    },
+    {
+      "count": 20,
+      "description": "",
+      "id": 60,
+      "name": "SECOND DIVISION LEAGUE GROUP C",
+      "parent": 0,
+      "slug": "second-division-league-group-c"
+    },
+    {
+      "count": 152,
+      "description": "",
+      "id": 20,
+      "name": "VODACOM PREMIER LEAGUE",
+      "parent": 0,
+      "slug": "vodacom-premier-league"
+    }
+  ],
+  "resource": "leagues",
+  "scraped_at": "2026-08-07T13:37:33+00:00",
+  "source": "ligikuu"
+}

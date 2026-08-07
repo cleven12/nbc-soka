@@ -1,0 +1,1265 @@
+{
+  "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
+  "count": 51,
+  "filters": {
+    "active_league_ids": [
+      236,
+      238,
+      287,
+      290,
+      414,
+      415,
+      416,
+      418,
+      419,
+      432,
+      444
+    ],
+    "active_season_ids": [
+      288,
+      417,
+      431
+    ],
+    "delta_count": 0,
+    "full": false,
+    "incremental": true,
+    "modified_after": "2026-08-07T11:20:51+00:00"
+  },
+  "items": [
+    {
+      "abbreviation": "Bigman",
+      "id": 266,
+      "leagues": [
+        58,
+        258,
+        419,
+        290,
+        444
+      ],
+      "name": "BIGMAN FC",
+      "seasons": [
+        87,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mwadui-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        420
+      ]
+    },
+    {
+      "abbreviation": "DODOMA",
+      "id": 267,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Dodoma Jiji",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "dodoma-jiji-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        29
+      ]
+    },
+    {
+      "abbreviation": "JKT",
+      "id": 268,
+      "leagues": [
+        151,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "JKT Tanzania",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "jkt-tanzania",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        279
+      ]
+    },
+    {
+      "abbreviation": "KAGERA",
+      "id": 269,
+      "leagues": [
+        91,
+        419,
+        134,
+        236,
+        287,
+        432
+      ],
+      "name": "Kagera Sugar",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "kagera-sugar",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        95
+      ]
+    },
+    {
+      "abbreviation": "COASTAL",
+      "id": 278,
+      "leagues": [
+        88,
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Coastal Union",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "coastal-union-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        25
+      ]
+    },
+    {
+      "abbreviation": "KMC",
+      "id": 281,
+      "leagues": [
+        91,
+        444,
+        134,
+        236,
+        287,
+        418
+      ],
+      "name": "KMC FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "kmc-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        309
+      ]
+    },
+    {
+      "abbreviation": "MTIBWA",
+      "id": 283,
+      "leagues": [
+        91,
+        290,
+        444,
+        134,
+        236,
+        418
+      ],
+      "name": "Mtibwa Sugar",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mtibwa-sugar",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        29
+      ]
+    },
+    {
+      "abbreviation": "MBEYA C.",
+      "id": 285,
+      "leagues": [
+        238,
+        91,
+        290,
+        134,
+        418,
+        432
+      ],
+      "name": "Mbeya City",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mbeya-city-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        31
+      ]
+    },
+    {
+      "abbreviation": "NAMUNGO",
+      "id": 286,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Namungo FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "namungo-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        27
+      ]
+    },
+    {
+      "abbreviation": "POLISI",
+      "id": 288,
+      "leagues": [
+        238,
+        91,
+        419,
+        290,
+        134,
+        432
+      ],
+      "name": "Polisi Tanzania",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "polisi-tanzania",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        93
+      ]
+    },
+    {
+      "abbreviation": "RUVU",
+      "id": 289,
+      "leagues": [
+        238,
+        323,
+        91,
+        134
+      ],
+      "name": "Ruvu Shooting",
+      "seasons": [
+        87,
+        135,
+        235,
+        288
+      ],
+      "slug": "ruvu-shooting-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        103
+      ]
+    },
+    {
+      "abbreviation": "PRISONS",
+      "id": 290,
+      "leagues": [
+        91,
+        444,
+        134,
+        236,
+        287,
+        418
+      ],
+      "name": "Tanzania Prisons",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tanzania-prisons",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        31
+      ]
+    },
+    {
+      "abbreviation": "SIMBA",
+      "id": 291,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Simba SC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "simba-sc",
+      "status": "publish",
+      "url": "https://simbasc.co.tz/",
+      "venues": [
+        442
+      ]
+    },
+    {
+      "abbreviation": "YOUNG AFRICANS",
+      "id": 292,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Young Africans",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "young-africans-sc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        442
+      ]
+    },
+    {
+      "abbreviation": "AZAM",
+      "id": 294,
+      "leagues": [
+        91,
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Azam FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "azam-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        280
+      ]
+    },
+    {
+      "abbreviation": "BIASHARA",
+      "id": 298,
+      "leagues": [
+        238,
+        422,
+        91,
+        151,
+        290
+      ],
+      "name": "Biashara United",
+      "seasons": [
+        135,
+        235,
+        288,
+        417
+      ],
+      "slug": "biashara-united",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        28
+      ]
+    },
+    {
+      "abbreviation": "A. SPORTS",
+      "id": 311,
+      "leagues": [
+        88,
+        419,
+        151,
+        290
+      ],
+      "name": "African Sports",
+      "seasons": [
+        23,
+        135,
+        235,
+        288,
+        417
+      ],
+      "slug": "african-sports-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        25
+      ]
+    },
+    {
+      "abbreviation": "MBEYA K.",
+      "id": 312,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Mbeya Kwanza",
+      "seasons": [
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mbeya-kwanza",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        125
+      ]
+    },
+    {
+      "abbreviation": "KEN G.",
+      "id": 315,
+      "leagues": [
+        238,
+        419,
+        151,
+        444,
+        287
+      ],
+      "name": "Kengold FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "kengold-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        31
+      ]
+    },
+    {
+      "abbreviation": "LYON",
+      "id": 317,
+      "leagues": [
+        88,
+        322
+      ],
+      "name": "African Lyon",
+      "seasons": [
+        87,
+        235,
+        288
+      ],
+      "slug": "african-lyon",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "PAMBA",
+      "id": 321,
+      "leagues": [
+        238,
+        58,
+        151,
+        287,
+        418,
+        432
+      ],
+      "name": "Pamba Jiji",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "pamba",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        106
+      ]
+    },
+    {
+      "abbreviation": "GEITA",
+      "id": 322,
+      "leagues": [
+        91,
+        419,
+        290,
+        134,
+        236,
+        432
+      ],
+      "name": "Geita Gold",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "geita-gold",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        434
+      ]
+    },
+    {
+      "abbreviation": "TRA",
+      "id": 325,
+      "leagues": [
+        151,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "TRA United",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tabora-united",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "TRANSIT",
+      "id": 326,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Transit Camp",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "transit-camp",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "Rhino Rangers",
+      "id": 330,
+      "leagues": [
+        58,
+        258,
+        323,
+        422,
+        444
+      ],
+      "name": "Rhino Rangers",
+      "seasons": [
+        23,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "rhino-rangers-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        423
+      ]
+    },
+    {
+      "abbreviation": "ALLIANCE",
+      "id": 333,
+      "leagues": [
+        58,
+        89,
+        258,
+        323,
+        422
+      ],
+      "name": "Alliance FC",
+      "seasons": [
+        87,
+        235,
+        288,
+        417
+      ],
+      "slug": "alliance-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        101
+      ]
+    },
+    {
+      "abbreviation": "Pan",
+      "id": 337,
+      "leagues": [
+        238,
+        322,
+        421,
+        151,
+        22
+      ],
+      "name": "Pan African",
+      "seasons": [
+        23,
+        87,
+        135,
+        235,
+        288,
+        417
+      ],
+      "slug": "pan-african",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "GREEN W.",
+      "id": 338,
+      "leagues": [
+        238,
+        421,
+        151,
+        290
+      ],
+      "name": "Green Warriors",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417
+      ],
+      "slug": "green-warriors",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "MBUNI",
+      "id": 340,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Mbuni FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mbuni-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "Cosmo",
+      "id": 341,
+      "leagues": [
+        238,
+        421,
+        290,
+        22
+      ],
+      "name": "Cosmopolitan FC",
+      "seasons": [
+        23,
+        235,
+        288,
+        417
+      ],
+      "slug": "cosmopolitan-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        30
+      ]
+    },
+    {
+      "abbreviation": "MASHUJAA",
+      "id": 344,
+      "leagues": [
+        151,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Mashujaa FC",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "mashujaa-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        97
+      ]
+    },
+    {
+      "abbreviation": "Stand",
+      "id": 349,
+      "leagues": [
+        238,
+        419,
+        290,
+        444,
+        59
+      ],
+      "name": "Stand United",
+      "seasons": [
+        23,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "stand-united",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        275
+      ]
+    },
+    {
+      "abbreviation": "TUNDURU",
+      "id": 350,
+      "leagues": [
+        88,
+        322
+      ],
+      "name": "Tunduru Korosho",
+      "seasons": [
+        87,
+        235,
+        288
+      ],
+      "slug": "tunduru-korosho-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        104
+      ]
+    },
+    {
+      "abbreviation": "DAR CITY",
+      "id": 354,
+      "leagues": [
+        88,
+        322,
+        421
+      ],
+      "name": "Dar City",
+      "seasons": [
+        87,
+        235,
+        288,
+        417
+      ],
+      "slug": "dar-city",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        132
+      ]
+    },
+    {
+      "abbreviation": "SONGEA UTD",
+      "id": 429,
+      "leagues": [
+        238,
+        419,
+        151,
+        290,
+        444
+      ],
+      "name": "Songea United",
+      "seasons": [
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "fountain-gate-2",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        104
+      ]
+    },
+    {
+      "abbreviation": "COPCO",
+      "id": 1665,
+      "leagues": [
+        238,
+        323,
+        422,
+        151
+      ],
+      "name": "Copco FC",
+      "seasons": [
+        135,
+        235,
+        288,
+        417
+      ],
+      "slug": "copco-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        101
+      ]
+    },
+    {
+      "abbreviation": "SINGIDA BS",
+      "id": 2189,
+      "leagues": [
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Singida BS",
+      "seasons": [
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "singida-black-stars",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        427
+      ]
+    },
+    {
+      "abbreviation": "Fountain Gate",
+      "id": 2582,
+      "leagues": [
+        134,
+        236,
+        287,
+        418,
+        432
+      ],
+      "name": "Fountain Gate",
+      "seasons": [
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "fountain-gate-3",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        313
+      ]
+    },
+    {
+      "abbreviation": "TMA",
+      "id": 4536,
+      "leagues": [
+        238,
+        419,
+        290,
+        444
+      ],
+      "name": "TMA FC",
+      "seasons": [
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tma-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "Barberian",
+      "id": 6039,
+      "leagues": [
+        88,
+        419,
+        290
+      ],
+      "name": "Barberian FC",
+      "seasons": [
+        235,
+        288,
+        417
+      ],
+      "slug": "kiluvya-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "Magnet",
+      "id": 6041,
+      "leagues": [
+        88,
+        322,
+        421
+      ],
+      "name": "Magnet FC",
+      "seasons": [
+        235,
+        288,
+        417
+      ],
+      "slug": "malimao-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "Nyumbu",
+      "id": 6043,
+      "leagues": [
+        88,
+        322,
+        421
+      ],
+      "name": "Nyumbu FC",
+      "seasons": [
+        235,
+        288,
+        417
+      ],
+      "slug": "nyumbu-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "MAPINDUZI",
+      "id": 6044,
+      "leagues": [
+        58,
+        258,
+        323,
+        422
+      ],
+      "name": "Mapinduzi FC",
+      "seasons": [
+        235,
+        288,
+        417
+      ],
+      "slug": "mapinduzi-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        101
+      ]
+    },
+    {
+      "abbreviation": "ENDUMENT",
+      "id": 6046,
+      "leagues": [
+        58,
+        258,
+        323,
+        422
+      ],
+      "name": "Endument FC",
+      "seasons": [
+        235,
+        288,
+        417
+      ],
+      "slug": "tra-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        93
+      ]
+    },
+    {
+      "abbreviation": "B19",
+      "id": 6048,
+      "leagues": [
+        58,
+        258,
+        323,
+        419,
+        444
+      ],
+      "name": "B19 FC",
+      "seasons": [
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "tanesco-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        30
+      ]
+    },
+    {
+      "abbreviation": "Moro Kids",
+      "id": 10892,
+      "leagues": [
+        322,
+        421
+      ],
+      "name": "Moro Kids",
+      "seasons": [
+        288,
+        417
+      ],
+      "slug": "moro-kids-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        30
+      ]
+    },
+    {
+      "abbreviation": "HAUSUNG",
+      "id": 10893,
+      "leagues": [
+        322,
+        419
+      ],
+      "name": "Hausung FC",
+      "seasons": [
+        288,
+        417
+      ],
+      "slug": "hausang-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        105
+      ]
+    },
+    {
+      "abbreviation": "Gunners",
+      "id": 10894,
+      "leagues": [
+        323,
+        419,
+        444
+      ],
+      "name": "Gunners FC",
+      "seasons": [
+        288,
+        417,
+        431
+      ],
+      "slug": "gunners-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        29
+      ]
+    },
+    {
+      "abbreviation": "NKIM",
+      "id": 14178,
+      "leagues": [
+        422
+      ],
+      "name": "NKIM FC",
+      "seasons": [
+        417
+      ],
+      "slug": "misitu-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        25
+      ]
+    },
+    {
+      "abbreviation": "IAA",
+      "id": 14179,
+      "leagues": [
+        422,
+        444
+      ],
+      "name": "IAA SC",
+      "seasons": [
+        417,
+        431
+      ],
+      "slug": "iaa-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        143
+      ]
+    },
+    {
+      "abbreviation": "BANDARI",
+      "id": 14180,
+      "leagues": [
+        421,
+        444
+      ],
+      "name": "Bandari Tanzania",
+      "seasons": [
+        417,
+        431
+      ],
+      "slug": "bandari-tanzania",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        125
+      ]
+    }
+  ],
+  "resource": "teams",
+  "scraped_at": "2026-08-07T13:37:34+00:00",
+  "source": "ligikuu"
+}

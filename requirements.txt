@@ -1,0 +1,10 @@
+# Full project (scraper + API + tests)
+httpx
+rich
+typer
+pydantic
+orjson
+tenacity
+fastapi
+uvicorn[standard]
+pytest

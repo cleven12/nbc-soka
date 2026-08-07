@@ -1,0 +1,66 @@
+{
+  "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
+  "count": 7,
+  "filters": {},
+  "items": [
+    {
+      "count": 271,
+      "description": "",
+      "id": 23,
+      "name": "2020/21",
+      "parent": 0,
+      "slug": "2020-21"
+    },
+    {
+      "count": 312,
+      "description": "",
+      "id": 87,
+      "name": "2021/22",
+      "parent": 0,
+      "slug": "2021-22"
+    },
+    {
+      "count": 277,
+      "description": "",
+      "id": 135,
+      "name": "2022/23",
+      "parent": 0,
+      "slug": "2022-23"
+    },
+    {
+      "count": 1201,
+      "description": "",
+      "id": 235,
+      "name": "2023/24",
+      "parent": 0,
+      "slug": "2023-24"
+    },
+    {
+      "count": 1229,
+      "description": "",
+      "id": 288,
+      "name": "2024/25",
+      "parent": 0,
+      "slug": "2024-25"
+    },
+    {
+      "count": 1689,
+      "description": "",
+      "id": 417,
+      "name": "2025/26",
+      "parent": 0,
+      "slug": "2025-26"
+    },
+    {
+      "count": 35,
+      "description": "",
+      "id": 431,
+      "name": "2026/27",
+      "parent": 0,
+      "slug": "2026-27"
+    }
+  ],
+  "resource": "seasons",
+  "scraped_at": "2026-08-07T13:37:33+00:00",
+  "source": "ligikuu"
+}

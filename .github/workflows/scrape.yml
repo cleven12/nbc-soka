@@ -1,0 +1,96 @@
+name: Update NBC scores
+
+on:
+  schedule:
+    # Every 6 hours — picks up NBC 2026/27 (and other seasons) automatically
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Full dump (all seasons, no filter)"
+        type: boolean
+        default: false
+      seasons:
+        description: "How many recent seasons to keep"
+        type: number
+        default: 3
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-ligikuu
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install (scraper only)
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx rich typer pydantic orjson tenacity
+          pip install -e . --no-deps
+
+      - name: Collect latest scores & tables
+        env:
+          FULL: ${{ github.event.inputs.full || 'false' }}
+          SEASONS: ${{ github.event.inputs.seasons || '3' }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          # Default: incremental (modified_after + merge-by-id) when data/ has last_run.
+          # workflow_dispatch full=true → full unfiltered rebuild.
+          #
+          # ligikuu.co.tz sometimes returns a JSON *object* (WAF / transient REST error)
+          # instead of a collection list — client retries, and we also retry the whole run.
+          echo "SCRAPE_OK=false" >> "${GITHUB_ENV}"
+          ARGS=(--seasons "${SEASONS}")
+          if [ "${FULL}" = "true" ]; then
+            ARGS+=(--full)
+          fi
+          attempt=1
+          max_attempts=3
+          while true; do
+            echo "::group::Scrape attempt ${attempt}/${max_attempts}"
+            if python -m scraper run "${ARGS[@]}"; then
+              echo "::endgroup::"
+              echo "SCRAPE_OK=true" >> "${GITHUB_ENV}"
+              break
+            fi
+            echo "::endgroup::"
+            if [ "${attempt}" -ge "${max_attempts}" ]; then
+              if [ "${EVENT_NAME}" = "schedule" ]; then
+                echo "::warning::Scrape failed after ${max_attempts} attempts; scheduled run skipped because ligikuu.co.tz may be blocking or down."
+                exit 0
+              fi
+              echo "::error::Scrape failed after ${max_attempts} attempts (source may be blocking or down). Manual runs stay strict."
+              exit 1
+            fi
+            sleep_s=$(( attempt * 90 ))
+            echo "Transient failure talking to ligikuu.co.tz — retrying in ${sleep_s}s…"
+            sleep "${sleep_s}"
+            attempt=$(( attempt + 1 ))
+          done
+
+      - name: Save data to the repository
+        if: env.SCRAPE_OK == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No score/table changes."
+          else
+            git commit -m "data: refresh NBC Ligi Kuu scores $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

@@ -1,0 +1,17 @@
+# Live-friendly stack: serve scraped JSON on port 8000.
+# Usage:
+#   python -m scraper run          # fill data/ first (host)
+#   docker compose up --build
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DATA_DIR: /app/data
+      PORT: "8000"
+    volumes:
+      # Live-update data from the host without rebuilding the image
+      - ./data:/app/data:ro
+    restart: unless-stopped

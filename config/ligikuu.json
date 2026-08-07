@@ -1,0 +1,446 @@
+{
+  "id": "ligikuu",
+  "name": "LIGI KUU",
+  "description": "Tanzania Premier League Board official site (WordPress + SportsPress)",
+  "site_url": "https://ligikuu.co.tz",
+  "home": "https://ligikuu.co.tz",
+  "api_root": "https://ligikuu.co.tz/wp-json/",
+  "timezone": "Africa/Nairobi",
+  "gmt_offset": 3,
+  "auth": {
+    "required_for_public_get": false,
+    "notes": "Public GET only. Application passwords exist for WP admin writes \u2014 never use in scraper."
+  },
+  "namespaces": {
+    "primary": "sportspress/v2",
+    "ignore": [
+      "oembed/1.0",
+      "bsf-custom-fonts/v1",
+      "custom-fonts/v1",
+      "sowb/v1",
+      "yoast/v1",
+      "elementor-one/v1",
+      "image-optimizer/v1",
+      "health-check/v1",
+      "wp-statistics/v2",
+      "google-site-kit/v1",
+      "elementor/v1",
+      "elementor/v1/documents",
+      "elementor-ai/v1",
+      "elementor/v1/feedback",
+      "wp-site-health/v1",
+      "wp-block-editor/v1",
+      "wp-abilities/v1"
+    ]
+  },
+  "sportspress": {
+    "base_url": "https://ligikuu.co.tz/wp-json/sportspress/v2",
+    "default_query": {
+      "per_page": 100,
+      "page": 1,
+      "context": "view"
+    },
+    "pagination": {
+      "page_param": "page",
+      "per_page_param": "per_page",
+      "max_per_page": 100,
+      "total_header": "X-WP-Total",
+      "total_pages_header": "X-WP-TotalPages"
+    },
+    "incremental": {
+      "modified_after_param": "modified_after",
+      "after_param": "after",
+      "format": "ISO8601"
+    },
+    "resources": [
+      {
+        "name": "seasons",
+        "path": "/seasons",
+        "item_path": "/seasons/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 1,
+        "enabled": true,
+        "kind": "taxonomy",
+        "output": "seasons.json"
+      },
+      {
+        "name": "leagues",
+        "path": "/leagues",
+        "item_path": "/leagues/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 2,
+        "enabled": true,
+        "kind": "taxonomy",
+        "output": "leagues.json"
+      },
+      {
+        "name": "venues",
+        "path": "/venues",
+        "item_path": "/venues/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 3,
+        "enabled": true,
+        "kind": "taxonomy",
+        "output": "venues.json"
+      },
+      {
+        "name": "teams",
+        "path": "/teams",
+        "item_path": "/teams/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 4,
+        "enabled": true,
+        "kind": "post",
+        "post_type": "sp_team",
+        "output": "teams.json",
+        "fields_of_interest": [
+          "id",
+          "title",
+          "slug",
+          "abbreviation",
+          "leagues",
+          "seasons",
+          "venues",
+          "url",
+          "status"
+        ]
+      },
+      {
+        "name": "tables",
+        "path": "/tables",
+        "item_path": "/tables/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 5,
+        "enabled": true,
+        "kind": "post",
+        "post_type": "sp_table",
+        "output": "tables.json",
+        "fields_of_interest": [
+          "id",
+          "title",
+          "slug",
+          "data",
+          "leagues",
+          "seasons",
+          "status"
+        ],
+        "notes": "data is a map of team_id -> standing row (p,w,d,l,f,a,gd,pts,pos,name)"
+      },
+      {
+        "name": "events",
+        "path": "/events",
+        "item_path": "/events/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 6,
+        "enabled": true,
+        "kind": "post",
+        "post_type": "sp_event",
+        "output": "events.json",
+        "default_query": {
+          "status": "publish",
+          "orderby": "date",
+          "order": "desc"
+        },
+        "fields_of_interest": [
+          "id",
+          "title",
+          "slug",
+          "date",
+          "date_gmt",
+          "status",
+          "teams",
+          "main_results",
+          "outcome",
+          "results",
+          "winner",
+          "leagues",
+          "seasons",
+          "venues",
+          "format",
+          "minutes",
+          "day"
+        ],
+        "notes": "teams[0]=home, teams[1]=away; main_results parallel goals as strings; TBD fixtures may use team id -1"
+      },
+      {
+        "name": "calendars",
+        "path": "/calendars",
+        "item_path": "/calendars/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 7,
+        "enabled": true,
+        "kind": "post",
+        "post_type": "sp_calendar",
+        "output": "calendars.json",
+        "fields_of_interest": [
+          "id",
+          "title",
+          "slug",
+          "data",
+          "leagues",
+          "seasons",
+          "venues",
+          "format",
+          "status"
+        ]
+      },
+      {
+        "name": "lists",
+        "path": "/lists",
+        "item_path": "/lists/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 8,
+        "enabled": true,
+        "kind": "post",
+        "post_type": "sp_list",
+        "output": "lists.json",
+        "notes": "Player leaderboards (goals, assists, etc.)"
+      },
+      {
+        "name": "players",
+        "path": "/players",
+        "item_path": "/players/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 9,
+        "enabled": false,
+        "kind": "post",
+        "post_type": "sp_player",
+        "output": "players.json",
+        "notes": "Large set (~1300+). Enable only when needed."
+      },
+      {
+        "name": "staff",
+        "path": "/staff",
+        "item_path": "/staff/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 10,
+        "enabled": false,
+        "kind": "post",
+        "post_type": "sp_staff",
+        "output": "staff.json"
+      },
+      {
+        "name": "officials",
+        "path": "/officials",
+        "item_path": "/officials/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 11,
+        "enabled": false,
+        "kind": "post",
+        "output": "officials.json"
+      },
+      {
+        "name": "positions",
+        "path": "/positions",
+        "item_path": "/positions/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 12,
+        "enabled": false,
+        "kind": "taxonomy",
+        "output": "positions.json"
+      },
+      {
+        "name": "roles",
+        "path": "/roles",
+        "item_path": "/roles/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 13,
+        "enabled": false,
+        "kind": "taxonomy",
+        "output": "roles.json"
+      },
+      {
+        "name": "duties",
+        "path": "/duties",
+        "item_path": "/duties/{id}",
+        "methods": [
+          "GET"
+        ],
+        "priority": 14,
+        "enabled": false,
+        "kind": "taxonomy",
+        "output": "duties.json"
+      }
+    ]
+  },
+  "focus": {
+    "primary_competition": "nbc_premier_league",
+    "current_season_slug": "2025-26",
+    "upcoming_season_slug": "2026-27",
+    "auto_track_recent_seasons": 3,
+    "notes": "Runner always re-discovers seasons/leagues from the API so NBC 2026/27 is stored as soon as fixtures/results appear.",
+    "seasons": [
+      {
+        "id": 431,
+        "slug": "2026-27",
+        "name": "2026/27"
+      },
+      {
+        "id": 417,
+        "slug": "2025-26",
+        "name": "2025/26"
+      },
+      {
+        "id": 288,
+        "slug": "2024-25",
+        "name": "2024/25"
+      },
+      {
+        "id": 235,
+        "slug": "2023-24",
+        "name": "2023/24"
+      },
+      {
+        "id": 135,
+        "slug": "2022-23",
+        "name": "2022/23"
+      },
+      {
+        "id": 87,
+        "slug": "2021-22",
+        "name": "2021/22"
+      },
+      {
+        "id": 23,
+        "slug": "2020-21",
+        "name": "2020/21"
+      }
+    ],
+    "leagues": {
+      "nbc_premier": [
+        {
+          "id": 432,
+          "slug": "nbc-premier-league-2026-2027",
+          "name": "NBC PREMIER LEAGUE 2026/2027",
+          "season_id": 431
+        },
+        {
+          "id": 418,
+          "slug": "nbc-premier-league-2025-2026",
+          "name": "NBC PREMIER LEAGUE 2025/2026",
+          "season_id": 417
+        },
+        {
+          "id": 287,
+          "slug": "nbc-premier-league-2024-25",
+          "name": "NBC PREMIER LEAGUE 2024/2025",
+          "season_id": 288
+        },
+        {
+          "id": 236,
+          "slug": "nbc-premier-league-2023-2024",
+          "name": "NBC PREMIER LEAGUE 2023/2024",
+          "season_id": 235
+        },
+        {
+          "id": 134,
+          "slug": "nbc-premier-league-2022-23",
+          "name": "NBC PREMIER LEAGUE 2022/23",
+          "season_id": 135
+        }
+      ],
+      "nbc_championship": [
+        {
+          "id": 419,
+          "slug": "nbc-championship-2025-2026",
+          "name": "NBC CHAMPIONSHIP LEAGUE 2025/2026",
+          "season_id": 417
+        },
+        {
+          "id": 290,
+          "slug": "nbc-championship-league-2024-2025",
+          "name": "NBC CHAMPIONSHIP LEAGUE 2024/2025",
+          "season_id": 288
+        }
+      ],
+      "first_league": [
+        {
+          "id": 421,
+          "slug": "first-league-group-a-2025-2026",
+          "name": "FIRST LEAGUE GROUP A 2025/2026",
+          "season_id": 417
+        },
+        {
+          "id": 422,
+          "slug": "first-league-group-b-2025-2026",
+          "name": "FIRST LEAGUE GROUP B 2025/2026",
+          "season_id": 417
+        }
+      ]
+    },
+    "known_tables": [
+      {
+        "id": 17188,
+        "slug": "nbc-premier-league-2026-2027",
+        "title": "NBC PREMIER LEAGUE 2026/2027",
+        "league_id": 432,
+        "season_id": 431
+      },
+      {
+        "id": 13247,
+        "slug": "nbc-premier-league-2025-2026",
+        "title": "NBC PREMIER LEAGUE 2025/2026 STANDING",
+        "league_id": 418,
+        "season_id": 417
+      },
+      {
+        "id": 13248,
+        "slug": "nbc-championship-league-2025-2026",
+        "title": "NBC CHAMPIONSHIP LEAGUE 2025/2026",
+        "league_id": 419,
+        "season_id": 417
+      }
+    ]
+  },
+  "http": {
+    "user_agent": "nbc-soka/0.1 (+https://github.com/cleven12/nbc-soka; public NBC Ligi Kuu data collector)",
+    "timeout_seconds": 45,
+    "max_retries": 6,
+    "retry_backoff_seconds": [
+      1,
+      3,
+      8
+    ],
+    "min_delay_between_requests_ms": 400,
+    "allowed_methods": [
+      "GET"
+    ]
+  },
+  "output": {
+    "dir": "data/ligikuu",
+    "wrap_items": true,
+    "pretty": true
+  },
+  "discovered_at": "2026-07-24",
+  "notes": [
+    "Full WP route dump is huge; runner should only call sportspress/v2 resources listed here.",
+    "Re-fetch https://ligikuu.co.tz/wp-json/ if namespaces change.",
+    "League IDs are season-scoped on this site (new id per season), not a single evergreen NBC id."
+  ]
+}

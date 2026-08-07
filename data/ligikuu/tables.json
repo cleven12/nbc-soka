@@ -1,0 +1,4651 @@
+{
+  "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
+  "count": 12,
+  "filters": {
+    "active_league_ids": [
+      236,
+      238,
+      287,
+      290,
+      414,
+      415,
+      416,
+      418,
+      419,
+      432,
+      444
+    ],
+    "active_season_ids": [
+      288,
+      417,
+      431
+    ],
+    "delta_count": 0,
+    "full": false,
+    "incremental": true,
+    "modified_after": "2026-08-07T11:20:51+00:00"
+  },
+  "items": [
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/4133"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=4133"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=4133",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=4133",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-4133",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-premier-league-2023-2024",
+        "sp_season-2023-24"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": "<p>NBC PREMIER LEAGUE 2023/24</p>\n<p>&nbsp;</p>\n"
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "2189": {
+          "a": "36",
+          "awayrecord": "12",
+          "d": "9",
+          "f": "29",
+          "gd": "-7",
+          "l": "12",
+          "name": "Singida BS",
+          "p": "30",
+          "pos": 7,
+          "pts": "36",
+          "w": "9"
+        },
+        "2582": {
+          "a": "39",
+          "awayrecord": "15",
+          "d": "9",
+          "f": "29",
+          "gd": "-10",
+          "l": "13",
+          "name": "Fountain Gate",
+          "p": "30",
+          "pos": 11,
+          "pts": "33",
+          "w": "8"
+        },
+        "267": {
+          "a": "32",
+          "awayrecord": "10",
+          "d": "9",
+          "f": "19",
+          "gd": "-13",
+          "l": "13",
+          "name": "Dodoma Jiji",
+          "p": "30",
+          "pos": 12,
+          "pts": "33",
+          "w": "8"
+        },
+        "268": {
+          "a": "30",
+          "awayrecord": "10",
+          "d": "14",
+          "f": "21",
+          "gd": "-9",
+          "l": "10",
+          "name": "JKT Tanzania",
+          "p": "30",
+          "pos": 13,
+          "pts": "32",
+          "w": "6"
+        },
+        "269": {
+          "a": "32",
+          "awayrecord": "10",
+          "d": "13",
+          "f": "23",
+          "gd": "-9",
+          "l": "10",
+          "name": "Kagera Sugar",
+          "p": "30",
+          "pos": 10,
+          "pts": "34",
+          "w": "7"
+        },
+        "278": {
+          "a": "19",
+          "awayrecord": "10",
+          "d": "10",
+          "f": "22",
+          "gd": "3",
+          "l": "9",
+          "name": "Coastal Union",
+          "p": "30",
+          "pos": 4,
+          "pts": "43",
+          "w": "11"
+        },
+        "281": {
+          "a": "39",
+          "awayrecord": "7",
+          "d": "13",
+          "f": "27",
+          "gd": "-12",
+          "l": "9",
+          "name": "KMC",
+          "p": "30",
+          "pos": 5,
+          "pts": "37",
+          "w": "8"
+        },
+        "283": {
+          "a": "54",
+          "awayrecord": "13",
+          "d": "6",
+          "f": "30",
+          "gd": "-24",
+          "l": "19",
+          "name": "Mtibwa Sugar",
+          "p": "30",
+          "pos": 16,
+          "pts": "21",
+          "w": "5"
+        },
+        "286": {
+          "a": "29",
+          "awayrecord": "8",
+          "d": "12",
+          "f": "27",
+          "gd": "-2",
+          "l": "10",
+          "name": "Namungo",
+          "p": "30",
+          "pos": 6,
+          "pts": "36",
+          "w": "8"
+        },
+        "290": {
+          "a": "35",
+          "awayrecord": "13",
+          "d": "13",
+          "f": "29",
+          "gd": "-6",
+          "l": "10",
+          "name": "Tanzania Prisons",
+          "p": "30",
+          "pos": 9,
+          "pts": "34",
+          "w": "7"
+        },
+        "291": {
+          "a": "25",
+          "awayrecord": "29",
+          "d": "6",
+          "f": "59",
+          "gd": "34",
+          "l": "3",
+          "name": "Simba",
+          "p": "30",
+          "pos": 3,
+          "pts": "69",
+          "w": "21"
+        },
+        "292": {
+          "a": "14",
+          "awayrecord": "31",
+          "d": "2",
+          "f": "71",
+          "gd": "57",
+          "l": "2",
+          "name": "Young Africans",
+          "p": "30",
+          "pos": 1,
+          "pts": "80",
+          "w": "26"
+        },
+        "294": {
+          "a": "21",
+          "awayrecord": "26",
+          "d": "6",
+          "f": "63",
+          "gd": "42",
+          "l": "3",
+          "name": "Azam",
+          "p": "30",
+          "pos": 2,
+          "pts": "69",
+          "w": "21"
+        },
+        "322": {
+          "a": "38",
+          "awayrecord": "8",
+          "d": "10",
+          "f": "18",
+          "gd": "-20",
+          "l": "15",
+          "name": "Geita Gold",
+          "p": "30",
+          "pos": 15,
+          "pts": "25",
+          "w": "5"
+        },
+        "325": {
+          "a": "41",
+          "awayrecord": "7",
+          "d": "12",
+          "f": "20",
+          "gd": "-21",
+          "l": "13",
+          "name": "TRA United",
+          "p": "30",
+          "pos": 14,
+          "pts": "27",
+          "w": "5"
+        },
+        "344": {
+          "a": "33",
+          "awayrecord": "12",
+          "d": "8",
+          "f": "30",
+          "gd": "-3",
+          "l": "13",
+          "name": "Mashujaa",
+          "p": "30",
+          "pos": 8,
+          "pts": "35",
+          "w": "9"
+        }
+      },
+      "date": "2023-07-05T08:15:00",
+      "date_gmt": "2023-07-05T05:15:00",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=4133"
+      },
+      "id": 4133,
+      "leagues": [
+        236
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/",
+      "menu_order": 0,
+      "modified": "2024-05-29T11:44:14",
+      "modified_gmt": "2024-05-29T08:44:14",
+      "seasons": [
+        235
+      ],
+      "slug": "nbc-premier-league-2023-24",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC PREMIER LEAGUE 2023/24"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC PREMIER LEAGUE 2023/24 - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-premier-league-2023-24/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC PREMIER LEAGUE 2023/24 - LIGI KUU\" />\n<meta property=\"og:description\" content=\"NBC PREMIER LEAGUE 2023/24 &nbsp;\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-premier-league-2023-24/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2024-05-29T08:44:14+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2023-24\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2023-24\\/\",\"name\":\"NBC PREMIER LEAGUE 2023\\/24 - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2023-07-05T05:15:00+00:00\",\"dateModified\":\"2024-05-29T08:44:14+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2023-24\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2023-24\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2023-24\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC PREMIER LEAGUE 2023\\/24\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2024-05-29T08:44:14+00:00",
+        "canonical": "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/",
+        "og_description": "NBC PREMIER LEAGUE 2023/24 &nbsp;",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC PREMIER LEAGUE 2023/24 - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/#breadcrumb"
+              },
+              "dateModified": "2024-05-29T08:44:14+00:00",
+              "datePublished": "2023-07-05T05:15:00+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC PREMIER LEAGUE 2023/24 - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2023-24/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC PREMIER LEAGUE 2023/24",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC PREMIER LEAGUE 2023/24 - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/4305"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=4305"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=4305",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=4305",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-4305",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-championship-league-2023-24",
+        "sp_season-2023-24"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "1665": {
+          "a": "47",
+          "awayrecord": "13",
+          "d": "7",
+          "f": "29",
+          "gd": "-18",
+          "l": "17",
+          "name": "Copco",
+          "p": "30",
+          "pos": 14,
+          "pts": "25",
+          "w": "6"
+        },
+        "285": {
+          "a": "36",
+          "awayrecord": "9",
+          "d": "10",
+          "f": "36",
+          "gd": "0",
+          "l": "9",
+          "name": "Mbeya City",
+          "p": "30",
+          "pos": 6,
+          "pts": "43",
+          "w": "11"
+        },
+        "288": {
+          "a": "34",
+          "awayrecord": "11",
+          "d": "6",
+          "f": "26",
+          "gd": "-8",
+          "l": "13",
+          "name": "Polisi Tanzania",
+          "p": "30",
+          "pos": 8,
+          "pts": "39",
+          "w": "11"
+        },
+        "289": {
+          "a": "59",
+          "awayrecord": "6",
+          "d": "7",
+          "f": "16",
+          "gd": "-43",
+          "l": "21",
+          "name": "Ruvu Shooting",
+          "p": "30",
+          "pos": 16,
+          "pts": "13",
+          "w": "2"
+        },
+        "298": {
+          "a": "21",
+          "awayrecord": "21",
+          "d": "5",
+          "f": "60",
+          "gd": "39",
+          "l": "6",
+          "name": "Biashara UTD",
+          "p": "30",
+          "pos": 4,
+          "pts": "62",
+          "w": "19"
+        },
+        "312": {
+          "a": "28",
+          "awayrecord": "20",
+          "d": "5",
+          "f": "51",
+          "gd": "23",
+          "l": "5",
+          "name": "Mbeya Kwanza",
+          "p": "30",
+          "pos": 3,
+          "pts": "65",
+          "w": "20"
+        },
+        "315": {
+          "a": "18",
+          "awayrecord": "28",
+          "d": "7",
+          "f": "51",
+          "gd": "33",
+          "l": "2",
+          "name": "KenGold",
+          "p": "30",
+          "pos": 1,
+          "pts": "70",
+          "w": "21"
+        },
+        "321": {
+          "a": "18",
+          "awayrecord": "25",
+          "d": "7",
+          "f": "54",
+          "gd": "36",
+          "l": "3",
+          "name": "Pamba Jiji",
+          "p": "30",
+          "pos": 2,
+          "pts": "67",
+          "w": "20"
+        },
+        "326": {
+          "a": "41",
+          "awayrecord": "14",
+          "d": "9",
+          "f": "28",
+          "gd": "-13",
+          "l": "15",
+          "name": "Transit Camp",
+          "p": "30",
+          "pos": 13,
+          "pts": "27",
+          "w": "6"
+        },
+        "337": {
+          "a": "53",
+          "awayrecord": "9",
+          "d": "5",
+          "f": "22",
+          "gd": "-31",
+          "l": "20",
+          "name": "Pan African",
+          "p": "30",
+          "pos": 15,
+          "pts": "20",
+          "w": "5"
+        },
+        "338": {
+          "a": "36",
+          "awayrecord": "12",
+          "d": "10",
+          "f": "29",
+          "gd": "-7",
+          "l": "13",
+          "name": "Green Warriors",
+          "p": "30",
+          "pos": 12,
+          "pts": "31",
+          "w": "7"
+        },
+        "340": {
+          "a": "38",
+          "awayrecord": "16",
+          "d": "6",
+          "f": "45",
+          "gd": "7",
+          "l": "12",
+          "name": "Mbuni",
+          "p": "30",
+          "pos": 7,
+          "pts": "42",
+          "w": "12"
+        },
+        "341": {
+          "a": "40",
+          "awayrecord": "17",
+          "d": "6",
+          "f": "30",
+          "gd": "-10",
+          "l": "13",
+          "name": "Cosmopolitan",
+          "p": "30",
+          "pos": 9,
+          "pts": "39",
+          "w": "11"
+        },
+        "349": {
+          "a": "48",
+          "awayrecord": "13",
+          "d": "8",
+          "f": "27",
+          "gd": "-21",
+          "l": "14",
+          "name": "Stand United",
+          "p": "30",
+          "pos": 11,
+          "pts": "32",
+          "w": "8"
+        },
+        "429": {
+          "a": "35",
+          "awayrecord": "9",
+          "d": "7",
+          "f": "32",
+          "gd": "-3",
+          "l": "14",
+          "name": "Songea United",
+          "p": "30",
+          "pos": 10,
+          "pts": "34",
+          "w": "9"
+        },
+        "4536": {
+          "a": "24",
+          "awayrecord": "22",
+          "d": "9",
+          "f": "40",
+          "gd": "16",
+          "l": "6",
+          "name": "TMA",
+          "p": "30",
+          "pos": 5,
+          "pts": "54",
+          "w": "15"
+        }
+      },
+      "date": "2023-08-22T08:26:09",
+      "date_gmt": "2023-08-22T05:26:09",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=4305"
+      },
+      "id": 4305,
+      "leagues": [
+        238
+      ],
+      "link": "https://ligikuu.co.tz/table/championship-league-2023-2024/",
+      "menu_order": 0,
+      "modified": "2023-08-23T10:18:25",
+      "modified_gmt": "2023-08-23T07:18:25",
+      "seasons": [
+        235
+      ],
+      "slug": "championship-league-2023-2024",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "CHAMPIONSHIP LEAGUE 2023/2024"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>CHAMPIONSHIP LEAGUE 2023/2024 - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/championship-league-2023-2024/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"CHAMPIONSHIP LEAGUE 2023/2024 - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/championship-league-2023-2024/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2023-08-23T07:18:25+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/championship-league-2023-2024\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/championship-league-2023-2024\\/\",\"name\":\"CHAMPIONSHIP LEAGUE 2023\\/2024 - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2023-08-22T05:26:09+00:00\",\"dateModified\":\"2023-08-23T07:18:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/championship-league-2023-2024\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/championship-league-2023-2024\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/championship-league-2023-2024\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CHAMPIONSHIP LEAGUE 2023\\/2024\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2023-08-23T07:18:25+00:00",
+        "canonical": "https://ligikuu.co.tz/table/championship-league-2023-2024/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "CHAMPIONSHIP LEAGUE 2023/2024 - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/championship-league-2023-2024/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/championship-league-2023-2024/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/championship-league-2023-2024/#breadcrumb"
+              },
+              "dateModified": "2023-08-23T07:18:25+00:00",
+              "datePublished": "2023-08-22T05:26:09+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "CHAMPIONSHIP LEAGUE 2023/2024 - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/championship-league-2023-2024/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/championship-league-2023-2024/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/championship-league-2023-2024/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "CHAMPIONSHIP LEAGUE 2023/2024",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "CHAMPIONSHIP LEAGUE 2023/2024 - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/8763"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=8763"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=8763",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=8763",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-8763",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-premier-league-2024-25",
+        "sp_season-2024-25"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "2189": {
+          "a": "26",
+          "awayrecord": "20",
+          "d": "6",
+          "f": "45",
+          "gd": "19",
+          "l": "7",
+          "name": "Singida BS",
+          "p": "30",
+          "pos": 4,
+          "pts": "57",
+          "w": "17"
+        },
+        "2582": {
+          "a": "58",
+          "awayrecord": "11",
+          "d": "5",
+          "f": "32",
+          "gd": "-26",
+          "l": "17",
+          "name": "Fountain Gate",
+          "p": "30",
+          "pos": 14,
+          "pts": "29",
+          "w": "8"
+        },
+        "267": {
+          "a": "49",
+          "awayrecord": "11",
+          "d": "7",
+          "f": "31",
+          "gd": "-18",
+          "l": "14",
+          "name": "Dodoma Jiji",
+          "p": "30",
+          "pos": 12,
+          "pts": "34",
+          "w": "9"
+        },
+        "268": {
+          "a": "27",
+          "awayrecord": "10",
+          "d": "12",
+          "f": "27",
+          "gd": "0",
+          "l": "10",
+          "name": "JKT Tanzania",
+          "p": "30",
+          "pos": 6,
+          "pts": "36",
+          "w": "8"
+        },
+        "269": {
+          "a": "41",
+          "awayrecord": "5",
+          "d": "8",
+          "f": "22",
+          "gd": "-19",
+          "l": "17",
+          "name": "Kagera Sugar",
+          "p": "30",
+          "pos": 15,
+          "pts": "23",
+          "w": "5"
+        },
+        "278": {
+          "a": "31",
+          "awayrecord": "10",
+          "d": "11",
+          "f": "26",
+          "gd": "-5",
+          "l": "11",
+          "name": "Coastal Union",
+          "p": "30",
+          "pos": 8,
+          "pts": "35",
+          "w": "8"
+        },
+        "281": {
+          "a": "43",
+          "awayrecord": "11",
+          "d": "8",
+          "f": "26",
+          "gd": "-17",
+          "l": "13",
+          "name": "KMC",
+          "p": "30",
+          "pos": 10,
+          "pts": "35",
+          "w": "9"
+        },
+        "286": {
+          "a": "36",
+          "awayrecord": "14",
+          "d": "8",
+          "f": "28",
+          "gd": "-8",
+          "l": "13",
+          "name": "Namungo",
+          "p": "30",
+          "pos": 9,
+          "pts": "35",
+          "w": "9"
+        },
+        "290": {
+          "a": "46",
+          "awayrecord": "11",
+          "d": "7",
+          "f": "26",
+          "gd": "-20",
+          "l": "15",
+          "name": "Tanzania Prisons",
+          "p": "30",
+          "pos": 13,
+          "pts": "31",
+          "w": "8"
+        },
+        "291": {
+          "a": "13",
+          "awayrecord": "30",
+          "d": "3",
+          "f": "69",
+          "gd": "56",
+          "l": "2",
+          "name": "Simba",
+          "p": "30",
+          "pos": 2,
+          "pts": "78",
+          "w": "25"
+        },
+        "292": {
+          "a": "10",
+          "awayrecord": "40",
+          "d": "1",
+          "f": "83",
+          "gd": "73",
+          "l": "2",
+          "name": "Young Africans",
+          "p": "30",
+          "pos": 1,
+          "pts": "82",
+          "w": "27"
+        },
+        "294": {
+          "a": "19",
+          "awayrecord": "23",
+          "d": "6",
+          "f": "56",
+          "gd": "37",
+          "l": "5",
+          "name": "Azam",
+          "p": "30",
+          "pos": 3,
+          "pts": "63",
+          "w": "19"
+        },
+        "315": {
+          "a": "62",
+          "awayrecord": "7",
+          "d": "7",
+          "f": "22",
+          "gd": "-40",
+          "l": "20",
+          "name": "KenGold",
+          "p": "30",
+          "pos": 16,
+          "pts": "16",
+          "w": "3"
+        },
+        "321": {
+          "a": "33",
+          "awayrecord": "10",
+          "d": "10",
+          "f": "22",
+          "gd": "-11",
+          "l": "12",
+          "name": "Pamba Jiji",
+          "p": "30",
+          "pos": 11,
+          "pts": "34",
+          "w": "8"
+        },
+        "325": {
+          "a": "45",
+          "awayrecord": "14",
+          "d": "8",
+          "f": "28",
+          "gd": "-17",
+          "l": "12",
+          "name": "TRA United",
+          "p": "30",
+          "pos": 5,
+          "pts": "38",
+          "w": "10"
+        },
+        "344": {
+          "a": "33",
+          "awayrecord": "14",
+          "d": "11",
+          "f": "29",
+          "gd": "-4",
+          "l": "11",
+          "name": "Mashujaa",
+          "p": "30",
+          "pos": 7,
+          "pts": "35",
+          "w": "8"
+        }
+      },
+      "date": "2024-06-20T09:20:46",
+      "date_gmt": "2024-06-20T06:20:46",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=8763"
+      },
+      "id": 8763,
+      "leagues": [
+        287
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/",
+      "menu_order": 0,
+      "modified": "2025-02-12T12:05:55",
+      "modified_gmt": "2025-02-12T09:05:55",
+      "seasons": [
+        288
+      ],
+      "slug": "nbc-premier-league-2024-2025-standing",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC PREMIER LEAGUE 2024/2025 STANDING"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC PREMIER LEAGUE 2024/2025 STANDING - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC PREMIER LEAGUE 2024/2025 STANDING - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2025-02-12T09:05:55+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2024-2025-standing\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2024-2025-standing\\/\",\"name\":\"NBC PREMIER LEAGUE 2024\\/2025 STANDING - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2024-06-20T06:20:46+00:00\",\"dateModified\":\"2025-02-12T09:05:55+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2024-2025-standing\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2024-2025-standing\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2024-2025-standing\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC PREMIER LEAGUE 2024\\/2025 STANDING\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2025-02-12T09:05:55+00:00",
+        "canonical": "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC PREMIER LEAGUE 2024/2025 STANDING - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/#breadcrumb"
+              },
+              "dateModified": "2025-02-12T09:05:55+00:00",
+              "datePublished": "2024-06-20T06:20:46+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC PREMIER LEAGUE 2024/2025 STANDING - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2024-2025-standing/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC PREMIER LEAGUE 2024/2025 STANDING",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC PREMIER LEAGUE 2024/2025 STANDING - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/8795"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=8795"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=8795",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=8795",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-8795",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-championship-league-2024-2025",
+        "sp_season-2024-25"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "266": {
+          "a": "21",
+          "awayrecord": "9",
+          "d": "11",
+          "f": "29",
+          "gd": "8",
+          "l": "7",
+          "name": "Bigman",
+          "p": "30",
+          "pos": 8,
+          "pts": "47",
+          "w": "12"
+        },
+        "283": {
+          "a": "18",
+          "awayrecord": "18",
+          "d": "5",
+          "f": "58",
+          "gd": "40",
+          "l": "3",
+          "name": "Mtibwa Sugar",
+          "p": "30",
+          "pos": 1,
+          "pts": "71",
+          "w": "22"
+        },
+        "285": {
+          "a": "26",
+          "awayrecord": "26",
+          "d": "8",
+          "f": "68",
+          "gd": "42",
+          "l": "2",
+          "name": "Mbeya City",
+          "p": "30",
+          "pos": 2,
+          "pts": "68",
+          "w": "20"
+        },
+        "288": {
+          "a": "44",
+          "awayrecord": "15",
+          "d": "9",
+          "f": "32",
+          "gd": "-12",
+          "l": "13",
+          "name": "Polisi Tanzania",
+          "p": "30",
+          "pos": 10,
+          "pts": "33",
+          "w": "8"
+        },
+        "298": {
+          "a": "45",
+          "awayrecord": "8",
+          "d": "7",
+          "f": "26",
+          "gd": "-19",
+          "l": "15",
+          "name": "Biashara UTD",
+          "p": "30",
+          "pos": 16,
+          "pts": "16",
+          "w": "8"
+        },
+        "311": {
+          "a": "57",
+          "awayrecord": "8",
+          "d": "4",
+          "f": "29",
+          "gd": "-28",
+          "l": "20",
+          "name": "A.Sports",
+          "p": "30",
+          "pos": 13,
+          "pts": "22",
+          "w": "6"
+        },
+        "312": {
+          "a": "29",
+          "awayrecord": "16",
+          "d": "8",
+          "f": "40",
+          "gd": "11",
+          "l": "8",
+          "name": "Mbeya Kwanza",
+          "p": "30",
+          "pos": 7,
+          "pts": "50",
+          "w": "14"
+        },
+        "322": {
+          "a": "26",
+          "awayrecord": "13",
+          "d": "5",
+          "f": "51",
+          "gd": "25",
+          "l": "8",
+          "name": "Geita Gold",
+          "p": "30",
+          "pos": 4,
+          "pts": "56",
+          "w": "17"
+        },
+        "326": {
+          "a": "50",
+          "awayrecord": "10",
+          "d": "6",
+          "f": "26",
+          "gd": "-24",
+          "l": "19",
+          "name": "Transit Camp",
+          "p": "30",
+          "pos": 14,
+          "pts": "21",
+          "w": "5"
+        },
+        "338": {
+          "a": "55",
+          "awayrecord": "12",
+          "d": "2",
+          "f": "22",
+          "gd": "-33",
+          "l": "21",
+          "name": "Green Warriors",
+          "p": "30",
+          "pos": 12,
+          "pts": "23",
+          "w": "7"
+        },
+        "340": {
+          "a": "35",
+          "awayrecord": "13",
+          "d": "7",
+          "f": "37",
+          "gd": "2",
+          "l": "13",
+          "name": "Mbuni",
+          "p": "30",
+          "pos": 9,
+          "pts": "37",
+          "w": "10"
+        },
+        "341": {
+          "a": "52",
+          "awayrecord": "10",
+          "d": "5",
+          "f": "19",
+          "gd": "-33",
+          "l": "20",
+          "name": "Cosmopolitan",
+          "p": "30",
+          "pos": 15,
+          "pts": "20",
+          "w": "5"
+        },
+        "349": {
+          "a": "25",
+          "awayrecord": "16",
+          "d": "7",
+          "f": "49",
+          "gd": "24",
+          "l": "5",
+          "name": "Stand United",
+          "p": "30",
+          "pos": 3,
+          "pts": "61",
+          "w": "18"
+        },
+        "429": {
+          "a": "32",
+          "awayrecord": "18",
+          "d": "7",
+          "f": "42",
+          "gd": "10",
+          "l": "8",
+          "name": "Songea United",
+          "p": "30",
+          "pos": 6,
+          "pts": "52",
+          "w": "15"
+        },
+        "4536": {
+          "a": "29",
+          "awayrecord": "15",
+          "d": "8",
+          "f": "40",
+          "gd": "11",
+          "l": "7",
+          "name": "TMA",
+          "p": "30",
+          "pos": 5,
+          "pts": "53",
+          "w": "15"
+        },
+        "6039": {
+          "a": "43",
+          "awayrecord": "11",
+          "d": "3",
+          "f": "19",
+          "gd": "-24",
+          "l": "20",
+          "name": "Barberian",
+          "p": "30",
+          "pos": 11,
+          "pts": "24",
+          "w": "7"
+        }
+      },
+      "date": "2024-06-21T14:43:55",
+      "date_gmt": "2024-06-21T11:43:55",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=8795"
+      },
+      "id": 8795,
+      "leagues": [
+        290
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/",
+      "menu_order": 0,
+      "modified": "2025-05-27T08:27:37",
+      "modified_gmt": "2025-05-27T05:27:37",
+      "seasons": [
+        288
+      ],
+      "slug": "nbc-championship-league-2024-2025",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC CHAMPIONSHIP LEAGUE 2024/2025"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC CHAMPIONSHIP LEAGUE 2024/2025 - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC CHAMPIONSHIP LEAGUE 2024/2025 - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2025-05-27T05:27:37+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2024-2025\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2024-2025\\/\",\"name\":\"NBC CHAMPIONSHIP LEAGUE 2024\\/2025 - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2024-06-21T11:43:55+00:00\",\"dateModified\":\"2025-05-27T05:27:37+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2024-2025\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2024-2025\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2024-2025\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC CHAMPIONSHIP LEAGUE 2024\\/2025\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2025-05-27T05:27:37+00:00",
+        "canonical": "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC CHAMPIONSHIP LEAGUE 2024/2025 - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/#breadcrumb"
+              },
+              "dateModified": "2025-05-27T05:27:37+00:00",
+              "datePublished": "2024-06-21T11:43:55+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC CHAMPIONSHIP LEAGUE 2024/2025 - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2024-2025/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC CHAMPIONSHIP LEAGUE 2024/2025",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC CHAMPIONSHIP LEAGUE 2024/2025 - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/10895"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=10895"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=10895",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=10895",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-10895",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-first-league-group-b-2024-2025",
+        "sp_season-2024-25"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "10894": {
+          "a": "8",
+          "awayrecord": "8",
+          "d": "2",
+          "f": "25",
+          "gd": "17",
+          "l": "1",
+          "name": "Gunners",
+          "p": "14",
+          "pos": 1,
+          "pts": "35",
+          "w": "11"
+        },
+        "1665": {
+          "a": "22",
+          "awayrecord": "6",
+          "d": "4",
+          "f": "13",
+          "gd": "-9",
+          "l": "7",
+          "name": "Copco",
+          "p": "14",
+          "pos": 7,
+          "pts": "13",
+          "w": "3"
+        },
+        "289": {
+          "a": "34",
+          "awayrecord": "2",
+          "d": "1",
+          "f": "2",
+          "gd": "-32",
+          "l": "13",
+          "name": "Ruvu Shooting",
+          "p": "14",
+          "pos": 8,
+          "pts": "-44",
+          "w": "0"
+        },
+        "330": {
+          "a": "9",
+          "awayrecord": "9",
+          "d": "1",
+          "f": "33",
+          "gd": "24",
+          "l": "3",
+          "name": "Rhino",
+          "p": "14",
+          "pos": 3,
+          "pts": "31",
+          "w": "10"
+        },
+        "333": {
+          "a": "18",
+          "awayrecord": "6",
+          "d": "3",
+          "f": "14",
+          "gd": "-4",
+          "l": "7",
+          "name": "Alliance",
+          "p": "14",
+          "pos": 5,
+          "pts": "15",
+          "w": "4"
+        },
+        "6044": {
+          "a": "20",
+          "awayrecord": "5",
+          "d": "2",
+          "f": "15",
+          "gd": "-5",
+          "l": "8",
+          "name": "Mapinduzi",
+          "p": "14",
+          "pos": 6,
+          "pts": "14",
+          "w": "4"
+        },
+        "6046": {
+          "a": "19",
+          "awayrecord": "8",
+          "d": "3",
+          "f": "17",
+          "gd": "-2",
+          "l": "6",
+          "name": "Endument",
+          "p": "14",
+          "pos": 4,
+          "pts": "18",
+          "w": "5"
+        },
+        "6048": {
+          "a": "14",
+          "awayrecord": "12",
+          "d": "2",
+          "f": "25",
+          "gd": "11",
+          "l": "2",
+          "name": "B19",
+          "p": "14",
+          "pos": 2,
+          "pts": "32",
+          "w": "10"
+        }
+      },
+      "date": "2024-11-11T09:54:43",
+      "date_gmt": "2024-11-11T06:54:43",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=10895"
+      },
+      "id": 10895,
+      "leagues": [
+        323
+      ],
+      "link": "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/",
+      "menu_order": 0,
+      "modified": "2025-03-29T21:11:28",
+      "modified_gmt": "2025-03-29T18:11:28",
+      "seasons": [
+        288
+      ],
+      "slug": "first-league-group-b-2024-2025-standing",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "FIRST LEAGUE GROUP B 2024/2025 STANDING"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>FIRST LEAGUE GROUP B 2024/2025 STANDING - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"FIRST LEAGUE GROUP B 2024/2025 STANDING - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2025-03-29T18:11:28+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2024-2025-standing\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2024-2025-standing\\/\",\"name\":\"FIRST LEAGUE GROUP B 2024\\/2025 STANDING - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2024-11-11T06:54:43+00:00\",\"dateModified\":\"2025-03-29T18:11:28+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2024-2025-standing\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2024-2025-standing\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2024-2025-standing\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FIRST LEAGUE GROUP B 2024\\/2025 STANDING\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2025-03-29T18:11:28+00:00",
+        "canonical": "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "FIRST LEAGUE GROUP B 2024/2025 STANDING - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/#breadcrumb"
+              },
+              "dateModified": "2025-03-29T18:11:28+00:00",
+              "datePublished": "2024-11-11T06:54:43+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "FIRST LEAGUE GROUP B 2024/2025 STANDING - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-b-2024-2025-standing/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "FIRST LEAGUE GROUP B 2024/2025 STANDING",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "FIRST LEAGUE GROUP B 2024/2025 STANDING - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/10896"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=10896"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=10896",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=10896",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-10896",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-first-league-group-a-2024-2025",
+        "sp_season-2024-25"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "10892": {
+          "a": "12",
+          "awayrecord": "8",
+          "d": "9",
+          "f": "17",
+          "gd": "5",
+          "l": "1",
+          "name": "Moro Kids",
+          "p": "14",
+          "pos": 3,
+          "pts": "21",
+          "w": "4"
+        },
+        "10893": {
+          "a": "13",
+          "awayrecord": "10",
+          "d": "4",
+          "f": "20",
+          "gd": "7",
+          "l": "3",
+          "name": "Hausung",
+          "p": "14",
+          "pos": 1,
+          "pts": "25",
+          "w": "7"
+        },
+        "317": {
+          "a": "17",
+          "awayrecord": "4",
+          "d": "3",
+          "f": "12",
+          "gd": "-5",
+          "l": "8",
+          "name": "A.Lyon",
+          "p": "14",
+          "pos": 8,
+          "pts": "12",
+          "w": "3"
+        },
+        "337": {
+          "a": "11",
+          "awayrecord": "2",
+          "d": "8",
+          "f": "12",
+          "gd": "1",
+          "l": "2",
+          "name": "Pan African",
+          "p": "14",
+          "pos": 4,
+          "pts": "20",
+          "w": "4"
+        },
+        "350": {
+          "a": "17",
+          "awayrecord": "2",
+          "d": "5",
+          "f": "7",
+          "gd": "-10",
+          "l": "6",
+          "name": "Tunduru Korosho",
+          "p": "14",
+          "pos": 7,
+          "pts": "14",
+          "w": "3"
+        },
+        "354": {
+          "a": "16",
+          "awayrecord": "6",
+          "d": "5",
+          "f": "18",
+          "gd": "2",
+          "l": "5",
+          "name": "Dar City",
+          "p": "14",
+          "pos": 5,
+          "pts": "17",
+          "w": "4"
+        },
+        "6041": {
+          "a": "17",
+          "awayrecord": "7",
+          "d": "6",
+          "f": "16",
+          "gd": "-1",
+          "l": "5",
+          "name": "Magnet",
+          "p": "14",
+          "pos": 6,
+          "pts": "15",
+          "w": "3"
+        },
+        "6043": {
+          "a": "15",
+          "awayrecord": "5",
+          "d": "4",
+          "f": "16",
+          "gd": "1",
+          "l": "4",
+          "name": "Nyumbu",
+          "p": "14",
+          "pos": 2,
+          "pts": "22",
+          "w": "6"
+        }
+      },
+      "date": "2024-11-11T09:58:28",
+      "date_gmt": "2024-11-11T06:58:28",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=10896"
+      },
+      "id": 10896,
+      "leagues": [
+        322
+      ],
+      "link": "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/",
+      "menu_order": 0,
+      "modified": "2024-11-11T09:58:28",
+      "modified_gmt": "2024-11-11T06:58:28",
+      "seasons": [
+        288
+      ],
+      "slug": "first-league-group-a-2024-2025-standing",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "FIRST LEAGUE GROUP A 2024/2025 STANDING"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>FIRST LEAGUE GROUP A 2024/2025 STANDING - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"FIRST LEAGUE GROUP A 2024/2025 STANDING - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2024-2025-standing\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2024-2025-standing\\/\",\"name\":\"FIRST LEAGUE GROUP A 2024\\/2025 STANDING - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2024-11-11T06:58:28+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2024-2025-standing\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2024-2025-standing\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2024-2025-standing\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FIRST LEAGUE GROUP A 2024\\/2025 STANDING\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "canonical": "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "FIRST LEAGUE GROUP A 2024/2025 STANDING - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/#breadcrumb"
+              },
+              "datePublished": "2024-11-11T06:58:28+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "FIRST LEAGUE GROUP A 2024/2025 STANDING - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-a-2024-2025-standing/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "FIRST LEAGUE GROUP A 2024/2025 STANDING",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "FIRST LEAGUE GROUP A 2024/2025 STANDING - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/13247"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=13247"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=13247",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=13247",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-13247",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-premier-league-2025-2026",
+        "sp_season-2025-26"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "2189": {
+          "a": "35",
+          "awayrecord": "20",
+          "d": "5",
+          "f": "47",
+          "gd": "12",
+          "l": "10",
+          "name": "Singida BS",
+          "p": "30",
+          "pos": 4,
+          "pts": "50",
+          "w": "15"
+        },
+        "2582": {
+          "a": "44",
+          "awayrecord": "10",
+          "d": "6",
+          "f": "25",
+          "gd": "-19",
+          "l": "15",
+          "name": "Fountain Gate",
+          "p": "30",
+          "pos": 12,
+          "pts": "33",
+          "w": "9"
+        },
+        "267": {
+          "a": "36",
+          "awayrecord": "8",
+          "d": "11",
+          "f": "25",
+          "gd": "-11",
+          "l": "11",
+          "name": "Dodoma Jiji",
+          "p": "30",
+          "pos": 9,
+          "pts": "35",
+          "w": "8"
+        },
+        "268": {
+          "a": "33",
+          "awayrecord": "16",
+          "d": "12",
+          "f": "30",
+          "gd": "-3",
+          "l": "8",
+          "name": "JKT Tanzania",
+          "p": "30",
+          "pos": 6,
+          "pts": "42",
+          "w": "10"
+        },
+        "278": {
+          "a": "37",
+          "awayrecord": "13",
+          "d": "9",
+          "f": "31",
+          "gd": "-6",
+          "l": "12",
+          "name": "Coastal Union",
+          "p": "30",
+          "pos": 8,
+          "pts": "36",
+          "w": "9"
+        },
+        "281": {
+          "a": "53",
+          "awayrecord": "8",
+          "d": "3",
+          "f": "16",
+          "gd": "-37",
+          "l": "25",
+          "name": "KMC",
+          "p": "30",
+          "pos": 16,
+          "pts": "9",
+          "w": "2"
+        },
+        "283": {
+          "a": "48",
+          "awayrecord": "6",
+          "d": "10",
+          "f": "25",
+          "gd": "-23",
+          "l": "14",
+          "name": "Mtibwa Sugar",
+          "p": "30",
+          "pos": 15,
+          "pts": "28",
+          "w": "6"
+        },
+        "285": {
+          "a": "41",
+          "awayrecord": "14",
+          "d": "9",
+          "f": "24",
+          "gd": "-17",
+          "l": "14",
+          "name": "Mbeya City",
+          "p": "30",
+          "pos": 14,
+          "pts": "30",
+          "w": "7"
+        },
+        "286": {
+          "a": "32",
+          "awayrecord": "11",
+          "d": "13",
+          "f": "25",
+          "gd": "-7",
+          "l": "10",
+          "name": "Namungo",
+          "p": "30",
+          "pos": 10,
+          "pts": "34",
+          "w": "7"
+        },
+        "290": {
+          "a": "41",
+          "awayrecord": "10",
+          "d": "5",
+          "f": "23",
+          "gd": "-18",
+          "l": "16",
+          "name": "Tanzania Prisons",
+          "p": "30",
+          "pos": 13,
+          "pts": "32",
+          "w": "9"
+        },
+        "291": {
+          "a": "11",
+          "awayrecord": "24",
+          "d": "7",
+          "f": "54",
+          "gd": "43",
+          "l": "1",
+          "name": "Simba",
+          "p": "30",
+          "pos": 2,
+          "pts": "73",
+          "w": "22"
+        },
+        "292": {
+          "a": "9",
+          "awayrecord": "22",
+          "d": "6",
+          "f": "71",
+          "gd": "62",
+          "l": "1",
+          "name": "Young Africans",
+          "p": "30",
+          "pos": 1,
+          "pts": "75",
+          "w": "23"
+        },
+        "294": {
+          "a": "12",
+          "awayrecord": "21",
+          "d": "10",
+          "f": "46",
+          "gd": "34",
+          "l": "2",
+          "name": "Azam",
+          "p": "30",
+          "pos": 3,
+          "pts": "64",
+          "w": "18"
+        },
+        "321": {
+          "a": "35",
+          "awayrecord": "11",
+          "d": "9",
+          "f": "32",
+          "gd": "-3",
+          "l": "12",
+          "name": "Pamba Jiji",
+          "p": "30",
+          "pos": 7,
+          "pts": "36",
+          "w": "9"
+        },
+        "325": {
+          "a": "28",
+          "awayrecord": "13",
+          "d": "10",
+          "f": "33",
+          "gd": "5",
+          "l": "9",
+          "name": "TRA United",
+          "p": "30",
+          "pos": 5,
+          "pts": "43",
+          "w": "11"
+        },
+        "344": {
+          "a": "27",
+          "awayrecord": "6",
+          "d": "12",
+          "f": "15",
+          "gd": "-12",
+          "l": "11",
+          "name": "Mashujaa",
+          "p": "30",
+          "pos": 11,
+          "pts": "33",
+          "w": "7"
+        }
+      },
+      "date": "2025-07-21T10:42:37",
+      "date_gmt": "2025-07-21T07:42:37",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=13247"
+      },
+      "id": 13247,
+      "leagues": [
+        418
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/",
+      "menu_order": 0,
+      "modified": "2025-07-30T17:44:57",
+      "modified_gmt": "2025-07-30T14:44:57",
+      "seasons": [
+        417
+      ],
+      "slug": "nbc-premier-league-2025-2026",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC PREMIER LEAGUE 2025/2026 STANDING"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC PREMIER LEAGUE 2025/2026 STANDING - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC PREMIER LEAGUE 2025/2026 STANDING - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2025-07-30T14:44:57+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2025-2026\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2025-2026\\/\",\"name\":\"NBC PREMIER LEAGUE 2025\\/2026 STANDING - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2025-07-21T07:42:37+00:00\",\"dateModified\":\"2025-07-30T14:44:57+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2025-2026\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2025-2026\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2025-2026\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC PREMIER LEAGUE 2025\\/2026 STANDING\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2025-07-30T14:44:57+00:00",
+        "canonical": "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC PREMIER LEAGUE 2025/2026 STANDING - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/#breadcrumb"
+              },
+              "dateModified": "2025-07-30T14:44:57+00:00",
+              "datePublished": "2025-07-21T07:42:37+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC PREMIER LEAGUE 2025/2026 STANDING - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2025-2026/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC PREMIER LEAGUE 2025/2026 STANDING",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC PREMIER LEAGUE 2025/2026 STANDING - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/13248"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=13248"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=13248",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=13248",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-13248",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-championship-2025-2026",
+        "sp_season-2025-26"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "10893": {
+          "a": "62",
+          "awayrecord": "7",
+          "d": "3",
+          "f": "16",
+          "gd": "-46",
+          "l": "24",
+          "name": "Hausung",
+          "p": "30",
+          "pos": 16,
+          "pts": "9",
+          "w": "3"
+        },
+        "10894": {
+          "a": "42",
+          "awayrecord": "9",
+          "d": "5",
+          "f": "32",
+          "gd": "-10",
+          "l": "14",
+          "name": "Gunners",
+          "p": "30",
+          "pos": 8,
+          "pts": "38",
+          "w": "11"
+        },
+        "266": {
+          "a": "31",
+          "awayrecord": "10",
+          "d": "9",
+          "f": "30",
+          "gd": "-1",
+          "l": "12",
+          "name": "Bigman",
+          "p": "30",
+          "pos": 10,
+          "pts": "36",
+          "w": "9"
+        },
+        "269": {
+          "a": "12",
+          "awayrecord": "25",
+          "d": "6",
+          "f": "53",
+          "gd": "41",
+          "l": "2",
+          "name": "Kagera Sugar",
+          "p": "30",
+          "pos": 2,
+          "pts": "72",
+          "w": "22"
+        },
+        "288": {
+          "a": "21",
+          "awayrecord": "18",
+          "d": "6",
+          "f": "50",
+          "gd": "29",
+          "l": "4",
+          "name": "Polisi Tanzania",
+          "p": "30",
+          "pos": 3,
+          "pts": "66",
+          "w": "20"
+        },
+        "311": {
+          "a": "55",
+          "awayrecord": "12",
+          "d": "3",
+          "f": "27",
+          "gd": "-28",
+          "l": "21",
+          "name": "A.Sports",
+          "p": "30",
+          "pos": 14,
+          "pts": "21",
+          "w": "6"
+        },
+        "312": {
+          "a": "25",
+          "awayrecord": "20",
+          "d": "4",
+          "f": "52",
+          "gd": "27",
+          "l": "7",
+          "name": "Mbeya Kwanza",
+          "p": "30",
+          "pos": 4,
+          "pts": "61",
+          "w": "19"
+        },
+        "315": {
+          "a": "42",
+          "awayrecord": "15",
+          "d": "6",
+          "f": "35",
+          "gd": "-7",
+          "l": "13",
+          "name": "KenGold",
+          "p": "30",
+          "pos": 7,
+          "pts": "39",
+          "w": "11"
+        },
+        "322": {
+          "a": "17",
+          "awayrecord": "26",
+          "d": "5",
+          "f": "68",
+          "gd": "51",
+          "l": "1",
+          "name": "Geita Gold",
+          "p": "30",
+          "pos": 1,
+          "pts": "77",
+          "w": "24"
+        },
+        "326": {
+          "a": "34",
+          "awayrecord": "15",
+          "d": "5",
+          "f": "43",
+          "gd": "9",
+          "l": "8",
+          "name": "Transit Camp",
+          "p": "30",
+          "pos": 5,
+          "pts": "56",
+          "w": "17"
+        },
+        "340": {
+          "a": "34",
+          "awayrecord": "21",
+          "d": "2",
+          "f": "42",
+          "gd": "8",
+          "l": "13",
+          "name": "Mbuni",
+          "p": "30",
+          "pos": 6,
+          "pts": "47",
+          "w": "15"
+        },
+        "349": {
+          "a": "45",
+          "awayrecord": "6",
+          "d": "4",
+          "f": "25",
+          "gd": "-20",
+          "l": "18",
+          "name": "Stand United",
+          "p": "30",
+          "pos": 13,
+          "pts": "25",
+          "w": "8"
+        },
+        "429": {
+          "a": "39",
+          "awayrecord": "9",
+          "d": "8",
+          "f": "28",
+          "gd": "-11",
+          "l": "14",
+          "name": "Songea United",
+          "p": "30",
+          "pos": 12,
+          "pts": "32",
+          "w": "8"
+        },
+        "4536": {
+          "a": "31",
+          "awayrecord": "8",
+          "d": "6",
+          "f": "28",
+          "gd": "-3",
+          "l": "14",
+          "name": "TMA",
+          "p": "30",
+          "pos": 11,
+          "pts": "36",
+          "w": "10"
+        },
+        "6039": {
+          "a": "43",
+          "awayrecord": "9",
+          "d": "9",
+          "f": "18",
+          "gd": "-25",
+          "l": "18",
+          "name": "Barberian",
+          "p": "30",
+          "pos": 15,
+          "pts": "18",
+          "w": "3"
+        },
+        "6048": {
+          "a": "43",
+          "awayrecord": "13",
+          "d": "7",
+          "f": "29",
+          "gd": "-14",
+          "l": "13",
+          "name": "B19",
+          "p": "30",
+          "pos": 9,
+          "pts": "37",
+          "w": "10"
+        }
+      },
+      "date": "2025-07-21T12:07:32",
+      "date_gmt": "2025-07-21T09:07:32",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=13248"
+      },
+      "id": 13248,
+      "leagues": [
+        419
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/",
+      "menu_order": 0,
+      "modified": "2026-06-02T09:06:25",
+      "modified_gmt": "2026-06-02T06:06:25",
+      "seasons": [
+        417
+      ],
+      "slug": "nbc-championship-league-2025-2026",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC CHAMPIONSHIP LEAGUE 2025/2026"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC CHAMPIONSHIP LEAGUE 2025/2026 - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC CHAMPIONSHIP LEAGUE 2025/2026 - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-06-02T06:06:25+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2025-2026\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2025-2026\\/\",\"name\":\"NBC CHAMPIONSHIP LEAGUE 2025\\/2026 - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2025-07-21T09:07:32+00:00\",\"dateModified\":\"2026-06-02T06:06:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2025-2026\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2025-2026\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2025-2026\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC CHAMPIONSHIP LEAGUE 2025\\/2026\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2026-06-02T06:06:25+00:00",
+        "canonical": "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC CHAMPIONSHIP LEAGUE 2025/2026 - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/#breadcrumb"
+              },
+              "dateModified": "2026-06-02T06:06:25+00:00",
+              "datePublished": "2025-07-21T09:07:32+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC CHAMPIONSHIP LEAGUE 2025/2026 - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2025-2026/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC CHAMPIONSHIP LEAGUE 2025/2026",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC CHAMPIONSHIP LEAGUE 2025/2026 - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/14176"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=14176"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=14176",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=14176",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-14176",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-first-league-group-b-2025-2026",
+        "sp_season-2025-26"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": "<p>FIRST LEAGUE GROUP B 2025/2026 STANDING</p>\n"
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "14178": {
+          "a": "18",
+          "awayrecord": "9",
+          "d": "3",
+          "f": "23",
+          "gd": "5",
+          "l": "5",
+          "name": "NKIM",
+          "p": "14",
+          "pos": 4,
+          "pts": "21",
+          "w": "6"
+        },
+        "14179": {
+          "a": "13",
+          "awayrecord": "12",
+          "d": "3",
+          "f": "28",
+          "gd": "15",
+          "l": "2",
+          "name": "IAA",
+          "p": "14",
+          "pos": 2,
+          "pts": "30",
+          "w": "9"
+        },
+        "1665": {
+          "a": "20",
+          "awayrecord": "4",
+          "d": "2",
+          "f": "17",
+          "gd": "-3",
+          "l": "8",
+          "name": "Copco",
+          "p": "14",
+          "pos": 6,
+          "pts": "14",
+          "w": "4"
+        },
+        "298": {
+          "a": "31",
+          "awayrecord": "2",
+          "d": "3",
+          "f": "5",
+          "gd": "-26",
+          "l": "11",
+          "name": "Biashara UTD",
+          "p": "14",
+          "pos": 8,
+          "pts": "-3",
+          "w": "0"
+        },
+        "330": {
+          "a": "9",
+          "awayrecord": "13",
+          "d": "2",
+          "f": "31",
+          "gd": "22",
+          "l": "1",
+          "name": "Rhino",
+          "p": "14",
+          "pos": 1,
+          "pts": "35",
+          "w": "11"
+        },
+        "333": {
+          "a": "14",
+          "awayrecord": "3",
+          "d": "4",
+          "f": "11",
+          "gd": "-3",
+          "l": "6",
+          "name": "Alliance",
+          "p": "14",
+          "pos": 5,
+          "pts": "16",
+          "w": "4"
+        },
+        "6044": {
+          "a": "24",
+          "awayrecord": "4",
+          "d": "2",
+          "f": "7",
+          "gd": "-17",
+          "l": "8",
+          "name": "Mapinduzi",
+          "p": "14",
+          "pos": 7,
+          "pts": "11",
+          "w": "4"
+        },
+        "6046": {
+          "a": "15",
+          "awayrecord": "8",
+          "d": "3",
+          "f": "23",
+          "gd": "8",
+          "l": "4",
+          "name": "Endument",
+          "p": "14",
+          "pos": 3,
+          "pts": "24",
+          "w": "7"
+        }
+      },
+      "date": "2025-10-06T11:23:18",
+      "date_gmt": "2025-10-06T08:23:18",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=14176"
+      },
+      "id": 14176,
+      "leagues": [
+        422
+      ],
+      "link": "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/",
+      "menu_order": 0,
+      "modified": "2026-06-20T13:37:27",
+      "modified_gmt": "2026-06-20T10:37:27",
+      "seasons": [
+        417
+      ],
+      "slug": "first-league-group-b-2025-2026-standing",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "FIRST LEAGUE GROUP B 2025/2026 STANDING"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>FIRST LEAGUE GROUP B 2025/2026 STANDING - LIGI KUU</title>\n<meta name=\"description\" content=\"FIRST LEAGUE GROUP B 2025/2026 STANDING\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"FIRST LEAGUE GROUP B 2025/2026 STANDING - LIGI KUU\" />\n<meta property=\"og:description\" content=\"FIRST LEAGUE GROUP B 2025/2026 STANDING\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-06-20T10:37:27+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2025-2026-standing\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2025-2026-standing\\/\",\"name\":\"FIRST LEAGUE GROUP B 2025\\/2026 STANDING - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2025-10-06T08:23:18+00:00\",\"dateModified\":\"2026-06-20T10:37:27+00:00\",\"description\":\"FIRST LEAGUE GROUP B 2025\\/2026 STANDING\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2025-2026-standing\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2025-2026-standing\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-b-2025-2026-standing\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FIRST LEAGUE GROUP B 2025\\/2026 STANDING\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2026-06-20T10:37:27+00:00",
+        "canonical": "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/",
+        "description": "FIRST LEAGUE GROUP B 2025/2026 STANDING",
+        "og_description": "FIRST LEAGUE GROUP B 2025/2026 STANDING",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "FIRST LEAGUE GROUP B 2025/2026 STANDING - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/#breadcrumb"
+              },
+              "dateModified": "2026-06-20T10:37:27+00:00",
+              "datePublished": "2025-10-06T08:23:18+00:00",
+              "description": "FIRST LEAGUE GROUP B 2025/2026 STANDING",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "FIRST LEAGUE GROUP B 2025/2026 STANDING - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-b-2025-2026-standing/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "FIRST LEAGUE GROUP B 2025/2026 STANDING",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "FIRST LEAGUE GROUP B 2025/2026 STANDING - LIGI KUU",
+        "twitter_card": "summary_large_image",
+        "twitter_misc": {
+          "Est. reading time": "1 minute"
+        }
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/14177"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=14177"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=14177",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=14177",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-14177",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-first-league-group-a-2025-2026",
+        "sp_season-2025-26"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "10892": {
+          "a": "13",
+          "awayrecord": "8",
+          "d": "3",
+          "f": "15",
+          "gd": "2",
+          "l": "6",
+          "name": "Moro Kids",
+          "p": "14",
+          "pos": 4,
+          "pts": "18",
+          "w": "5"
+        },
+        "14180": {
+          "a": "9",
+          "awayrecord": "14",
+          "d": "2",
+          "f": "25",
+          "gd": "16",
+          "l": "2",
+          "name": "Bandari",
+          "p": "14",
+          "pos": 1,
+          "pts": "32",
+          "w": "10"
+        },
+        "337": {
+          "a": "26",
+          "awayrecord": "5",
+          "d": "3",
+          "f": "13",
+          "gd": "-13",
+          "l": "8",
+          "name": "Pan African",
+          "p": "14",
+          "pos": 7,
+          "pts": "12",
+          "w": "3"
+        },
+        "338": {
+          "a": "29",
+          "awayrecord": "7",
+          "d": "2",
+          "f": "13",
+          "gd": "-16",
+          "l": "9",
+          "name": "Green Warriors",
+          "p": "14",
+          "pos": 8,
+          "pts": "11",
+          "w": "3"
+        },
+        "341": {
+          "a": "11",
+          "awayrecord": "13",
+          "d": "1",
+          "f": "21",
+          "gd": "10",
+          "l": "6",
+          "name": "Cosmopolitan",
+          "p": "14",
+          "pos": 3,
+          "pts": "22",
+          "w": "7"
+        },
+        "354": {
+          "a": "28",
+          "awayrecord": "9",
+          "d": "2",
+          "f": "16",
+          "gd": "-12",
+          "l": "7",
+          "name": "Dar City",
+          "p": "14",
+          "pos": 5,
+          "pts": "17",
+          "w": "5"
+        },
+        "6041": {
+          "a": "19",
+          "awayrecord": "17",
+          "d": "4",
+          "f": "25",
+          "gd": "6",
+          "l": "6",
+          "name": "Magnet",
+          "p": "14",
+          "pos": 6,
+          "pts": "16",
+          "w": "4"
+        },
+        "6043": {
+          "a": "11",
+          "awayrecord": "7",
+          "d": "5",
+          "f": "18",
+          "gd": "7",
+          "l": "1",
+          "name": "Nyumbu",
+          "p": "14",
+          "pos": 2,
+          "pts": "29",
+          "w": "8"
+        }
+      },
+      "date": "2025-10-06T11:24:18",
+      "date_gmt": "2025-10-06T08:24:18",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=14177"
+      },
+      "id": 14177,
+      "leagues": [
+        421
+      ],
+      "link": "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/",
+      "menu_order": 0,
+      "modified": "2025-10-07T10:21:09",
+      "modified_gmt": "2025-10-07T07:21:09",
+      "seasons": [
+        417
+      ],
+      "slug": "first-league-group-a-2025-2026-standing",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "FIRST LEAGUE GROUP A 2025/2026 STANDING"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>FIRST LEAGUE GROUP A 2025/2026 STANDING - LIGI KUU</title>\n<meta name=\"description\" content=\"FIRST LEAGUE GROUP A 2025/2026 STANDING\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"FIRST LEAGUE GROUP A 2025/2026 STANDING - LIGI KUU\" />\n<meta property=\"og:description\" content=\"FIRST LEAGUE GROUP A 2025/2026 STANDING\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2025-10-07T07:21:09+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2025-2026-standing\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2025-2026-standing\\/\",\"name\":\"FIRST LEAGUE GROUP A 2025\\/2026 STANDING - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2025-10-06T08:24:18+00:00\",\"dateModified\":\"2025-10-07T07:21:09+00:00\",\"description\":\"FIRST LEAGUE GROUP A 2025\\/2026 STANDING\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2025-2026-standing\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2025-2026-standing\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/first-league-group-a-2025-2026-standing\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FIRST LEAGUE GROUP A 2025\\/2026 STANDING\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2025-10-07T07:21:09+00:00",
+        "canonical": "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/",
+        "description": "FIRST LEAGUE GROUP A 2025/2026 STANDING",
+        "og_description": "FIRST LEAGUE GROUP A 2025/2026 STANDING",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "FIRST LEAGUE GROUP A 2025/2026 STANDING - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/#breadcrumb"
+              },
+              "dateModified": "2025-10-07T07:21:09+00:00",
+              "datePublished": "2025-10-06T08:24:18+00:00",
+              "description": "FIRST LEAGUE GROUP A 2025/2026 STANDING",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "FIRST LEAGUE GROUP A 2025/2026 STANDING - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/first-league-group-a-2025-2026-standing/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "FIRST LEAGUE GROUP A 2025/2026 STANDING",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "FIRST LEAGUE GROUP A 2025/2026 STANDING - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/17188"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=17188"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=17188",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=17188",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-17188",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-premier-league-2026-2027",
+        "sp_season-2026-27"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "2189": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Singida BS",
+          "p": "0",
+          "pos": 14,
+          "pts": "0",
+          "w": "0"
+        },
+        "2582": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Fountain Gate",
+          "p": "0",
+          "pos": 4,
+          "pts": "0",
+          "w": "0"
+        },
+        "267": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Dodoma Jiji",
+          "p": "0",
+          "pos": 3,
+          "pts": "0",
+          "w": "0"
+        },
+        "268": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "JKT Tanzania",
+          "p": "0",
+          "pos": 6,
+          "pts": "0",
+          "w": "0"
+        },
+        "269": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Kagera Sugar",
+          "p": "0",
+          "pos": 7,
+          "pts": "0",
+          "w": "0"
+        },
+        "278": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Coastal Union",
+          "p": "0",
+          "pos": 2,
+          "pts": "0",
+          "w": "0"
+        },
+        "285": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mbeya City",
+          "p": "0",
+          "pos": 9,
+          "pts": "0",
+          "w": "0"
+        },
+        "286": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Namungo",
+          "p": "0",
+          "pos": 10,
+          "pts": "0",
+          "w": "0"
+        },
+        "288": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Polisi Tanzania",
+          "p": "0",
+          "pos": 12,
+          "pts": "0",
+          "w": "0"
+        },
+        "291": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Simba",
+          "p": "0",
+          "pos": 13,
+          "pts": "0",
+          "w": "0"
+        },
+        "292": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Young Africans",
+          "p": "0",
+          "pos": 16,
+          "pts": "0",
+          "w": "0"
+        },
+        "294": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Azam",
+          "p": "0",
+          "pos": 1,
+          "pts": "0",
+          "w": "0"
+        },
+        "321": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Pamba Jiji",
+          "p": "0",
+          "pos": 11,
+          "pts": "0",
+          "w": "0"
+        },
+        "322": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Geita Gold",
+          "p": "0",
+          "pos": 5,
+          "pts": "0",
+          "w": "0"
+        },
+        "325": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "TRA United",
+          "p": "0",
+          "pos": 15,
+          "pts": "0",
+          "w": "0"
+        },
+        "344": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mashujaa",
+          "p": "0",
+          "pos": 8,
+          "pts": "0",
+          "w": "0"
+        }
+      },
+      "date": "2026-07-22T08:43:21",
+      "date_gmt": "2026-07-22T05:43:21",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=17188"
+      },
+      "id": 17188,
+      "leagues": [
+        432
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/",
+      "menu_order": 0,
+      "modified": "2026-07-28T14:44:26",
+      "modified_gmt": "2026-07-28T11:44:26",
+      "seasons": [
+        431
+      ],
+      "slug": "nbc-premier-league-2026-2027",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC PREMIER LEAGUE 2026/2027"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC PREMIER LEAGUE 2026/2027 - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC PREMIER LEAGUE 2026/2027 - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-07-28T11:44:26+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2026-2027\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2026-2027\\/\",\"name\":\"NBC PREMIER LEAGUE 2026\\/2027 - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2026-07-22T05:43:21+00:00\",\"dateModified\":\"2026-07-28T11:44:26+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2026-2027\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2026-2027\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-premier-league-2026-2027\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC PREMIER LEAGUE 2026\\/2027\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "article_modified_time": "2026-07-28T11:44:26+00:00",
+        "canonical": "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC PREMIER LEAGUE 2026/2027 - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/#breadcrumb"
+              },
+              "dateModified": "2026-07-28T11:44:26+00:00",
+              "datePublished": "2026-07-22T05:43:21+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC PREMIER LEAGUE 2026/2027 - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-premier-league-2026-2027/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC PREMIER LEAGUE 2026/2027",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC PREMIER LEAGUE 2026/2027 - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/17614"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=17614"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=17614",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=17614",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-17614",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-championship-league-2026-27",
+        "sp_season-2026-27"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "10894": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Gunners",
+          "p": "0",
+          "pos": 4,
+          "pts": "0",
+          "w": "0"
+        },
+        "14179": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "IAA",
+          "p": "0",
+          "pos": 5,
+          "pts": "0",
+          "w": "0"
+        },
+        "14180": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Bandari",
+          "p": "0",
+          "pos": 2,
+          "pts": "0",
+          "w": "0"
+        },
+        "266": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Bigman",
+          "p": "0",
+          "pos": 3,
+          "pts": "0",
+          "w": "0"
+        },
+        "281": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "KMC",
+          "p": "0",
+          "pos": 6,
+          "pts": "0",
+          "w": "0"
+        },
+        "283": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mtibwa Sugar",
+          "p": "0",
+          "pos": 10,
+          "pts": "0",
+          "w": "0"
+        },
+        "290": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Tanzania Prisons",
+          "p": "0",
+          "pos": 15,
+          "pts": "0",
+          "w": "0"
+        },
+        "312": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mbeya Kwanza",
+          "p": "0",
+          "pos": 8,
+          "pts": "0",
+          "w": "0"
+        },
+        "315": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "KenGold",
+          "p": "0",
+          "pos": 7,
+          "pts": "0",
+          "w": "0"
+        },
+        "326": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Transit Camp",
+          "p": "0",
+          "pos": 16,
+          "pts": "0",
+          "w": "0"
+        },
+        "330": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Rhino",
+          "p": "0",
+          "pos": 11,
+          "pts": "0",
+          "w": "0"
+        },
+        "340": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mbuni",
+          "p": "0",
+          "pos": 9,
+          "pts": "0",
+          "w": "0"
+        },
+        "349": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Stand United",
+          "p": "0",
+          "pos": 13,
+          "pts": "0",
+          "w": "0"
+        },
+        "429": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Songea United",
+          "p": "0",
+          "pos": 12,
+          "pts": "0",
+          "w": "0"
+        },
+        "4536": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "TMA",
+          "p": "0",
+          "pos": 14,
+          "pts": "0",
+          "w": "0"
+        },
+        "6048": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "B19",
+          "p": "0",
+          "pos": 1,
+          "pts": "0",
+          "w": "0"
+        }
+      },
+      "date": "2026-08-06T12:57:53",
+      "date_gmt": "2026-08-06T09:57:53",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=17614"
+      },
+      "id": 17614,
+      "leagues": [
+        444
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/",
+      "menu_order": 0,
+      "modified": "2026-08-06T12:57:53",
+      "modified_gmt": "2026-08-06T09:57:53",
+      "seasons": [
+        431
+      ],
+      "slug": "nbc-championship-league-2026-2027-table",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027-table\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027-table\\/\",\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027 TABLE - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2026-08-06T09:57:53+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027-table\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027-table\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027-table\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027 TABLE\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "canonical": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/#breadcrumb"
+              },
+              "datePublished": "2026-08-06T09:57:53+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027-table/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC CHAMPIONSHIP LEAGUE 2026/2027 TABLE - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    }
+  ],
+  "resource": "tables",
+  "scraped_at": "2026-08-07T13:37:35+00:00",
+  "source": "ligikuu"
+}
