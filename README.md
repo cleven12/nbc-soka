@@ -89,9 +89,9 @@ Details: [web/README.md](web/README.md) · consumer URLs: [docs/CONSUMERS.md](do
 
 ---
 
-## Deploy (live API — optional, Phase 7)
+## Deployment
 
-Simplest production shape:
+Simplest production deployment:
 
 1. **Scraper** runs on a schedule (already: `.github/workflows/scrape.yml`).
 2. **API** serves the saved `data/` folder (or use static JSON + the Vercel UI above).
