@@ -14,10 +14,10 @@
       "slug": "nbc-championship-2025-2026"
     },
     {
-      "id": 444,
+      "id": 445,
       "kind": "nbc_championship",
       "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
-      "slug": "nbc-championship-league-2026-27"
+      "slug": "nbc-championship-league-2026-2027"
     },
     {
       "id": 415,
@@ -22641,7 +22641,7 @@
       "winner_id": 286
     }
   ],
-  "scraped_at": "2026-08-10T08:03:56+00:00",
+  "scraped_at": "2026-08-10T19:16:12+00:00",
   "season": {
     "id": 417,
     "name": "2025/26",

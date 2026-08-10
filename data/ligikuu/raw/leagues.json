@@ -2306,45 +2306,45 @@
         ],
         "self": [
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues/444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues/445"
           }
         ],
         "wp:post_type": [
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/events?leagues=444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/events?leagues=445"
           },
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/calendars?leagues=444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/calendars?leagues=445"
           },
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/teams?leagues=444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/teams?leagues=445"
           },
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables?leagues=444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables?leagues=445"
           },
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/players?leagues=444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/players?leagues=445"
           },
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/lists?leagues=444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/lists?leagues=445"
           },
           {
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/staff?leagues=444"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/staff?leagues=445"
           }
         ]
       },
-      "count": 17,
+      "count": 1,
       "description": "",
-      "id": 444,
-      "link": "https://ligikuu.co.tz/league/nbc-championship-league-2026-27/",
+      "id": 445,
+      "link": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/",
       "meta": [],
       "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
       "parent": 0,
-      "slug": "nbc-championship-league-2026-27",
+      "slug": "nbc-championship-league-2026-2027",
       "taxonomy": "sp_league",
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC CHAMPIONSHIP LEAGUE 2026/2027 Archives - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/league/nbc-championship-league-2026-27/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC CHAMPIONSHIP LEAGUE 2026/2027 Archives - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/league/nbc-championship-league-2026-27/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-27\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-27\\/\",\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027 Archives - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-27\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-27\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC CHAMPIONSHIP LEAGUE 2026/2027 Archives - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC CHAMPIONSHIP LEAGUE 2026/2027 Archives - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-2027\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-2027\\/\",\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027 Archives - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-2027\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/nbc-championship-league-2026-2027\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "canonical": "https://ligikuu.co.tz/league/nbc-championship-league-2026-27/",
+        "canonical": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/",
         "og_image": [
           {
             "height": 827,
@@ -2357,7 +2357,7 @@
         "og_site_name": "LIGI KUU",
         "og_title": "NBC CHAMPIONSHIP LEAGUE 2026/2027 Archives - LIGI KUU",
         "og_type": "article",
-        "og_url": "https://ligikuu.co.tz/league/nbc-championship-league-2026-27/",
+        "og_url": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/",
         "robots": {
           "follow": "follow",
           "index": "index",
@@ -2369,20 +2369,20 @@
           "@context": "https://schema.org",
           "@graph": [
             {
-              "@id": "https://ligikuu.co.tz/league/nbc-championship-league-2026-27/",
+              "@id": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/",
               "@type": "CollectionPage",
               "breadcrumb": {
-                "@id": "https://ligikuu.co.tz/league/nbc-championship-league-2026-27/#breadcrumb"
+                "@id": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/#breadcrumb"
               },
               "inLanguage": "en-US",
               "isPartOf": {
                 "@id": "https://ligikuu.co.tz/#website"
               },
               "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027 Archives - LIGI KUU",
-              "url": "https://ligikuu.co.tz/league/nbc-championship-league-2026-27/"
+              "url": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/"
             },
             {
-              "@id": "https://ligikuu.co.tz/league/nbc-championship-league-2026-27/#breadcrumb",
+              "@id": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/#breadcrumb",
               "@type": "BreadcrumbList",
               "itemListElement": [
                 {
@@ -4895,6 +4895,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-08-10T08:03:57+00:00",
+  "scraped_at": "2026-08-10T19:16:13+00:00",
   "source": "ligikuu"
 }

@@ -13,7 +13,7 @@
       418,
       419,
       432,
-      444
+      445
     ],
     "active_season_ids": [
       288,
@@ -23,7 +23,7 @@
     "delta_count": 0,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-10T01:34:07+00:00"
+    "modified_after": "2026-08-10T07:03:56+00:00"
   },
   "items": [
     {
@@ -76905,6 +76905,6 @@
     }
   ],
   "resource": "calendars",
-  "scraped_at": "2026-08-10T08:04:01+00:00",
+  "scraped_at": "2026-08-10T19:16:16+00:00",
   "source": "ligikuu"
 }

@@ -13,7 +13,7 @@
       418,
       419,
       432,
-      444
+      445
     ],
     "active_season_ids": [
       288,
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-10T08:03:58+00:00",
+  "scraped_at": "2026-08-10T19:16:14+00:00",
   "source": "ligikuu"
 }

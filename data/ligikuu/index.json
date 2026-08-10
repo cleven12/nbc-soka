@@ -8,7 +8,7 @@
     "tables": "/api/v1/sources/ligikuu/tables"
   },
   "mode": "incremental",
-  "modified_after": "2026-08-10T01:34:07+00:00",
+  "modified_after": "2026-08-10T07:03:56+00:00",
   "resources": {
     "calendars": 21,
     "events": 1915,
@@ -19,7 +19,7 @@
     "teams": 51,
     "venues": 55
   },
-  "scraped_at": "2026-08-10T08:03:56+00:00",
+  "scraped_at": "2026-08-10T19:16:12+00:00",
   "season_plan": {
     "active_league_ids": [
       236,
@@ -32,7 +32,7 @@
       418,
       419,
       432,
-      444
+      445
     ],
     "active_season_ids": [
       288,
@@ -69,11 +69,11 @@
         "slug": "nbc-championship-2025-2026"
       },
       {
-        "id": 444,
+        "id": 445,
         "kind": "nbc_championship",
         "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
         "season_ids": [],
-        "slug": "nbc-championship-league-2026-27"
+        "slug": "nbc-championship-league-2026-2027"
       },
       {
         "id": 415,
@@ -157,7 +157,7 @@
       "nbc_championship:championship-league-2023-24",
       "nbc_championship:nbc-championship-2025-2026",
       "nbc_championship:nbc-championship-league-2024-2025",
-      "nbc_championship:nbc-championship-league-2026-27",
+      "nbc_championship:nbc-championship-league-2026-2027",
       "nbc_championship:nbc-championship-league-promotion-play-offs-2024-2025",
       "nbc_premier:nbc-premier-league-2023-2024",
       "nbc_premier:nbc-premier-league-2024-25",
