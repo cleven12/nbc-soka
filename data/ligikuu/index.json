@@ -8,18 +8,18 @@
     "tables": "/api/v1/sources/ligikuu/tables"
   },
   "mode": "incremental",
-  "modified_after": "2026-08-10T18:16:12+00:00",
+  "modified_after": "2026-08-11T06:36:26+00:00",
   "resources": {
     "calendars": 21,
     "events": 1915,
     "leagues": 30,
     "lists": 31,
     "seasons": 7,
-    "tables": 12,
+    "tables": 13,
     "teams": 51,
     "venues": 55
   },
-  "scraped_at": "2026-08-11T07:36:26+00:00",
+  "scraped_at": "2026-08-11T13:42:06+00:00",
   "season_plan": {
     "active_league_ids": [
       236,

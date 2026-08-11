@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 25,
+  "count": 26,
   "filters": {
     "full_dump": true
   },
@@ -8661,9 +8661,426 @@
         "title": "NBC CHAMPIONSHIP LEAGUE 2026/2027 - LIGI KUU",
         "twitter_card": "summary_large_image"
       }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/types/sp_table"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables/17657"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media?parent=17657"
+          }
+        ],
+        "wp:term": [
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues?post=17657",
+            "taxonomy": "sp_league"
+          },
+          {
+            "embeddable": true,
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/seasons?post=17657",
+            "taxonomy": "sp_season"
+          }
+        ]
+      },
+      "class_list": [
+        "post-17657",
+        "sp_table",
+        "type-sp_table",
+        "status-publish",
+        "hentry",
+        "sp_league-nbc-championship-league-2026-2027",
+        "sp_season-2026-27"
+      ],
+      "content": {
+        "protected": false,
+        "rendered": ""
+      },
+      "data": {
+        "0": {
+          "a": "GA",
+          "awayrecord": "Away Record",
+          "d": "D",
+          "f": "GF",
+          "gd": "GD",
+          "l": "L",
+          "name": "Club",
+          "p": "P",
+          "pos": "Pos",
+          "pts": "Pts",
+          "w": "W"
+        },
+        "10894": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Gunners",
+          "p": "0",
+          "pos": 4,
+          "pts": "0",
+          "w": "0"
+        },
+        "14179": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "IAA",
+          "p": "0",
+          "pos": 5,
+          "pts": "0",
+          "w": "0"
+        },
+        "14180": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Bandari",
+          "p": "0",
+          "pos": 2,
+          "pts": "0",
+          "w": "0"
+        },
+        "266": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Bigman",
+          "p": "0",
+          "pos": 3,
+          "pts": "0",
+          "w": "0"
+        },
+        "281": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "KMC",
+          "p": "0",
+          "pos": 6,
+          "pts": "0",
+          "w": "0"
+        },
+        "283": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mtibwa Sugar",
+          "p": "0",
+          "pos": 10,
+          "pts": "0",
+          "w": "0"
+        },
+        "290": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Tanzania Prisons",
+          "p": "0",
+          "pos": 15,
+          "pts": "0",
+          "w": "0"
+        },
+        "312": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mbeya Kwanza",
+          "p": "0",
+          "pos": 8,
+          "pts": "0",
+          "w": "0"
+        },
+        "315": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "KenGold",
+          "p": "0",
+          "pos": 7,
+          "pts": "0",
+          "w": "0"
+        },
+        "326": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Transit Camp",
+          "p": "0",
+          "pos": 16,
+          "pts": "0",
+          "w": "0"
+        },
+        "330": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Rhino",
+          "p": "0",
+          "pos": 11,
+          "pts": "0",
+          "w": "0"
+        },
+        "340": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Mbuni",
+          "p": "0",
+          "pos": 9,
+          "pts": "0",
+          "w": "0"
+        },
+        "349": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Stand United",
+          "p": "0",
+          "pos": 13,
+          "pts": "0",
+          "w": "0"
+        },
+        "429": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "Songea United",
+          "p": "0",
+          "pos": 12,
+          "pts": "0",
+          "w": "0"
+        },
+        "4536": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "TMA",
+          "p": "0",
+          "pos": 14,
+          "pts": "0",
+          "w": "0"
+        },
+        "6048": {
+          "a": "0",
+          "awayrecord": "0",
+          "d": "0",
+          "f": "0",
+          "gd": "0",
+          "l": "0",
+          "name": "B19",
+          "p": "0",
+          "pos": 1,
+          "pts": "0",
+          "w": "0"
+        }
+      },
+      "date": "2026-08-11T12:04:42",
+      "date_gmt": "2026-08-11T09:04:42",
+      "featured_media": 0,
+      "guid": {
+        "rendered": "https://ligikuu.co.tz/?post_type=sp_table&#038;p=17657"
+      },
+      "id": 17657,
+      "leagues": [
+        445
+      ],
+      "link": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/",
+      "menu_order": 0,
+      "modified": "2026-08-11T12:04:42",
+      "modified_gmt": "2026-08-11T09:04:42",
+      "seasons": [
+        431
+      ],
+      "slug": "nbc-championship-league-2026-2027",
+      "status": "publish",
+      "template": "",
+      "title": {
+        "rendered": "NBC CHAMPIONSHIP LEAGUE 2026/2027"
+      },
+      "type": "sp_table",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>NBC CHAMPIONSHIP LEAGUE 2026/2027 - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NBC CHAMPIONSHIP LEAGUE 2026/2027 - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027\\/\",\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027 - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"datePublished\":\"2026-08-11T09:04:42+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/table\\/nbc-championship-league-2026-2027\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"NBC CHAMPIONSHIP LEAGUE 2026\\/2027\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "canonical": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "NBC CHAMPIONSHIP LEAGUE 2026/2027 - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/#breadcrumb"
+              },
+              "datePublished": "2026-08-11T09:04:42+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027 - LIGI KUU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/"
+                  ]
+                }
+              ],
+              "url": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/table/nbc-championship-league-2026-2027/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "NBC CHAMPIONSHIP LEAGUE 2026/2027 - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
     }
   ],
   "resource": "tables_all",
-  "scraped_at": "2026-08-11T07:36:30+00:00",
+  "scraped_at": "2026-08-11T13:42:10+00:00",
   "source": "ligikuu"
 }

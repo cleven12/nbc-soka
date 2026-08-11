@@ -28,7 +28,7 @@
   ],
   "counts": {
     "events": 215,
-    "tables": 2,
+    "tables": 3,
     "teams": 32
   },
   "events": [
@@ -6913,7 +6913,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-11T07:36:26+00:00",
+  "scraped_at": "2026-08-11T13:42:06+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
@@ -7389,6 +7389,462 @@
       "slug": "nbc-championship-league-2026-2027-table",
       "standings": [],
       "status": "publish"
+    },
+    {
+      "id": 17657,
+      "leagues": [
+        445
+      ],
+      "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
+      "seasons": [
+        431
+      ],
+      "slug": "nbc-championship-league-2026-2027",
+      "standings": [
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "B19",
+          "played": 0,
+          "points": 0,
+          "pos": 1,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "B19",
+            "p": "0",
+            "pos": 1,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 6048,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Bandari",
+          "played": 0,
+          "points": 0,
+          "pos": 2,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Bandari",
+            "p": "0",
+            "pos": 2,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 14180,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Bigman",
+          "played": 0,
+          "points": 0,
+          "pos": 3,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Bigman",
+            "p": "0",
+            "pos": 3,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 266,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Gunners",
+          "played": 0,
+          "points": 0,
+          "pos": 4,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Gunners",
+            "p": "0",
+            "pos": 4,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 10894,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "IAA",
+          "played": 0,
+          "points": 0,
+          "pos": 5,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "IAA",
+            "p": "0",
+            "pos": 5,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 14179,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "KMC",
+          "played": 0,
+          "points": 0,
+          "pos": 6,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "KMC",
+            "p": "0",
+            "pos": 6,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 281,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "KenGold",
+          "played": 0,
+          "points": 0,
+          "pos": 7,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "KenGold",
+            "p": "0",
+            "pos": 7,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 315,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mbeya Kwanza",
+          "played": 0,
+          "points": 0,
+          "pos": 8,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mbeya Kwanza",
+            "p": "0",
+            "pos": 8,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 312,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mbuni",
+          "played": 0,
+          "points": 0,
+          "pos": 9,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mbuni",
+            "p": "0",
+            "pos": 9,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 340,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mtibwa Sugar",
+          "played": 0,
+          "points": 0,
+          "pos": 10,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mtibwa Sugar",
+            "p": "0",
+            "pos": 10,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 283,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Rhino",
+          "played": 0,
+          "points": 0,
+          "pos": 11,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Rhino",
+            "p": "0",
+            "pos": 11,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 330,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Songea United",
+          "played": 0,
+          "points": 0,
+          "pos": 12,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Songea United",
+            "p": "0",
+            "pos": 12,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 429,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Stand United",
+          "played": 0,
+          "points": 0,
+          "pos": 13,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Stand United",
+            "p": "0",
+            "pos": 13,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 349,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "TMA",
+          "played": 0,
+          "points": 0,
+          "pos": 14,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "TMA",
+            "p": "0",
+            "pos": 14,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 4536,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Tanzania Prisons",
+          "played": 0,
+          "points": 0,
+          "pos": 15,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Tanzania Prisons",
+            "p": "0",
+            "pos": 15,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 290,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Transit Camp",
+          "played": 0,
+          "points": 0,
+          "pos": 16,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Transit Camp",
+            "p": "0",
+            "pos": 16,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 326,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Club",
+          "played": 0,
+          "points": 0,
+          "pos": null,
+          "raw": {
+            "a": "GA",
+            "awayrecord": "Away Record",
+            "d": "D",
+            "f": "GF",
+            "gd": "GD",
+            "l": "L",
+            "name": "Club",
+            "p": "P",
+            "pos": "Pos",
+            "pts": "Pts",
+            "w": "W"
+          },
+          "team_id": 0,
+          "won": 0
+        }
+      ],
+      "status": "publish"
     }
   ],
   "teams": [
@@ -7400,7 +7856,7 @@
         258,
         419,
         290,
-        444
+        445
       ],
       "name": "BIGMAN FC",
       "seasons": [
@@ -7530,7 +7986,7 @@
       "id": 281,
       "leagues": [
         91,
-        444,
+        445,
         134,
         236,
         287,
@@ -7558,7 +8014,7 @@
       "leagues": [
         91,
         290,
-        444,
+        445,
         134,
         236,
         418
@@ -7665,7 +8121,7 @@
       "id": 290,
       "leagues": [
         91,
-        444,
+        445,
         134,
         236,
         287,
@@ -7776,7 +8232,7 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "name": "Mbeya Kwanza",
       "seasons": [
@@ -7800,7 +8256,7 @@
         238,
         419,
         151,
-        444,
+        445,
         287
       ],
       "name": "Kengold FC",
@@ -7907,7 +8363,7 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "name": "Transit Camp",
       "seasons": [
@@ -7933,7 +8389,7 @@
         258,
         323,
         422,
-        444
+        445
       ],
       "name": "Rhino Rangers",
       "seasons": [
@@ -7958,7 +8414,7 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "name": "Mbuni FC",
       "seasons": [
@@ -8009,7 +8465,7 @@
         238,
         419,
         290,
-        444,
+        445,
         59
       ],
       "name": "Stand United",
@@ -8035,7 +8491,7 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "name": "Songea United",
       "seasons": [
@@ -8110,7 +8566,7 @@
         238,
         419,
         290,
-        444
+        445
       ],
       "name": "TMA FC",
       "seasons": [
@@ -8134,7 +8590,7 @@
         258,
         323,
         419,
-        444
+        445
       ],
       "name": "B19 FC",
       "seasons": [
@@ -8156,7 +8612,7 @@
       "leagues": [
         323,
         419,
-        444
+        445
       ],
       "name": "Gunners FC",
       "seasons": [
@@ -8176,7 +8632,7 @@
       "id": 14179,
       "leagues": [
         422,
-        444
+        445
       ],
       "name": "IAA SC",
       "seasons": [
@@ -8195,7 +8651,7 @@
       "id": 14180,
       "leagues": [
         421,
-        444
+        445
       ],
       "name": "Bandari Tanzania",
       "seasons": [

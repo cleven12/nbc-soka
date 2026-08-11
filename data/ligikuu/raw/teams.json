@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 16,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-10T18:16:12+00:00"
+    "modified_after": "2026-08-11T06:36:26+00:00"
   },
   "items": [
     {
@@ -104,7 +104,7 @@
         "sp_league-first-league-group-b-2023-24",
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2021-22",
         "sp_season-2023-24",
         "sp_season-2024-25",
@@ -2135,13 +2135,13 @@
         258,
         419,
         290,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/mwadui-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:25:38",
-      "modified_gmt": "2026-08-06T09:25:38",
+      "modified": "2026-08-11T12:20:29",
+      "modified_gmt": "2026-08-11T09:20:29",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -2164,9 +2164,9 @@
       "venues": [
         420
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>BIGMAN FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mwadui-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"BIGMAN FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mwadui-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:25:38+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"701\" />\n\t<meta property=\"og:image:height\" content=\"755\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/\",\"name\":\"BIGMAN FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\",\"datePublished\":\"2020-12-31T15:02:13+00:00\",\"dateModified\":\"2026-08-06T09:25:38+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\",\"width\":701,\"height\":755},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"BIGMAN FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>BIGMAN FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mwadui-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"BIGMAN FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mwadui-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:20:29+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"701\" />\n\t<meta property=\"og:image:height\" content=\"755\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/\",\"name\":\"BIGMAN FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\",\"datePublished\":\"2020-12-31T15:02:13+00:00\",\"dateModified\":\"2026-08-11T09:20:29+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/WhatsApp-Image-2024-09-04-at-04.46.30.jpeg\",\"width\":701,\"height\":755},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mwadui-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"BIGMAN FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:25:38+00:00",
+        "article_modified_time": "2026-08-11T09:20:29+00:00",
         "canonical": "https://ligikuu.co.tz/team/mwadui-fc/",
         "og_image": [
           {
@@ -2197,7 +2197,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/mwadui-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:25:38+00:00",
+              "dateModified": "2026-08-11T09:20:29+00:00",
               "datePublished": "2020-12-31T15:02:13+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/mwadui-fc/#primaryimage"
@@ -11487,7 +11487,7 @@
         "has-post-thumbnail",
         "hentry",
         "sp_league-ligi-kuu",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_league-nbc-premier-league-2022-23",
         "sp_league-nbc-premier-league-2023-2024",
         "sp_league-nbc-premier-league-2024-25",
@@ -13520,7 +13520,7 @@
       "id": 281,
       "leagues": [
         91,
-        444,
+        445,
         134,
         236,
         287,
@@ -13529,8 +13529,8 @@
       "link": "https://ligikuu.co.tz/team/kmc-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:32:40",
-      "modified_gmt": "2026-08-06T09:32:40",
+      "modified": "2026-08-11T12:57:52",
+      "modified_gmt": "2026-08-11T09:57:52",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -13554,9 +13554,9 @@
       "venues": [
         309
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>KMC FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/kmc-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"KMC FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/kmc-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:32:40+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/KMC.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/\",\"name\":\"KMC FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/KMC.png\",\"datePublished\":\"2021-01-04T06:46:04+00:00\",\"dateModified\":\"2026-08-06T09:32:40+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/KMC.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/KMC.png\",\"width\":1000,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"KMC FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>KMC FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/kmc-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"KMC FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/kmc-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:57:52+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/KMC.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/\",\"name\":\"KMC FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/KMC.png\",\"datePublished\":\"2021-01-04T06:46:04+00:00\",\"dateModified\":\"2026-08-11T09:57:52+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/KMC.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/KMC.png\",\"width\":1000,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kmc-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"KMC FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:32:40+00:00",
+        "article_modified_time": "2026-08-11T09:57:52+00:00",
         "canonical": "https://ligikuu.co.tz/team/kmc-fc/",
         "og_image": [
           {
@@ -13587,7 +13587,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/kmc-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:32:40+00:00",
+              "dateModified": "2026-08-11T09:57:52+00:00",
               "datePublished": "2021-01-04T06:46:04+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/kmc-fc/#primaryimage"
@@ -13766,7 +13766,7 @@
         "hentry",
         "sp_league-ligi-kuu",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_league-nbc-premier-league-2022-23",
         "sp_league-nbc-premier-league-2023-2024",
         "sp_league-nbc-premier-league-2025-2026",
@@ -15799,7 +15799,7 @@
       "leagues": [
         91,
         290,
-        444,
+        445,
         134,
         236,
         418
@@ -15807,8 +15807,8 @@
       "link": "https://ligikuu.co.tz/team/mtibwa-sugar/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:37:29",
-      "modified_gmt": "2026-08-06T09:37:29",
+      "modified": "2026-08-11T14:24:01",
+      "modified_gmt": "2026-08-11T11:24:01",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -15832,9 +15832,9 @@
       "venues": [
         29
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Mtibwa Sugar - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mtibwa-sugar/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mtibwa Sugar - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mtibwa-sugar/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:37:29+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/MTIBWA.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/\",\"name\":\"Mtibwa Sugar - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/MTIBWA.png\",\"datePublished\":\"2021-01-04T06:48:16+00:00\",\"dateModified\":\"2026-08-06T09:37:29+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/MTIBWA.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/MTIBWA.png\",\"width\":1000,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mtibwa Sugar\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Mtibwa Sugar - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mtibwa-sugar/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mtibwa Sugar - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mtibwa-sugar/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T11:24:01+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/MTIBWA.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/\",\"name\":\"Mtibwa Sugar - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/MTIBWA.png\",\"datePublished\":\"2021-01-04T06:48:16+00:00\",\"dateModified\":\"2026-08-11T11:24:01+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/MTIBWA.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/MTIBWA.png\",\"width\":1000,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mtibwa-sugar\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mtibwa Sugar\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:37:29+00:00",
+        "article_modified_time": "2026-08-11T11:24:01+00:00",
         "canonical": "https://ligikuu.co.tz/team/mtibwa-sugar/",
         "og_image": [
           {
@@ -15865,7 +15865,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/mtibwa-sugar/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:37:29+00:00",
+              "dateModified": "2026-08-11T11:24:01+00:00",
               "datePublished": "2021-01-04T06:48:16+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/mtibwa-sugar/#primaryimage"
@@ -25124,7 +25124,7 @@
         "has-post-thumbnail",
         "hentry",
         "sp_league-ligi-kuu",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_league-nbc-premier-league-2022-23",
         "sp_league-nbc-premier-league-2023-2024",
         "sp_league-nbc-premier-league-2024-25",
@@ -27157,7 +27157,7 @@
       "id": 290,
       "leagues": [
         91,
-        444,
+        445,
         134,
         236,
         287,
@@ -27166,8 +27166,8 @@
       "link": "https://ligikuu.co.tz/team/tanzania-prisons/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:46:22",
-      "modified_gmt": "2026-08-06T09:46:22",
+      "modified": "2026-08-11T14:28:31",
+      "modified_gmt": "2026-08-11T11:28:31",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -27191,9 +27191,9 @@
       "venues": [
         31
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Tanzania Prisons - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tanzania-prisons/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tanzania Prisons - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tanzania-prisons/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:46:22+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/T-PRISONS.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/\",\"name\":\"Tanzania Prisons - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/T-PRISONS.png\",\"datePublished\":\"2021-01-04T07:02:18+00:00\",\"dateModified\":\"2026-08-06T09:46:22+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/T-PRISONS.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/T-PRISONS.png\",\"width\":1000,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tanzania Prisons\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Tanzania Prisons - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tanzania-prisons/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tanzania Prisons - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tanzania-prisons/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T11:28:31+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/T-PRISONS.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/\",\"name\":\"Tanzania Prisons - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/T-PRISONS.png\",\"datePublished\":\"2021-01-04T07:02:18+00:00\",\"dateModified\":\"2026-08-11T11:28:31+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/T-PRISONS.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2020\\/12\\/T-PRISONS.png\",\"width\":1000,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanzania-prisons\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tanzania Prisons\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:46:22+00:00",
+        "article_modified_time": "2026-08-11T11:28:31+00:00",
         "canonical": "https://ligikuu.co.tz/team/tanzania-prisons/",
         "og_image": [
           {
@@ -27224,7 +27224,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/tanzania-prisons/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:46:22+00:00",
+              "dateModified": "2026-08-11T11:28:31+00:00",
               "datePublished": "2021-01-04T07:02:18+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/tanzania-prisons/#primaryimage"
@@ -38786,7 +38786,7 @@
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2022-23",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2022-23",
         "sp_season-2023-24",
         "sp_season-2024-25",
@@ -40817,13 +40817,13 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/mbeya-kwanza/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:36:16",
-      "modified_gmt": "2026-08-06T09:36:16",
+      "modified": "2026-08-11T13:00:17",
+      "modified_gmt": "2026-08-11T10:00:17",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -40846,9 +40846,9 @@
       "venues": [
         125
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Mbeya Kwanza - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mbeya-kwanza/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mbeya Kwanza - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mbeya-kwanza/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:36:16+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/mbeya-kwanza.jpg\" />\n\t<meta property=\"og:image:width\" content=\"320\" />\n\t<meta property=\"og:image:height\" content=\"320\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/\",\"name\":\"Mbeya Kwanza - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/mbeya-kwanza.jpg\",\"datePublished\":\"2021-01-07T06:01:40+00:00\",\"dateModified\":\"2026-08-06T09:36:16+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/mbeya-kwanza.jpg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/mbeya-kwanza.jpg\",\"width\":320,\"height\":320},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mbeya Kwanza\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Mbeya Kwanza - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mbeya-kwanza/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mbeya Kwanza - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mbeya-kwanza/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T10:00:17+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/mbeya-kwanza.jpg\" />\n\t<meta property=\"og:image:width\" content=\"320\" />\n\t<meta property=\"og:image:height\" content=\"320\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/\",\"name\":\"Mbeya Kwanza - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/mbeya-kwanza.jpg\",\"datePublished\":\"2021-01-07T06:01:40+00:00\",\"dateModified\":\"2026-08-11T10:00:17+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/mbeya-kwanza.jpg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/mbeya-kwanza.jpg\",\"width\":320,\"height\":320},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbeya-kwanza\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mbeya Kwanza\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:36:16+00:00",
+        "article_modified_time": "2026-08-11T10:00:17+00:00",
         "canonical": "https://ligikuu.co.tz/team/mbeya-kwanza/",
         "og_image": [
           {
@@ -40879,7 +40879,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/mbeya-kwanza/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:36:16+00:00",
+              "dateModified": "2026-08-11T10:00:17+00:00",
               "datePublished": "2021-01-07T06:01:40+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/mbeya-kwanza/#primaryimage"
@@ -41059,7 +41059,7 @@
         "sp_league-championship-league-2023-24",
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2022-23",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_league-nbc-premier-league-2024-25",
         "sp_season-2021-22",
         "sp_season-2022-23",
@@ -43091,14 +43091,14 @@
         238,
         419,
         151,
-        444,
+        445,
         287
       ],
       "link": "https://ligikuu.co.tz/team/kengold-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:30:52",
-      "modified_gmt": "2026-08-06T09:30:52",
+      "modified": "2026-08-11T12:53:18",
+      "modified_gmt": "2026-08-11T09:53:18",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -43122,9 +43122,9 @@
       "venues": [
         31
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Kengold FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/kengold-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kengold FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/kengold-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:30:52+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Kengold.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/\",\"name\":\"Kengold FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Kengold.png\",\"datePublished\":\"2021-01-07T06:03:46+00:00\",\"dateModified\":\"2026-08-06T09:30:52+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Kengold.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Kengold.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Kengold FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Kengold FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/kengold-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kengold FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/kengold-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:53:18+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Kengold.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/\",\"name\":\"Kengold FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Kengold.png\",\"datePublished\":\"2021-01-07T06:03:46+00:00\",\"dateModified\":\"2026-08-11T09:53:18+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Kengold.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Kengold.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/kengold-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Kengold FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:30:52+00:00",
+        "article_modified_time": "2026-08-11T09:53:18+00:00",
         "canonical": "https://ligikuu.co.tz/team/kengold-fc/",
         "og_image": [
           {
@@ -43155,7 +43155,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/kengold-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:30:52+00:00",
+              "dateModified": "2026-08-11T09:53:18+00:00",
               "datePublished": "2021-01-07T06:03:46+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/kengold-fc/#primaryimage"
@@ -52407,7 +52407,7 @@
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2022-23",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2021-22",
         "sp_season-2022-23",
         "sp_season-2023-24",
@@ -54439,13 +54439,13 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/transit-camp/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:49:58",
-      "modified_gmt": "2026-08-06T09:49:58",
+      "modified": "2026-08-11T14:31:26",
+      "modified_gmt": "2026-08-11T11:31:26",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -54469,9 +54469,9 @@
       "venues": [
         38
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Transit Camp - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/transit-camp/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Transit Camp - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/transit-camp/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:49:58+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Ttansit.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/\",\"name\":\"Transit Camp - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Ttansit.png\",\"datePublished\":\"2021-01-07T06:36:33+00:00\",\"dateModified\":\"2026-08-06T09:49:58+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Ttansit.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Ttansit.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Transit Camp\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Transit Camp - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/transit-camp/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Transit Camp - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/transit-camp/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T11:31:26+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Ttansit.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/\",\"name\":\"Transit Camp - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Ttansit.png\",\"datePublished\":\"2021-01-07T06:36:33+00:00\",\"dateModified\":\"2026-08-11T11:31:26+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Ttansit.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Ttansit.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/transit-camp\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Transit Camp\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:49:58+00:00",
+        "article_modified_time": "2026-08-11T11:31:26+00:00",
         "canonical": "https://ligikuu.co.tz/team/transit-camp/",
         "og_image": [
           {
@@ -54502,7 +54502,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/transit-camp/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:49:58+00:00",
+              "dateModified": "2026-08-11T11:31:26+00:00",
               "datePublished": "2021-01-07T06:36:33+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/transit-camp/#primaryimage"
@@ -54683,7 +54683,7 @@
         "sp_league-first-league-group-b-2023-24",
         "sp_league-first-league-group-b-2024-2025",
         "sp_league-first-league-group-b-2025-2026",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2020-21",
         "sp_season-2023-24",
         "sp_season-2024-25",
@@ -56714,13 +56714,13 @@
         258,
         323,
         422,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/rhino-rangers-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:39:51",
-      "modified_gmt": "2026-08-06T09:39:51",
+      "modified": "2026-08-11T14:25:04",
+      "modified_gmt": "2026-08-11T11:25:04",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -56743,9 +56743,9 @@
       "venues": [
         423
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Rhino Rangers - LIGI KUU</title>\n<meta name=\"description\" content=\"Rhino Rangers\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/rhino-rangers-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Rhino Rangers - LIGI KUU\" />\n<meta property=\"og:description\" content=\"Rhino Rangers\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/rhino-rangers-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:39:51+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Rhino.jpg\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"240\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/\",\"name\":\"Rhino Rangers - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Rhino.jpg\",\"datePublished\":\"2021-01-07T06:40:37+00:00\",\"dateModified\":\"2026-08-06T09:39:51+00:00\",\"description\":\"Rhino Rangers\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Rhino.jpg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Rhino.jpg\",\"width\":250,\"height\":240,\"caption\":\"Rhino Rangers\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Rhino Rangers\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Rhino Rangers - LIGI KUU</title>\n<meta name=\"description\" content=\"Rhino Rangers\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/rhino-rangers-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Rhino Rangers - LIGI KUU\" />\n<meta property=\"og:description\" content=\"Rhino Rangers\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/rhino-rangers-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T11:25:04+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Rhino.jpg\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"240\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/\",\"name\":\"Rhino Rangers - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Rhino.jpg\",\"datePublished\":\"2021-01-07T06:40:37+00:00\",\"dateModified\":\"2026-08-11T11:25:04+00:00\",\"description\":\"Rhino Rangers\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Rhino.jpg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Rhino.jpg\",\"width\":250,\"height\":240,\"caption\":\"Rhino Rangers\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/rhino-rangers-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Rhino Rangers\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:39:51+00:00",
+        "article_modified_time": "2026-08-11T11:25:04+00:00",
         "canonical": "https://ligikuu.co.tz/team/rhino-rangers-fc/",
         "description": "Rhino Rangers",
         "og_description": "Rhino Rangers",
@@ -56778,7 +56778,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/rhino-rangers-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:39:51+00:00",
+              "dateModified": "2026-08-11T11:25:04+00:00",
               "datePublished": "2021-01-07T06:40:37+00:00",
               "description": "Rhino Rangers",
               "image": {
@@ -63791,7 +63791,7 @@
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2022-23",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2021-22",
         "sp_season-2022-23",
         "sp_season-2023-24",
@@ -65823,13 +65823,13 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/mbuni-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:54:06",
-      "modified_gmt": "2026-08-06T09:54:06",
+      "modified": "2026-08-11T13:01:14",
+      "modified_gmt": "2026-08-11T10:01:14",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -65853,9 +65853,9 @@
       "venues": [
         143
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Mbuni FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mbuni-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mbuni FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mbuni-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:54:06+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Mbuni.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/\",\"name\":\"Mbuni FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Mbuni.png\",\"datePublished\":\"2021-01-08T07:06:02+00:00\",\"dateModified\":\"2026-08-06T09:54:06+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Mbuni.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Mbuni.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mbuni FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Mbuni FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/mbuni-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mbuni FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/mbuni-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T10:01:14+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/Mbuni.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/\",\"name\":\"Mbuni FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Mbuni.png\",\"datePublished\":\"2021-01-08T07:06:02+00:00\",\"dateModified\":\"2026-08-11T10:01:14+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Mbuni.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/Mbuni.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/mbuni-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mbuni FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:54:06+00:00",
+        "article_modified_time": "2026-08-11T10:01:14+00:00",
         "canonical": "https://ligikuu.co.tz/team/mbuni-fc/",
         "og_image": [
           {
@@ -65886,7 +65886,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/mbuni-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:54:06+00:00",
+              "dateModified": "2026-08-11T10:01:14+00:00",
               "datePublished": "2021-01-08T07:06:02+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/mbuni-fc/#primaryimage"
@@ -70615,7 +70615,7 @@
         "sp_league-championship-league-2023-24",
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_league-second-division-league-group-b",
         "sp_season-2020-21",
         "sp_season-2023-24",
@@ -72646,14 +72646,14 @@
         238,
         419,
         290,
-        444,
+        445,
         59
       ],
       "link": "https://ligikuu.co.tz/team/stand-united/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:44:56",
-      "modified_gmt": "2026-08-06T09:44:56",
+      "modified": "2026-08-11T14:27:17",
+      "modified_gmt": "2026-08-11T11:27:17",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -72676,9 +72676,9 @@
       "venues": [
         275
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Stand United - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/stand-united/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Stand United - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/stand-united/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:44:56+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/stand.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/\",\"name\":\"Stand United - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/stand.png\",\"datePublished\":\"2021-01-08T07:25:06+00:00\",\"dateModified\":\"2026-08-06T09:44:56+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/stand.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/stand.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Stand United\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Stand United - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/stand-united/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Stand United - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/stand-united/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T11:27:17+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/stand.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/\",\"name\":\"Stand United - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/stand.png\",\"datePublished\":\"2021-01-08T07:25:06+00:00\",\"dateModified\":\"2026-08-11T11:27:17+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/stand.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/stand.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/stand-united\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Stand United\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:44:56+00:00",
+        "article_modified_time": "2026-08-11T11:27:17+00:00",
         "canonical": "https://ligikuu.co.tz/team/stand-united/",
         "og_image": [
           {
@@ -72709,7 +72709,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/stand-united/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:44:56+00:00",
+              "dateModified": "2026-08-11T11:27:17+00:00",
               "datePublished": "2021-01-08T07:25:06+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/stand-united/#primaryimage"
@@ -77400,7 +77400,7 @@
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2022-23",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2022-23",
         "sp_season-2023-24",
         "sp_season-2024-25",
@@ -79431,13 +79431,13 @@
         419,
         151,
         290,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/fountain-gate-2/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:41:20",
-      "modified_gmt": "2026-08-06T09:41:20",
+      "modified": "2026-08-11T14:26:03",
+      "modified_gmt": "2026-08-11T11:26:03",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -79460,9 +79460,9 @@
       "venues": [
         104
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Songea United - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/fountain-gate-2/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Songea United - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/fountain-gate-2/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:41:20+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/IMG-20240904-WA0018.jpg\" />\n\t<meta property=\"og:image:width\" content=\"868\" />\n\t<meta property=\"og:image:height\" content=\"802\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/\",\"name\":\"Songea United - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/IMG-20240904-WA0018.jpg\",\"datePublished\":\"2021-01-09T16:00:42+00:00\",\"dateModified\":\"2026-08-06T09:41:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/IMG-20240904-WA0018.jpg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/IMG-20240904-WA0018.jpg\",\"width\":868,\"height\":802},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Songea United\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Songea United - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/fountain-gate-2/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Songea United - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/fountain-gate-2/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T11:26:03+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2021/01/IMG-20240904-WA0018.jpg\" />\n\t<meta property=\"og:image:width\" content=\"868\" />\n\t<meta property=\"og:image:height\" content=\"802\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/\",\"name\":\"Songea United - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/IMG-20240904-WA0018.jpg\",\"datePublished\":\"2021-01-09T16:00:42+00:00\",\"dateModified\":\"2026-08-11T11:26:03+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/IMG-20240904-WA0018.jpg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2021\\/01\\/IMG-20240904-WA0018.jpg\",\"width\":868,\"height\":802},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/fountain-gate-2\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Songea United\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:41:20+00:00",
+        "article_modified_time": "2026-08-11T11:26:03+00:00",
         "canonical": "https://ligikuu.co.tz/team/fountain-gate-2/",
         "og_image": [
           {
@@ -79493,7 +79493,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/fountain-gate-2/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:41:20+00:00",
+              "dateModified": "2026-08-11T11:26:03+00:00",
               "datePublished": "2021-01-09T16:00:42+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/fountain-gate-2/#primaryimage"
@@ -86497,7 +86497,7 @@
         "sp_league-championship-league-2023-24",
         "sp_league-nbc-championship-2025-2026",
         "sp_league-nbc-championship-league-2024-2025",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2023-24",
         "sp_season-2024-25",
         "sp_season-2025-26",
@@ -88526,13 +88526,13 @@
         238,
         419,
         290,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/tma-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:48:37",
-      "modified_gmt": "2026-08-06T09:48:37",
+      "modified": "2026-08-11T14:30:29",
+      "modified_gmt": "2026-08-11T11:30:29",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -88554,9 +88554,9 @@
       "venues": [
         143
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>TMA FC - LIGI KUU</title>\n<meta name=\"description\" content=\"TMA\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tma-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"TMA FC - LIGI KUU\" />\n<meta property=\"og:description\" content=\"TMA\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tma-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:48:37+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2023/08/TMA.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/\",\"name\":\"TMA FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/08\\/TMA.png\",\"datePublished\":\"2023-08-31T09:49:09+00:00\",\"dateModified\":\"2026-08-06T09:48:37+00:00\",\"description\":\"TMA\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/08\\/TMA.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/08\\/TMA.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"TMA FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>TMA FC - LIGI KUU</title>\n<meta name=\"description\" content=\"TMA\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tma-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"TMA FC - LIGI KUU\" />\n<meta property=\"og:description\" content=\"TMA\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tma-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T11:30:29+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2023/08/TMA.png\" />\n\t<meta property=\"og:image:width\" content=\"250\" />\n\t<meta property=\"og:image:height\" content=\"250\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/\",\"name\":\"TMA FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/08\\/TMA.png\",\"datePublished\":\"2023-08-31T09:49:09+00:00\",\"dateModified\":\"2026-08-11T11:30:29+00:00\",\"description\":\"TMA\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/08\\/TMA.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/08\\/TMA.png\",\"width\":250,\"height\":250},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tma-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"TMA FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:48:37+00:00",
+        "article_modified_time": "2026-08-11T11:30:29+00:00",
         "canonical": "https://ligikuu.co.tz/team/tma-fc/",
         "description": "TMA",
         "og_description": "TMA",
@@ -88589,7 +88589,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/tma-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:48:37+00:00",
+              "dateModified": "2026-08-11T11:30:29+00:00",
               "datePublished": "2023-08-31T09:49:09+00:00",
               "description": "TMA",
               "image": {
@@ -100122,7 +100122,7 @@
         "sp_league-first-league-group-b-2023-24",
         "sp_league-first-league-group-b-2024-2025",
         "sp_league-nbc-championship-2025-2026",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2023-24",
         "sp_season-2024-25",
         "sp_season-2025-26",
@@ -102152,13 +102152,13 @@
         258,
         323,
         419,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/tanesco-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:20:28",
-      "modified_gmt": "2026-08-06T09:20:28",
+      "modified": "2026-08-11T12:13:22",
+      "modified_gmt": "2026-08-11T09:13:22",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -102180,9 +102180,9 @@
       "venues": [
         30
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>B19 FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"B19 FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:20:28+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2023/10/B19.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"1080\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"name\":\"B19 FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"datePublished\":\"2023-10-07T08:59:25+00:00\",\"dateModified\":\"2026-08-06T09:20:28+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"width\":1080,\"height\":1080,\"caption\":\"B19\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"B19 FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>B19 FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"B19 FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:13:22+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2023/10/B19.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"1080\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"name\":\"B19 FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"datePublished\":\"2023-10-07T08:59:25+00:00\",\"dateModified\":\"2026-08-11T09:13:22+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"width\":1080,\"height\":1080,\"caption\":\"B19\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"B19 FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:20:28+00:00",
+        "article_modified_time": "2026-08-11T09:13:22+00:00",
         "canonical": "https://ligikuu.co.tz/team/tanesco-fc/",
         "og_image": [
           {
@@ -102213,7 +102213,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/tanesco-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:20:28+00:00",
+              "dateModified": "2026-08-11T09:13:22+00:00",
               "datePublished": "2023-10-07T08:59:25+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/tanesco-fc/#primaryimage"
@@ -106922,7 +106922,7 @@
         "hentry",
         "sp_league-first-league-group-b-2024-2025",
         "sp_league-nbc-championship-2025-2026",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2024-25",
         "sp_season-2025-26",
         "sp_season-2026-27",
@@ -108949,13 +108949,13 @@
       "leagues": [
         323,
         419,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/gunners-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:27:38",
-      "modified_gmt": "2026-08-06T09:27:38",
+      "modified": "2026-08-11T12:24:26",
+      "modified_gmt": "2026-08-11T09:24:26",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -108976,9 +108976,9 @@
       "venues": [
         29
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Gunners FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/gunners-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Gunners FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/gunners-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:27:38+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2024/11/GUNNERS.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"1080\" />\n\t<meta property=\"og:image:height\" content=\"1037\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/\",\"name\":\"Gunners FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2024\\/11\\/GUNNERS.jpeg\",\"datePublished\":\"2024-11-11T06:48:18+00:00\",\"dateModified\":\"2026-08-06T09:27:38+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2024\\/11\\/GUNNERS.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2024\\/11\\/GUNNERS.jpeg\",\"width\":1080,\"height\":1037,\"caption\":\"GUNNERS\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Gunners FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Gunners FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/gunners-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Gunners FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/gunners-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:24:26+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2024/11/GUNNERS.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"1080\" />\n\t<meta property=\"og:image:height\" content=\"1037\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/\",\"name\":\"Gunners FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2024\\/11\\/GUNNERS.jpeg\",\"datePublished\":\"2024-11-11T06:48:18+00:00\",\"dateModified\":\"2026-08-11T09:24:26+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2024\\/11\\/GUNNERS.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2024\\/11\\/GUNNERS.jpeg\",\"width\":1080,\"height\":1037,\"caption\":\"GUNNERS\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/gunners-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Gunners FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:27:38+00:00",
+        "article_modified_time": "2026-08-11T09:24:26+00:00",
         "canonical": "https://ligikuu.co.tz/team/gunners-fc/",
         "og_image": [
           {
@@ -109009,7 +109009,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/gunners-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:27:38+00:00",
+              "dateModified": "2026-08-11T09:24:26+00:00",
               "datePublished": "2024-11-11T06:48:18+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/gunners-fc/#primaryimage"
@@ -111450,7 +111450,7 @@
         "has-post-thumbnail",
         "hentry",
         "sp_league-first-league-group-b-2025-2026",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2025-26",
         "sp_season-2026-27",
         "sp_venue-sheikh-amri-abeid"
@@ -113475,13 +113475,13 @@
       "id": 14179,
       "leagues": [
         422,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/iaa-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:29:35",
-      "modified_gmt": "2026-08-06T09:29:35",
+      "modified": "2026-08-11T12:27:41",
+      "modified_gmt": "2026-08-11T09:27:41",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -113501,9 +113501,9 @@
       "venues": [
         143
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>IAA SC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/iaa-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"IAA SC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/iaa-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:29:35+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2025/11/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"585\" />\n\t<meta property=\"og:image:height\" content=\"491\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/\",\"name\":\"IAA SC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/11\\/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\",\"datePublished\":\"2025-10-06T11:08:37+00:00\",\"dateModified\":\"2026-08-06T09:29:35+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/11\\/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/11\\/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\",\"width\":585,\"height\":491,\"caption\":\"IAA\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"IAA SC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>IAA SC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/iaa-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"IAA SC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/iaa-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:27:41+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2025/11/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"585\" />\n\t<meta property=\"og:image:height\" content=\"491\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/\",\"name\":\"IAA SC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/11\\/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\",\"datePublished\":\"2025-10-06T11:08:37+00:00\",\"dateModified\":\"2026-08-11T09:27:41+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/11\\/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/11\\/WhatsApp-Image-2025-12-01-at-00.55.54.jpeg\",\"width\":585,\"height\":491,\"caption\":\"IAA\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/iaa-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"IAA SC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:29:35+00:00",
+        "article_modified_time": "2026-08-11T09:27:41+00:00",
         "canonical": "https://ligikuu.co.tz/team/iaa-fc/",
         "og_image": [
           {
@@ -113534,7 +113534,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/iaa-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:29:35+00:00",
+              "dateModified": "2026-08-11T09:27:41+00:00",
               "datePublished": "2025-10-06T11:08:37+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/iaa-fc/#primaryimage"
@@ -113713,7 +113713,7 @@
         "has-post-thumbnail",
         "hentry",
         "sp_league-first-league-group-a-2025-2026",
-        "sp_league-nbc-championship-league-2026-27",
+        "sp_league-nbc-championship-league-2026-2027",
         "sp_season-2025-26",
         "sp_season-2026-27",
         "sp_venue-nangwanda-sijaona-stadium"
@@ -115738,13 +115738,13 @@
       "id": 14180,
       "leagues": [
         421,
-        444
+        445
       ],
       "link": "https://ligikuu.co.tz/team/bandari-tanzania/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-06T12:22:16",
-      "modified_gmt": "2026-08-06T09:22:16",
+      "modified": "2026-08-11T12:17:40",
+      "modified_gmt": "2026-08-11T09:17:40",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -115764,9 +115764,9 @@
       "venues": [
         125
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Bandari Tanzania - LIGI KUU</title>\n<meta name=\"description\" content=\"Bandari Tanzania\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/bandari-tanzania/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Bandari Tanzania - LIGI KUU\" />\n<meta property=\"og:description\" content=\"Bandari Tanzania\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/bandari-tanzania/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-06T09:22:16+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2025/10/Bandari.png\" />\n\t<meta property=\"og:image:width\" content=\"672\" />\n\t<meta property=\"og:image:height\" content=\"616\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/\",\"name\":\"Bandari Tanzania - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/10\\/Bandari.png\",\"datePublished\":\"2025-10-06T11:52:16+00:00\",\"dateModified\":\"2026-08-06T09:22:16+00:00\",\"description\":\"Bandari Tanzania\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/10\\/Bandari.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/10\\/Bandari.png\",\"width\":672,\"height\":616,\"caption\":\"Bandari Tanzania\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Bandari Tanzania\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Bandari Tanzania - LIGI KUU</title>\n<meta name=\"description\" content=\"Bandari Tanzania\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/bandari-tanzania/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Bandari Tanzania - LIGI KUU\" />\n<meta property=\"og:description\" content=\"Bandari Tanzania\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/bandari-tanzania/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:17:40+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2025/10/Bandari.png\" />\n\t<meta property=\"og:image:width\" content=\"672\" />\n\t<meta property=\"og:image:height\" content=\"616\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/\",\"name\":\"Bandari Tanzania - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/10\\/Bandari.png\",\"datePublished\":\"2025-10-06T11:52:16+00:00\",\"dateModified\":\"2026-08-11T09:17:40+00:00\",\"description\":\"Bandari Tanzania\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/10\\/Bandari.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2025\\/10\\/Bandari.png\",\"width\":672,\"height\":616,\"caption\":\"Bandari Tanzania\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/bandari-tanzania\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Bandari Tanzania\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-06T09:22:16+00:00",
+        "article_modified_time": "2026-08-11T09:17:40+00:00",
         "canonical": "https://ligikuu.co.tz/team/bandari-tanzania/",
         "description": "Bandari Tanzania",
         "og_description": "Bandari Tanzania",
@@ -115799,7 +115799,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/bandari-tanzania/#breadcrumb"
               },
-              "dateModified": "2026-08-06T09:22:16+00:00",
+              "dateModified": "2026-08-11T09:17:40+00:00",
               "datePublished": "2025-10-06T11:52:16+00:00",
               "description": "Bandari Tanzania",
               "image": {
@@ -115906,6 +115906,6 @@
     }
   ],
   "resource": "teams",
-  "scraped_at": "2026-08-11T07:36:30+00:00",
+  "scraped_at": "2026-08-11T13:42:10+00:00",
   "source": "ligikuu"
 }
