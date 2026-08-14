@@ -33,13 +33,13 @@
   },
   "events": [
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 267,
       "date": "2026-08-14T14:00:00",
       "date_gmt": "2026-08-14T11:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 321,
       "id": 17298,
       "is_placeholder": false,
@@ -48,8 +48,14 @@
       ],
       "minutes": "90",
       "name": "Pamba Jiji vs Dodoma Jiji",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "267": "draw",
+        "321": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         321,
         267
@@ -58,7 +64,7 @@
         431
       ],
       "slug": "17298",
-      "status": "future",
+      "status": "publish",
       "venues": [
         106
       ],
@@ -6913,7 +6919,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-14T07:49:56+00:00",
+  "scraped_at": "2026-08-14T13:42:04+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

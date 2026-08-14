@@ -23,7 +23,7 @@
     "delta_count": 0,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-14T01:45:33+00:00"
+    "modified_after": "2026-08-14T06:49:56+00:00"
   },
   "items": [
     {
@@ -115906,6 +115906,6 @@
     }
   ],
   "resource": "teams",
-  "scraped_at": "2026-08-14T07:49:58+00:00",
+  "scraped_at": "2026-08-14T13:42:06+00:00",
   "source": "ligikuu"
 }
