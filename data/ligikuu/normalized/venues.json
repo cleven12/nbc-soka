@@ -35,7 +35,7 @@
       "slug": "aghakan"
     },
     {
-      "count": 15,
+      "count": 16,
       "description": "",
       "id": 427,
       "name": "Airtel Stadium, Singida",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-14T13:42:06+00:00",
+  "scraped_at": "2026-08-14T19:13:02+00:00",
   "source": "ligikuu"
 }

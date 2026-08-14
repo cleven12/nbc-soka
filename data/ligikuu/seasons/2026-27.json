@@ -71,13 +71,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 322,
       "date": "2026-08-14T16:15:00",
       "date_gmt": "2026-08-14T13:15:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 285,
       "id": 17299,
       "is_placeholder": false,
@@ -86,8 +86,14 @@
       ],
       "minutes": "90",
       "name": "Mbeya City vs Geita Gold",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "285": "loss",
+        "322": "win"
+      },
+      "raw_main_results": [
+        "0",
+        "1"
+      ],
       "raw_teams": [
         285,
         322
@@ -96,20 +102,20 @@
         431
       ],
       "slug": "17299",
-      "status": "future",
+      "status": "publish",
       "venues": [
         31
       ],
-      "winner_id": null
+      "winner_id": 322
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 2582,
       "date": "2026-08-14T19:00:00",
       "date_gmt": "2026-08-14T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 3,
       "home_team_id": 2189,
       "id": 17300,
       "is_placeholder": false,
@@ -118,8 +124,14 @@
       ],
       "minutes": "90",
       "name": "Singida BS vs Fountain Gate",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2189": "win",
+        "2582": "loss"
+      },
+      "raw_main_results": [
+        "3",
+        "0"
+      ],
       "raw_teams": [
         2189,
         2582
@@ -128,11 +140,11 @@
         431
       ],
       "slug": "17300",
-      "status": "future",
+      "status": "publish",
       "venues": [
         427
       ],
-      "winner_id": null
+      "winner_id": 2189
     },
     {
       "away_score": null,
@@ -6919,7 +6931,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-14T13:42:04+00:00",
+  "scraped_at": "2026-08-14T19:13:00+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
