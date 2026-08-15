@@ -3474,7 +3474,7 @@
           }
         ]
       },
-      "count": 33,
+      "count": 36,
       "description": "",
       "id": 432,
       "link": "https://ligikuu.co.tz/league/nbc-premier-league-2026-2027/",
@@ -4895,6 +4895,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-08-15T12:58:26+00:00",
+  "scraped_at": "2026-08-15T18:39:10+00:00",
   "source": "ligikuu"
 }

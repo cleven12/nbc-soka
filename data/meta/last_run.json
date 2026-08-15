@@ -1,18 +1,18 @@
 {
-  "mode": "incremental",
-  "modified_after_used": "2026-08-15T00:49:03+00:00",
+  "mode": "full",
+  "modified_after_used": null,
   "ok": true,
   "resource_counts": {
-    "calendars": 21,
-    "events": 1915,
+    "calendars": 46,
+    "events": 2787,
     "leagues": 30,
     "lists": 31,
     "seasons": 7,
-    "tables": 13,
-    "teams": 51,
+    "tables": 25,
+    "teams": 71,
     "venues": 55
   },
-  "scraped_at": "2026-08-15T12:58:25+00:00",
+  "scraped_at": "2026-08-15T18:39:09+00:00",
   "season_plan": {
     "active_league_ids": [
       236,
