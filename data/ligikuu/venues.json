@@ -21,7 +21,7 @@
       431
     ],
     "delta_count": null,
-    "full": true,
+    "full": false,
     "incremental": false,
     "modified_after": null
   },
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-15T18:39:11+00:00",
+  "scraped_at": "2026-08-15T18:46:53+00:00",
   "source": "ligikuu"
 }
