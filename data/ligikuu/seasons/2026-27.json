@@ -255,13 +255,13 @@
       "winner_id": 292
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 291,
       "date": "2026-08-16T18:00:00",
       "date_gmt": "2026-08-16T15:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 269,
       "id": 17304,
       "is_placeholder": false,
@@ -270,8 +270,14 @@
       ],
       "minutes": "90",
       "name": "Kagera Sugar vs Simba SC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "269": "loss",
+        "291": "win"
+      },
+      "raw_main_results": [
+        "0",
+        "2"
+      ],
       "raw_teams": [
         269,
         291
@@ -280,11 +286,11 @@
         431
       ],
       "slug": "17304",
-      "status": "future",
+      "status": "publish",
       "venues": [
         95
       ],
-      "winner_id": null
+      "winner_id": 291
     },
     {
       "away_score": null,
@@ -6943,7 +6949,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-16T13:00:12+00:00",
+  "scraped_at": "2026-08-16T18:46:42+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

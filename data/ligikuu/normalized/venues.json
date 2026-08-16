@@ -203,7 +203,7 @@
       "slug": "kagera-sugar"
     },
     {
-      "count": 29,
+      "count": 30,
       "description": "",
       "id": 95,
       "name": "Kaitaba Stadium, Bukoba",
@@ -291,7 +291,7 @@
       "slug": "mbeya-city"
     },
     {
-      "count": 45,
+      "count": 46,
       "description": "",
       "id": 279,
       "name": "Mej. Gen. Isamuhyo, DSM",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-16T13:00:14+00:00",
+  "scraped_at": "2026-08-16T18:46:44+00:00",
   "source": "ligikuu"
 }

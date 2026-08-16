@@ -3384,7 +3384,7 @@
           }
         ]
       },
-      "count": 29,
+      "count": 30,
       "description": "",
       "id": 95,
       "link": "https://ligikuu.co.tz/venue/kaitaba-stadium-bukoba/",
@@ -5045,7 +5045,7 @@
           }
         ]
       },
-      "count": 45,
+      "count": 46,
       "description": "",
       "id": 279,
       "link": "https://ligikuu.co.tz/venue/mej-gen-isamuhyo-dsm/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-16T13:00:14+00:00",
+  "scraped_at": "2026-08-16T18:46:44+00:00",
   "source": "ligikuu"
 }
