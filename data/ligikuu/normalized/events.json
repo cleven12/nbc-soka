@@ -23,7 +23,7 @@
     "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-15T17:39:09+00:00"
+    "modified_after": "2026-08-15T17:46:51+00:00"
   },
   "items": [
     {
@@ -63699,13 +63699,13 @@
       "winner_id": 344
     },
     {
-      "away_score": null,
+      "away_score": 3,
       "away_team_id": 292,
       "date": "2026-08-15T21:00:00",
       "date_gmt": "2026-08-15T18:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 286,
       "id": 17303,
       "is_placeholder": false,
@@ -63714,8 +63714,14 @@
       ],
       "minutes": "90",
       "name": "Namungo FC vs Young Africans",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "286": "loss",
+        "292": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "3"
+      ],
       "raw_teams": [
         286,
         292
@@ -63724,11 +63730,11 @@
         431
       ],
       "slug": "17303",
-      "status": "future",
+      "status": "publish",
       "venues": [
         27
       ],
-      "winner_id": null
+      "winner_id": 292
     },
     {
       "away_score": null,
@@ -70420,6 +70426,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-15T18:46:56+00:00",
+  "scraped_at": "2026-08-16T06:58:25+00:00",
   "source": "ligikuu"
 }
