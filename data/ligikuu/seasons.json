@@ -1029,7 +1029,7 @@
           }
         ]
       },
-      "count": 73,
+      "count": 76,
       "description": "",
       "id": 431,
       "link": "https://ligikuu.co.tz/season/2026-27/",
@@ -1146,6 +1146,6 @@
     }
   ],
   "resource": "seasons",
-  "scraped_at": "2026-08-17T13:05:19+00:00",
+  "scraped_at": "2026-08-17T18:57:13+00:00",
   "source": "ligikuu"
 }
