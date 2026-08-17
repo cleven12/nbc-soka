@@ -147,13 +147,13 @@
       "winner_id": 2189
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 294,
       "date": "2026-08-15T16:00:00",
       "date_gmt": "2026-08-15T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 288,
       "id": 17301,
       "is_placeholder": false,
@@ -162,8 +162,14 @@
       ],
       "minutes": "90",
       "name": "Polisi Tanzania vs Azam FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "288": "draw",
+        "294": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         288,
         294
@@ -172,7 +178,7 @@
         431
       ],
       "slug": "17301",
-      "status": "future",
+      "status": "publish",
       "venues": [
         93
       ],
@@ -6955,7 +6961,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-17T07:15:53+00:00",
+  "scraped_at": "2026-08-17T13:05:17+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

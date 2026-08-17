@@ -23,7 +23,7 @@
     "delta_count": 0,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-16T17:46:42+00:00"
+    "modified_after": "2026-08-17T06:15:53+00:00"
   },
   "items": [
     {
@@ -76905,6 +76905,6 @@
     }
   ],
   "resource": "calendars",
-  "scraped_at": "2026-08-17T07:15:58+00:00",
+  "scraped_at": "2026-08-17T13:05:22+00:00",
   "source": "ligikuu"
 }
