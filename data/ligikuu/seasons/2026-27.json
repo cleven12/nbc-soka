@@ -293,13 +293,13 @@
       "winner_id": 291
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 325,
       "date": "2026-08-16T20:30:00",
       "date_gmt": "2026-08-16T17:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 268,
       "id": 17305,
       "is_placeholder": false,
@@ -308,8 +308,14 @@
       ],
       "minutes": "90",
       "name": "JKT Tanzania vs TRA United",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "268": "draw",
+        "325": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         268,
         325
@@ -318,7 +324,7 @@
         431
       ],
       "slug": "17305",
-      "status": "future",
+      "status": "publish",
       "venues": [
         279
       ],
@@ -6949,7 +6955,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-16T18:46:42+00:00",
+  "scraped_at": "2026-08-17T07:15:53+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
