@@ -427,7 +427,7 @@
       "slug": "tabora-boys-stadium-tabora"
     },
     {
-      "count": 24,
+      "count": 25,
       "description": "",
       "id": 313,
       "name": "Tanzanite Kwaraa, Manyara",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-18T01:50:27+00:00",
+  "scraped_at": "2026-08-18T13:07:13+00:00",
   "source": "ligikuu"
 }
