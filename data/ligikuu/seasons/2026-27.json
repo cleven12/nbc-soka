@@ -413,13 +413,13 @@
       "winner_id": 286
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 267,
       "date": "2026-08-19T14:00:00",
       "date_gmt": "2026-08-19T11:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 285,
       "id": 17308,
       "is_placeholder": false,
@@ -428,8 +428,14 @@
       ],
       "minutes": "90",
       "name": "Mbeya City vs Dodoma Jiji",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "267": "loss",
+        "285": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "0"
+      ],
       "raw_teams": [
         285,
         267
@@ -438,20 +444,20 @@
         431
       ],
       "slug": "17308",
-      "status": "future",
+      "status": "publish",
       "venues": [
         31
       ],
-      "winner_id": null
+      "winner_id": 285
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 291,
       "date": "2026-08-19T16:15:00",
       "date_gmt": "2026-08-19T13:15:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 321,
       "id": 17309,
       "is_placeholder": false,
@@ -460,8 +466,14 @@
       ],
       "minutes": "90",
       "name": "Pamba Jiji vs Simba SC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "291": "win",
+        "321": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        "2"
+      ],
       "raw_teams": [
         321,
         291
@@ -470,20 +482,20 @@
         431
       ],
       "slug": "17309",
-      "status": "future",
+      "status": "publish",
       "venues": [
         106
       ],
-      "winner_id": null
+      "winner_id": 291
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 2189,
       "date": "2026-08-19T19:00:00",
       "date_gmt": "2026-08-19T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 269,
       "id": 17310,
       "is_placeholder": false,
@@ -492,8 +504,14 @@
       ],
       "minutes": "90",
       "name": "Kagera Sugar vs Singida BS",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2189": "draw",
+        "269": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         269,
         2189
@@ -502,7 +520,7 @@
         431
       ],
       "slug": "17310",
-      "status": "future",
+      "status": "publish",
       "venues": [
         95
       ],
@@ -6973,7 +6991,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-19T13:07:41+00:00",
+  "scraped_at": "2026-08-19T18:52:37+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

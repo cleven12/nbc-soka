@@ -1723,7 +1723,7 @@
           }
         ]
       },
-      "count": 48,
+      "count": 49,
       "description": "",
       "id": 106,
       "link": "https://ligikuu.co.tz/venue/ccm-kirumba-mwanza/",
@@ -3384,7 +3384,7 @@
           }
         ]
       },
-      "count": 30,
+      "count": 31,
       "description": "",
       "id": 95,
       "link": "https://ligikuu.co.tz/venue/kaitaba-stadium-bukoba/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-19T13:07:43+00:00",
+  "scraped_at": "2026-08-19T18:52:40+00:00",
   "source": "ligikuu"
 }
