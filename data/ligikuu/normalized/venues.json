@@ -459,7 +459,7 @@
       "slug": "uhuru-stadium"
     },
     {
-      "count": 58,
+      "count": 59,
       "description": "",
       "id": 93,
       "name": "Ushirika Stadium, Kilimanjaro",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-20T01:51:01+00:00",
+  "scraped_at": "2026-08-20T13:10:39+00:00",
   "source": "ligikuu"
 }
