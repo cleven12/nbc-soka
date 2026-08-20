@@ -59,7 +59,7 @@
       "slug": "amani-stadium-njombe"
     },
     {
-      "count": 44,
+      "count": 45,
       "description": "",
       "id": 280,
       "name": "Azam Complex, DSM",
@@ -219,7 +219,7 @@
       "slug": "karume-stadium-mara"
     },
     {
-      "count": 65,
+      "count": 66,
       "description": "",
       "id": 309,
       "name": "KMC Complex, DSM",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-20T13:10:39+00:00",
+  "scraped_at": "2026-08-20T18:58:34+00:00",
   "source": "ligikuu"
 }

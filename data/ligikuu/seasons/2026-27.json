@@ -527,13 +527,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 268,
       "date": "2026-08-20T16:00:00",
       "date_gmt": "2026-08-20T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 288,
       "id": 17311,
       "is_placeholder": false,
@@ -542,8 +542,14 @@
       ],
       "minutes": "90",
       "name": "Polisi Tanzania vs JKT Tanzania",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "268": "loss",
+        "288": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "0"
+      ],
       "raw_teams": [
         288,
         268
@@ -552,20 +558,20 @@
         431
       ],
       "slug": "17311",
-      "status": "future",
+      "status": "publish",
       "venues": [
         93
       ],
-      "winner_id": null
+      "winner_id": 288
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 278,
       "date": "2026-08-20T18:30:00",
       "date_gmt": "2026-08-20T15:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 4,
       "home_team_id": 292,
       "id": 17312,
       "is_placeholder": false,
@@ -574,8 +580,14 @@
       ],
       "minutes": "90",
       "name": "Young Africans vs Coastal Union",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "278": "loss",
+        "292": "win"
+      },
+      "raw_main_results": [
+        "4",
+        "1"
+      ],
       "raw_teams": [
         292,
         278
@@ -584,11 +596,11 @@
         431
       ],
       "slug": "17312",
-      "status": "future",
+      "status": "publish",
       "venues": [
         309
       ],
-      "winner_id": null
+      "winner_id": 292
     },
     {
       "away_score": null,
@@ -6991,7 +7003,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-20T13:10:37+00:00",
+  "scraped_at": "2026-08-20T18:58:32+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

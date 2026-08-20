@@ -666,7 +666,7 @@
           }
         ]
       },
-      "count": 44,
+      "count": 45,
       "description": "",
       "id": 280,
       "link": "https://ligikuu.co.tz/venue/azam-complex-dsm/",
@@ -3686,7 +3686,7 @@
           }
         ]
       },
-      "count": 65,
+      "count": 66,
       "description": "",
       "id": 309,
       "link": "https://ligikuu.co.tz/venue/kmc-complex/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-20T13:10:39+00:00",
+  "scraped_at": "2026-08-20T18:58:34+00:00",
   "source": "ligikuu"
 }
