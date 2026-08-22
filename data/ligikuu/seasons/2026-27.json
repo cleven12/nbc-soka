@@ -641,13 +641,13 @@
       "winner_id": 294
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 291,
       "date": "2026-08-22T18:00:00",
       "date_gmt": "2026-08-22T15:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 2189,
       "id": 17314,
       "is_placeholder": false,
@@ -656,8 +656,14 @@
       ],
       "minutes": "90",
       "name": "Singida BS vs Simba SC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2189": "loss",
+        "291": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "2"
+      ],
       "raw_teams": [
         2189,
         291
@@ -666,11 +672,11 @@
         431
       ],
       "slug": "17314",
-      "status": "future",
+      "status": "publish",
       "venues": [
         427
       ],
-      "winner_id": null
+      "winner_id": 291
     },
     {
       "away_score": null,
@@ -7009,7 +7015,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-22T12:59:46+00:00",
+  "scraped_at": "2026-08-22T18:48:27+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

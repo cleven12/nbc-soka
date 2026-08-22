@@ -35,7 +35,7 @@
       "slug": "aghakan"
     },
     {
-      "count": 16,
+      "count": 17,
       "description": "",
       "id": 427,
       "name": "Airtel Stadium, Singida",
@@ -91,7 +91,7 @@
       "slug": "black-rhino-stadium"
     },
     {
-      "count": 1,
+      "count": 2,
       "description": "",
       "id": 434,
       "name": "Bukombe, Geita",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-22T12:59:48+00:00",
+  "scraped_at": "2026-08-22T18:48:29+00:00",
   "source": "ligikuu"
 }
