@@ -7310,7 +7310,7 @@
           }
         ]
       },
-      "count": 94,
+      "count": 95,
       "description": "",
       "id": 31,
       "link": "https://ligikuu.co.tz/venue/sokoine-stadium-mbeya/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-23T07:00:30+00:00",
+  "scraped_at": "2026-08-23T13:01:05+00:00",
   "source": "ligikuu"
 }
