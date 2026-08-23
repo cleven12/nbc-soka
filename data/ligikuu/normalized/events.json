@@ -23,7 +23,7 @@
     "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-22T11:59:46+00:00"
+    "modified_after": "2026-08-22T17:48:27+00:00"
   },
   "items": [
     {
@@ -64161,13 +64161,13 @@
       "winner_id": 291
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 269,
       "date": "2026-08-22T20:30:00",
       "date_gmt": "2026-08-22T17:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 6,
       "home_team_id": 322,
       "id": 17315,
       "is_placeholder": false,
@@ -64176,8 +64176,14 @@
       ],
       "minutes": "90",
       "name": "Geita Gold vs Kagera Sugar",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "269": "loss",
+        "322": "win"
+      },
+      "raw_main_results": [
+        "6",
+        "2"
+      ],
       "raw_teams": [
         322,
         269
@@ -64186,11 +64192,11 @@
         431
       ],
       "slug": "17315",
-      "status": "future",
+      "status": "publish",
       "venues": [
         434
       ],
-      "winner_id": null
+      "winner_id": 322
     },
     {
       "away_score": null,
@@ -70498,6 +70504,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-22T18:48:32+00:00",
+  "scraped_at": "2026-08-23T01:59:06+00:00",
   "source": "ligikuu"
 }
