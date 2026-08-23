@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 1,
+    "delta_count": 2,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-23T06:00:28+00:00"
+    "modified_after": "2026-08-23T12:01:03+00:00"
   },
   "items": [
     {
@@ -64199,13 +64199,13 @@
       "winner_id": 322
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 344,
       "date": "2026-08-23T16:00:00",
       "date_gmt": "2026-08-23T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 285,
       "id": 17316,
       "is_placeholder": false,
@@ -64214,8 +64214,14 @@
       ],
       "minutes": "90",
       "name": "Mbeya City vs Mashujaa FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "285": "win",
+        "344": "loss"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         285,
         344
@@ -64224,20 +64230,20 @@
         431
       ],
       "slug": "17316",
-      "status": "future",
+      "status": "publish",
       "venues": [
         31
       ],
-      "winner_id": null
+      "winner_id": 285
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 321,
       "date": "2026-08-23T19:00:00",
       "date_gmt": "2026-08-23T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 294,
       "id": 17317,
       "is_placeholder": false,
@@ -64246,8 +64252,14 @@
       ],
       "minutes": "90",
       "name": "Azam FC vs Pamba Jiji",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "294": "win",
+        "321": "loss"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         294,
         321
@@ -64256,11 +64268,11 @@
         431
       ],
       "slug": "17317",
-      "status": "future",
+      "status": "publish",
       "venues": [
         280
       ],
-      "winner_id": null
+      "winner_id": 294
     },
     {
       "away_score": null,
@@ -70504,6 +70516,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-23T13:01:07+00:00",
+  "scraped_at": "2026-08-23T18:47:59+00:00",
   "source": "ligikuu"
 }

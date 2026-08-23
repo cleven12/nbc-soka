@@ -59,7 +59,7 @@
       "slug": "amani-stadium-njombe"
     },
     {
-      "count": 45,
+      "count": 46,
       "description": "",
       "id": 280,
       "name": "Azam Complex, DSM",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-23T13:01:05+00:00",
+  "scraped_at": "2026-08-23T18:47:56+00:00",
   "source": "ligikuu"
 }
