@@ -219,7 +219,7 @@
       "slug": "karume-stadium-mara"
     },
     {
-      "count": 66,
+      "count": 67,
       "description": "",
       "id": 309,
       "name": "KMC Complex, DSM",
@@ -299,7 +299,7 @@
       "slug": "mej-gen-isamuhyo-dsm"
     },
     {
-      "count": 75,
+      "count": 76,
       "description": "",
       "id": 25,
       "name": "Mkwakwani Stadium, Tanga",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-24T13:12:05+00:00",
+  "scraped_at": "2026-08-24T18:58:19+00:00",
   "source": "ligikuu"
 }

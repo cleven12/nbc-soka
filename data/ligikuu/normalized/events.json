@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-24T06:19:34+00:00"
+    "modified_after": "2026-08-24T12:12:03+00:00"
   },
   "items": [
     {
@@ -64275,13 +64275,13 @@
       "winner_id": 294
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 268,
       "date": "2026-08-24T18:00:00",
       "date_gmt": "2026-08-24T15:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 4,
       "home_team_id": 292,
       "id": 17318,
       "is_placeholder": false,
@@ -64290,8 +64290,14 @@
       ],
       "minutes": "90",
       "name": "Young Africans vs JKT Tanzania",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "268": "loss",
+        "292": "win"
+      },
+      "raw_main_results": [
+        "4",
+        "0"
+      ],
       "raw_teams": [
         292,
         268
@@ -64300,11 +64306,11 @@
         431
       ],
       "slug": "17318",
-      "status": "future",
+      "status": "publish",
       "venues": [
         309
       ],
-      "winner_id": null
+      "winner_id": 292
     },
     {
       "away_score": null,
@@ -70516,6 +70522,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-24T13:12:07+00:00",
+  "scraped_at": "2026-08-24T18:58:22+00:00",
   "source": "ligikuu"
 }
