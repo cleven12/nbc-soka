@@ -23,7 +23,7 @@
     "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-24T12:12:03+00:00"
+    "modified_after": "2026-08-24T17:58:17+00:00"
   },
   "items": [
     {
@@ -64313,13 +64313,13 @@
       "winner_id": 292
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 325,
       "date": "2026-08-24T20:30:00",
       "date_gmt": "2026-08-24T17:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 278,
       "id": 17319,
       "is_placeholder": false,
@@ -64328,8 +64328,14 @@
       ],
       "minutes": "90",
       "name": "Coastal Union vs TRA United",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "278": "draw",
+        "325": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         278,
         325
@@ -64338,7 +64344,7 @@
         431
       ],
       "slug": "17319",
-      "status": "future",
+      "status": "publish",
       "venues": [
         25
       ],
@@ -70522,6 +70528,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-24T18:58:22+00:00",
+  "scraped_at": "2026-08-25T01:51:51+00:00",
   "source": "ligikuu"
 }
