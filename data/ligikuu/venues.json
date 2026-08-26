@@ -2780,7 +2780,7 @@
           }
         ]
       },
-      "count": 71,
+      "count": 72,
       "description": "",
       "id": 29,
       "link": "https://ligikuu.co.tz/venue/jamhuri-stadium-dodoma/",
@@ -4441,7 +4441,7 @@
           }
         ]
       },
-      "count": 40,
+      "count": 41,
       "description": "",
       "id": 27,
       "link": "https://ligikuu.co.tz/venue/majaliwa-stadium-lindi/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-25T07:07:39+00:00",
+  "scraped_at": "2026-08-26T01:57:44+00:00",
   "source": "ligikuu"
 }

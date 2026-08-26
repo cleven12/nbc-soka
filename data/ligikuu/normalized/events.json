@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 2,
+    "delta_count": 4,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-25T00:51:47+00:00"
+    "modified_after": "2026-08-25T06:07:37+00:00"
   },
   "items": [
     {
@@ -64351,13 +64351,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 2582,
       "date": "2026-08-25T18:00:00",
       "date_gmt": "2026-08-25T15:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 286,
       "id": 17320,
       "is_placeholder": false,
@@ -64366,8 +64366,14 @@
       ],
       "minutes": "90",
       "name": "Namungo FC vs Fountain Gate",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2582": "loss",
+        "286": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         286,
         2582
@@ -64376,20 +64382,20 @@
         431
       ],
       "slug": "17320",
-      "status": "future",
+      "status": "publish",
       "venues": [
         27
       ],
-      "winner_id": null
+      "winner_id": 286
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 288,
       "date": "2026-08-25T20:30:00",
       "date_gmt": "2026-08-25T17:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 267,
       "id": 17321,
       "is_placeholder": false,
@@ -64398,8 +64404,14 @@
       ],
       "minutes": "90",
       "name": "Dodoma jiji vs Polisi Tanzania",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "267": "loss",
+        "288": "win"
+      },
+      "raw_main_results": [
+        "0",
+        "1"
+      ],
       "raw_teams": [
         267,
         288
@@ -64408,11 +64420,11 @@
         431
       ],
       "slug": "17321",
-      "status": "future",
+      "status": "publish",
       "venues": [
         29
       ],
-      "winner_id": null
+      "winner_id": 288
     },
     {
       "away_score": null,
@@ -70528,6 +70540,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-25T07:07:42+00:00",
+  "scraped_at": "2026-08-26T01:57:47+00:00",
   "source": "ligikuu"
 }
