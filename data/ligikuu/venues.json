@@ -3837,7 +3837,7 @@
           }
         ]
       },
-      "count": 32,
+      "count": 33,
       "description": "",
       "id": 97,
       "link": "https://ligikuu.co.tz/venue/lake-tanganyika-stadium-kigoma/",
@@ -5045,7 +5045,7 @@
           }
         ]
       },
-      "count": 46,
+      "count": 47,
       "description": "",
       "id": 279,
       "link": "https://ligikuu.co.tz/venue/mej-gen-isamuhyo-dsm/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-27T09:46:37+00:00",
+  "scraped_at": "2026-08-27T22:15:13+00:00",
   "source": "ligikuu"
 }

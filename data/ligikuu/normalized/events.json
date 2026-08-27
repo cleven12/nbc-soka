@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 2,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-26T19:01:46+00:00"
+    "modified_after": "2026-08-27T08:46:34+00:00"
   },
   "items": [
     {
@@ -64427,13 +64427,13 @@
       "winner_id": 288
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 269,
       "date": "2026-08-27T16:00:00",
       "date_gmt": "2026-08-27T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 344,
       "id": 17322,
       "is_placeholder": false,
@@ -64442,8 +64442,14 @@
       ],
       "minutes": "90",
       "name": "Mashujaa FC vs Kagera Sugar",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "269": "loss",
+        "344": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         344,
         269
@@ -64452,20 +64458,20 @@
         431
       ],
       "slug": "17322",
-      "status": "future",
+      "status": "publish",
       "venues": [
         97
       ],
-      "winner_id": null
+      "winner_id": 344
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 278,
       "date": "2026-08-27T19:00:00",
       "date_gmt": "2026-08-27T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 291,
       "id": 17323,
       "is_placeholder": false,
@@ -64474,8 +64480,14 @@
       ],
       "minutes": "90",
       "name": "Simba SC vs Coastal Union",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "278": "loss",
+        "291": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         291,
         278
@@ -64484,11 +64496,11 @@
         431
       ],
       "slug": "17323",
-      "status": "future",
+      "status": "publish",
       "venues": [
         279
       ],
-      "winner_id": null
+      "winner_id": 291
     },
     {
       "away_score": null,
@@ -70540,6 +70552,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-27T09:46:39+00:00",
+  "scraped_at": "2026-08-27T22:15:16+00:00",
   "source": "ligikuu"
 }

@@ -227,7 +227,7 @@
       "slug": "kmc-complex"
     },
     {
-      "count": 32,
+      "count": 33,
       "description": "",
       "id": 97,
       "name": "Lake Tanganyika Stadium, Kigoma",
@@ -291,7 +291,7 @@
       "slug": "mbeya-city"
     },
     {
-      "count": 46,
+      "count": 47,
       "description": "",
       "id": 279,
       "name": "Mej. Gen. Isamuhyo, DSM",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-27T09:46:37+00:00",
+  "scraped_at": "2026-08-27T22:15:13+00:00",
   "source": "ligikuu"
 }
