@@ -23463,7 +23463,7 @@
       "winner_id": 2582
     }
   ],
-  "scraped_at": "2026-08-28T11:22:00+00:00",
+  "scraped_at": "2026-08-28T22:18:17+00:00",
   "season": {
     "id": 288,
     "name": "2024/25",
@@ -25976,7 +25976,7 @@
       ]
     },
     {
-      "abbreviation": "B19",
+      "abbreviation": "KUTD",
       "id": 6048,
       "leagues": [
         58,
@@ -25985,7 +25985,7 @@
         419,
         445
       ],
-      "name": "B19 FC",
+      "name": "Kigamboni United",
       "seasons": [
         235,
         288,
@@ -25996,7 +25996,7 @@
       "status": "publish",
       "url": null,
       "venues": [
-        30
+        442
       ]
     },
     {

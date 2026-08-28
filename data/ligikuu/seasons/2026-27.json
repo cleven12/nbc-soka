@@ -1021,13 +1021,13 @@
       "winner_id": 291
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 285,
       "date": "2026-08-28T16:00:00",
       "date_gmt": "2026-08-28T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 2582,
       "id": 17324,
       "is_placeholder": false,
@@ -1036,8 +1036,14 @@
       ],
       "minutes": "90",
       "name": "fountain Gate vs Mbeya City",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2582": "loss",
+        "285": "win"
+      },
+      "raw_main_results": [
+        "0",
+        "2"
+      ],
       "raw_teams": [
         2582,
         285
@@ -1046,20 +1052,20 @@
         431
       ],
       "slug": "17324",
-      "status": "future",
+      "status": "publish",
       "venues": [
         313
       ],
-      "winner_id": null
+      "winner_id": 285
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 294,
       "date": "2026-08-28T18:30:00",
       "date_gmt": "2026-08-28T15:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 322,
       "id": 17325,
       "is_placeholder": false,
@@ -1068,8 +1074,14 @@
       ],
       "minutes": "90",
       "name": "Geita Gold vs Azam FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "294": "draw",
+        "322": "draw"
+      },
+      "raw_main_results": [
+        "2",
+        "2"
+      ],
       "raw_teams": [
         322,
         294
@@ -1078,20 +1090,20 @@
         431
       ],
       "slug": "17325",
-      "status": "future",
+      "status": "publish",
       "venues": [
         434
       ],
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 321,
       "date": "2026-08-28T21:00:00",
       "date_gmt": "2026-08-28T18:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 292,
       "id": 17326,
       "is_placeholder": false,
@@ -1100,8 +1112,14 @@
       ],
       "minutes": "90",
       "name": "Young Africans vs pamba Jiji",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "292": "win",
+        "321": "loss"
+      },
+      "raw_main_results": [
+        "2",
+        "0"
+      ],
       "raw_teams": [
         292,
         321
@@ -1110,11 +1128,11 @@
         431
       ],
       "slug": "17326",
-      "status": "future",
+      "status": "publish",
       "venues": [
         309
       ],
-      "winner_id": null
+      "winner_id": 292
     },
     {
       "away_score": null,
@@ -7069,7 +7087,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-28T11:22:00+00:00",
+  "scraped_at": "2026-08-28T22:18:17+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
@@ -8739,7 +8757,7 @@
       ]
     },
     {
-      "abbreviation": "B19",
+      "abbreviation": "KUTD",
       "id": 6048,
       "leagues": [
         58,
@@ -8748,7 +8766,7 @@
         419,
         445
       ],
-      "name": "B19 FC",
+      "name": "Kigamboni United",
       "seasons": [
         235,
         288,
@@ -8759,7 +8777,7 @@
       "status": "publish",
       "url": null,
       "venues": [
-        30
+        442
       ]
     },
     {

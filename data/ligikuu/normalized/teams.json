@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-27T21:15:10+00:00"
+    "modified_after": "2026-08-28T10:22:00+00:00"
   },
   "items": [
     {
@@ -1121,7 +1121,7 @@
       ]
     },
     {
-      "abbreviation": "B19",
+      "abbreviation": "KUTD",
       "id": 6048,
       "leagues": [
         58,
@@ -1130,7 +1130,7 @@
         419,
         445
       ],
-      "name": "B19 FC",
+      "name": "Kigamboni United",
       "seasons": [
         235,
         288,
@@ -1141,7 +1141,7 @@
       "status": "publish",
       "url": null,
       "venues": [
-        30
+        442
       ]
     },
     {
@@ -1260,6 +1260,6 @@
     }
   ],
   "resource": "teams",
-  "scraped_at": "2026-08-28T11:22:03+00:00",
+  "scraped_at": "2026-08-28T22:18:20+00:00",
   "source": "ligikuu"
 }

@@ -1270,7 +1270,7 @@
           }
         ]
       },
-      "count": 2,
+      "count": 3,
       "description": "",
       "id": 434,
       "link": "https://ligikuu.co.tz/venue/bukombe-geita/",
@@ -2931,7 +2931,7 @@
           }
         ]
       },
-      "count": 68,
+      "count": 67,
       "description": "",
       "id": 30,
       "link": "https://ligikuu.co.tz/venue/jamhuri-stadium-morogoro/",
@@ -3686,7 +3686,7 @@
           }
         ]
       },
-      "count": 67,
+      "count": 68,
       "description": "",
       "id": 309,
       "link": "https://ligikuu.co.tz/venue/kmc-complex/",
@@ -7612,7 +7612,7 @@
           }
         ]
       },
-      "count": 25,
+      "count": 26,
       "description": "",
       "id": 313,
       "link": "https://ligikuu.co.tz/venue/tanzanite-kwaraa/",
@@ -8065,7 +8065,7 @@
           }
         ]
       },
-      "count": 2,
+      "count": 3,
       "description": "",
       "id": 442,
       "link": "https://ligikuu.co.tz/venue/uhuru-stadium/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-28T11:22:02+00:00",
+  "scraped_at": "2026-08-28T22:18:19+00:00",
   "source": "ligikuu"
 }

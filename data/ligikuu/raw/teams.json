@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-27T21:15:10+00:00"
+    "modified_after": "2026-08-28T10:22:00+00:00"
   },
   "items": [
     {
@@ -100088,7 +100088,7 @@
         "wp:featuredmedia": [
           {
             "embeddable": true,
-            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media/13814"
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/media/17807"
           }
         ],
         "wp:term": [
@@ -100109,7 +100109,7 @@
           }
         ]
       },
-      "abbreviation": "B19",
+      "abbreviation": "KUTD",
       "author": 9,
       "class_list": [
         "post-6048",
@@ -100127,7 +100127,7 @@
         "sp_season-2024-25",
         "sp_season-2025-26",
         "sp_season-2026-27",
-        "sp_venue-jamhuri-stadium-morogoro"
+        "sp_venue-uhuru-stadium"
       ],
       "comment_status": "closed",
       "content": {
@@ -102142,7 +102142,7 @@
         "protected": false,
         "rendered": ""
       },
-      "featured_media": 13814,
+      "featured_media": 17807,
       "guid": {
         "rendered": "https://ligikuu.co.tz/?post_type=sp_team&#038;p=6048"
       },
@@ -102157,8 +102157,8 @@
       "link": "https://ligikuu.co.tz/team/tanesco-fc/",
       "lists": [],
       "menu_order": 0,
-      "modified": "2026-08-11T12:13:22",
-      "modified_gmt": "2026-08-11T09:13:22",
+      "modified": "2026-08-28T16:28:55",
+      "modified_gmt": "2026-08-28T13:28:55",
       "parent": 0,
       "ping_status": "closed",
       "seasons": [
@@ -102173,28 +102173,28 @@
       "tables": [],
       "template": "",
       "title": {
-        "rendered": "B19 FC"
+        "rendered": "Kigamboni United"
       },
       "type": "sp_team",
       "url": "",
       "venues": [
-        30
+        442
       ],
-      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>B19 FC - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"B19 FC - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-11T09:13:22+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2023/10/B19.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"1080\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"name\":\"B19 FC - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"datePublished\":\"2023-10-07T08:59:25+00:00\",\"dateModified\":\"2026-08-11T09:13:22+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/B19.jpeg\",\"width\":1080,\"height\":1080,\"caption\":\"B19\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"B19 FC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.3 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Kigamboni United - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kigamboni United - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/team/tanesco-fc/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"article:modified_time\" content=\"2026-08-28T13:28:55+00:00\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2023/10/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"828\" />\n\t<meta property=\"og:image:height\" content=\"803\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\",\"name\":\"Kigamboni United - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg\",\"datePublished\":\"2023-10-07T08:59:25+00:00\",\"dateModified\":\"2026-08-28T13:28:55+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#primaryimage\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2023\\/10\\/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg\",\"width\":828,\"height\":803},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/team\\/tanesco-fc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Kigamboni United\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
       "yoast_head_json": {
-        "article_modified_time": "2026-08-11T09:13:22+00:00",
+        "article_modified_time": "2026-08-28T13:28:55+00:00",
         "canonical": "https://ligikuu.co.tz/team/tanesco-fc/",
         "og_image": [
           {
-            "height": 1080,
+            "height": 803,
             "type": "image/jpeg",
-            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/B19.jpeg",
-            "width": 1080
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg",
+            "width": 828
           }
         ],
         "og_locale": "en_US",
         "og_site_name": "LIGI KUU",
-        "og_title": "B19 FC - LIGI KUU",
+        "og_title": "Kigamboni United - LIGI KUU",
         "og_type": "article",
         "og_url": "https://ligikuu.co.tz/team/tanesco-fc/",
         "robots": {
@@ -102213,7 +102213,7 @@
               "breadcrumb": {
                 "@id": "https://ligikuu.co.tz/team/tanesco-fc/#breadcrumb"
               },
-              "dateModified": "2026-08-11T09:13:22+00:00",
+              "dateModified": "2026-08-28T13:28:55+00:00",
               "datePublished": "2023-10-07T08:59:25+00:00",
               "image": {
                 "@id": "https://ligikuu.co.tz/team/tanesco-fc/#primaryimage"
@@ -102222,7 +102222,7 @@
               "isPartOf": {
                 "@id": "https://ligikuu.co.tz/#website"
               },
-              "name": "B19 FC - LIGI KUU",
+              "name": "Kigamboni United - LIGI KUU",
               "potentialAction": [
                 {
                   "@type": "ReadAction",
@@ -102234,18 +102234,17 @@
               "primaryImageOfPage": {
                 "@id": "https://ligikuu.co.tz/team/tanesco-fc/#primaryimage"
               },
-              "thumbnailUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/B19.jpeg",
+              "thumbnailUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg",
               "url": "https://ligikuu.co.tz/team/tanesco-fc/"
             },
             {
               "@id": "https://ligikuu.co.tz/team/tanesco-fc/#primaryimage",
               "@type": "ImageObject",
-              "caption": "B19",
-              "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/B19.jpeg",
-              "height": 1080,
+              "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg",
+              "height": 803,
               "inLanguage": "en-US",
-              "url": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/B19.jpeg",
-              "width": 1080
+              "url": "https://www.ligikuu.co.tz/wp-content/uploads/2023/10/WhatsApp-Image-2026-08-28-at-4.21.39-PM.jpeg",
+              "width": 828
             },
             {
               "@id": "https://ligikuu.co.tz/team/tanesco-fc/#breadcrumb",
@@ -102259,7 +102258,7 @@
                 },
                 {
                   "@type": "ListItem",
-                  "name": "B19 FC",
+                  "name": "Kigamboni United",
                   "position": 2
                 }
               ]
@@ -102310,7 +102309,7 @@
             }
           ]
         },
-        "title": "B19 FC - LIGI KUU",
+        "title": "Kigamboni United - LIGI KUU",
         "twitter_card": "summary_large_image",
         "twitter_misc": {
           "Est. reading time": "1 minute"
@@ -115906,6 +115905,6 @@
     }
   ],
   "resource": "teams",
-  "scraped_at": "2026-08-28T11:22:03+00:00",
+  "scraped_at": "2026-08-28T22:18:20+00:00",
   "source": "ligikuu"
 }
