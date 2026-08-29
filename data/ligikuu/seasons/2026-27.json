@@ -1173,13 +1173,13 @@
       "winner_id": 267
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 288,
       "date": "2026-08-29T18:30:00",
       "date_gmt": "2026-08-29T15:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 4,
       "home_team_id": 2189,
       "id": 17328,
       "is_placeholder": false,
@@ -1188,8 +1188,14 @@
       ],
       "minutes": "90",
       "name": "Singida BS vs Polisi Tanzania",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2189": "win",
+        "288": "loss"
+      },
+      "raw_main_results": [
+        "4",
+        "2"
+      ],
       "raw_teams": [
         2189,
         288
@@ -1198,20 +1204,20 @@
         431
       ],
       "slug": "17328",
-      "status": "future",
+      "status": "publish",
       "venues": [
         427
       ],
-      "winner_id": null
+      "winner_id": 2189
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 286,
       "date": "2026-08-29T21:00:00",
       "date_gmt": "2026-08-29T18:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 268,
       "id": 17329,
       "is_placeholder": false,
@@ -1220,8 +1226,14 @@
       ],
       "minutes": "90",
       "name": "JKT Tanzania vs Namungo FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "268": "win",
+        "286": "loss"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         268,
         286
@@ -1230,11 +1242,11 @@
         431
       ],
       "slug": "17329",
-      "status": "future",
+      "status": "publish",
       "venues": [
         279
       ],
-      "winner_id": null
+      "winner_id": 268
     },
     {
       "away_score": null,
@@ -7093,7 +7105,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-29T16:42:50+00:00",
+  "scraped_at": "2026-08-29T20:54:55+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
