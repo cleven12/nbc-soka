@@ -213,7 +213,7 @@
           }
         ]
       },
-      "count": 17,
+      "count": 18,
       "description": "",
       "id": 427,
       "link": "https://ligikuu.co.tz/venue/airtel-stadium-singida/",
@@ -7008,7 +7008,7 @@
           }
         ]
       },
-      "count": 113,
+      "count": 114,
       "description": "",
       "id": 143,
       "link": "https://ligikuu.co.tz/venue/sheikh-amri-abeid/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-29T07:03:34+00:00",
+  "scraped_at": "2026-08-29T16:42:52+00:00",
   "source": "ligikuu"
 }

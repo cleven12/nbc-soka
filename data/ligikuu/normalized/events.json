@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 4,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-28T21:18:17+00:00"
+    "modified_after": "2026-08-29T06:03:32+00:00"
   },
   "items": [
     {
@@ -64617,13 +64617,13 @@
       "winner_id": 292
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 267,
       "date": "2026-08-29T16:00:00",
       "date_gmt": "2026-08-29T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 325,
       "id": 17327,
       "is_placeholder": false,
@@ -64632,8 +64632,14 @@
       ],
       "minutes": "90",
       "name": "TRA United vs Dodoma Jiji",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "267": "win",
+        "325": "loss"
+      },
+      "raw_main_results": [
+        "0",
+        "1"
+      ],
       "raw_teams": [
         325,
         267
@@ -64642,11 +64648,11 @@
         431
       ],
       "slug": "17327",
-      "status": "future",
+      "status": "publish",
       "venues": [
         143
       ],
-      "winner_id": null
+      "winner_id": 267
     },
     {
       "away_score": null,
@@ -70570,6 +70576,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-29T07:03:36+00:00",
+  "scraped_at": "2026-08-29T16:42:55+00:00",
   "source": "ligikuu"
 }
