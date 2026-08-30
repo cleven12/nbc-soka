@@ -172,7 +172,7 @@
       "slug": "nbc-premier-league-2025-2026"
     },
     {
-      "count": 160,
+      "count": 172,
       "description": "",
       "id": 432,
       "name": "NBC PREMIER LEAGUE 2026/2027",
@@ -245,6 +245,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-08-30T11:53:51+00:00",
+  "scraped_at": "2026-08-30T16:39:59+00:00",
   "source": "ligikuu"
 }
