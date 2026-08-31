@@ -3384,7 +3384,7 @@
           }
         ]
       },
-      "count": 31,
+      "count": 32,
       "description": "",
       "id": 95,
       "link": "https://ligikuu.co.tz/venue/kaitaba-stadium-bukoba/",
@@ -5045,7 +5045,7 @@
           }
         ]
       },
-      "count": 48,
+      "count": 49,
       "description": "",
       "id": 279,
       "link": "https://ligikuu.co.tz/venue/mej-gen-isamuhyo-dsm/",
@@ -7612,7 +7612,7 @@
           }
         ]
       },
-      "count": 26,
+      "count": 27,
       "description": "",
       "id": 313,
       "link": "https://ligikuu.co.tz/venue/tanzanite-kwaraa/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-31T13:47:19+00:00",
+  "scraped_at": "2026-08-31T22:49:44+00:00",
   "source": "ligikuu"
 }

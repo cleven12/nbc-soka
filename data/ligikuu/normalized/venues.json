@@ -203,7 +203,7 @@
       "slug": "kagera-sugar"
     },
     {
-      "count": 31,
+      "count": 32,
       "description": "",
       "id": 95,
       "name": "Kaitaba Stadium, Bukoba",
@@ -291,7 +291,7 @@
       "slug": "mbeya-city"
     },
     {
-      "count": 48,
+      "count": 49,
       "description": "",
       "id": 279,
       "name": "Mej. Gen. Isamuhyo, DSM",
@@ -427,7 +427,7 @@
       "slug": "tabora-boys-stadium-tabora"
     },
     {
-      "count": 26,
+      "count": 27,
       "description": "",
       "id": 313,
       "name": "Tanzanite Kwaraa, Manyara",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-31T13:47:19+00:00",
+  "scraped_at": "2026-08-31T22:49:44+00:00",
   "source": "ligikuu"
 }

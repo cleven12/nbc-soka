@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 1,
+    "delta_count": 3,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-31T04:32:53+00:00"
+    "modified_after": "2026-08-31T12:47:17+00:00"
   },
   "items": [
     {
@@ -64731,13 +64731,13 @@
       "winner_id": 268
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 322,
       "date": "2026-08-31T18:00:00",
       "date_gmt": "2026-08-31T15:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 291,
       "id": 17330,
       "is_placeholder": false,
@@ -64746,8 +64746,14 @@
       ],
       "minutes": "90",
       "name": "Simba SC vs Geita Gold",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "291": "win",
+        "322": "loss"
+      },
+      "raw_main_results": [
+        "2",
+        "0"
+      ],
       "raw_teams": [
         291,
         322
@@ -64756,20 +64762,20 @@
         431
       ],
       "slug": "17330",
-      "status": "future",
+      "status": "publish",
       "venues": [
         279
       ],
-      "winner_id": null
+      "winner_id": 291
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 294,
       "date": "2026-08-31T20:30:00",
       "date_gmt": "2026-08-31T17:30:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 269,
       "id": 17331,
       "is_placeholder": false,
@@ -64778,8 +64784,14 @@
       ],
       "minutes": "90",
       "name": "Kagera Sugar vs Azam FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "269": "loss",
+        "294": "win"
+      },
+      "raw_main_results": [
+        "0",
+        "2"
+      ],
       "raw_teams": [
         269,
         294
@@ -64788,20 +64800,20 @@
         431
       ],
       "slug": "17331",
-      "status": "future",
+      "status": "publish",
       "venues": [
         95
       ],
-      "winner_id": null
+      "winner_id": 294
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 292,
-      "date": "2026-09-01T16:00:00",
-      "date_gmt": "2026-09-01T13:00:00",
+      "date": "2026-08-31T16:00:00",
+      "date_gmt": "2026-08-31T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 2582,
       "id": 17332,
       "is_placeholder": false,
@@ -64810,8 +64822,14 @@
       ],
       "minutes": "90",
       "name": "Fountain Gate vs Young Africans",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2582": "loss",
+        "292": "win"
+      },
+      "raw_main_results": [
+        "0",
+        "2"
+      ],
       "raw_teams": [
         2582,
         292
@@ -64820,11 +64838,11 @@
         431
       ],
       "slug": "17332",
-      "status": "future",
+      "status": "publish",
       "venues": [
         313
       ],
-      "winner_id": null
+      "winner_id": 292
     },
     {
       "away_score": null,
@@ -70588,6 +70606,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-31T13:47:21+00:00",
+  "scraped_at": "2026-08-31T22:49:47+00:00",
   "source": "ligikuu"
 }
