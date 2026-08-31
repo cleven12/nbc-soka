@@ -23,7 +23,7 @@
     "delta_count": 0,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-08-30T15:39:58+00:00"
+    "modified_after": "2026-08-30T20:04:20+00:00"
   },
   "items": [
     {
@@ -70588,6 +70588,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-08-30T21:04:25+00:00",
+  "scraped_at": "2026-08-31T05:32:58+00:00",
   "source": "ligikuu"
 }
