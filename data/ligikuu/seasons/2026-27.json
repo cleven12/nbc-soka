@@ -9728,7 +9728,7 @@
     },
     {
       "away_score": null,
-      "away_team_id": 17837,
+      "away_team_id": 340,
       "date": "2026-11-09T16:00:00",
       "date_gmt": "2026-11-09T13:00:00",
       "day": "",
@@ -9746,7 +9746,7 @@
       "raw_main_results": [],
       "raw_teams": [
         281,
-        17837
+        340
       ],
       "seasons": [
         431
@@ -9792,7 +9792,7 @@
     },
     {
       "away_score": null,
-      "away_team_id": 17840,
+      "away_team_id": 4536,
       "date": "2026-12-09T16:00:00",
       "date_gmt": "2026-12-09T13:00:00",
       "day": "",
@@ -9810,7 +9810,7 @@
       "raw_main_results": [],
       "raw_teams": [
         6048,
-        17840
+        4536
       ],
       "seasons": [
         431
@@ -10204,7 +10204,7 @@
     },
     {
       "away_score": null,
-      "away_team_id": 17837,
+      "away_team_id": 340,
       "date": "2026-10-10T16:00:00",
       "date_gmt": "2026-10-10T13:00:00",
       "day": "",
@@ -10222,7 +10222,7 @@
       "raw_main_results": [],
       "raw_teams": [
         312,
-        17837
+        340
       ],
       "seasons": [
         431
@@ -10236,7 +10236,7 @@
     },
     {
       "away_score": null,
-      "away_team_id": 17840,
+      "away_team_id": 4536,
       "date": "2026-10-10T16:00:00",
       "date_gmt": "2026-10-10T13:00:00",
       "day": "",
@@ -10254,7 +10254,7 @@
       "raw_main_results": [],
       "raw_teams": [
         14180,
-        17840
+        4536
       ],
       "seasons": [
         431
@@ -12267,7 +12267,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-01T11:38:16+00:00",
+  "scraped_at": "2026-09-01T16:38:54+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

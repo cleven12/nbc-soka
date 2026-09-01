@@ -213,7 +213,7 @@
           }
         ]
       },
-      "count": 18,
+      "count": 19,
       "description": "",
       "id": 427,
       "link": "https://ligikuu.co.tz/venue/airtel-stadium-singida/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-01T11:38:19+00:00",
+  "scraped_at": "2026-09-01T16:38:56+00:00",
   "source": "ligikuu"
 }
