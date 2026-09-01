@@ -27,7 +27,7 @@
     }
   ],
   "counts": {
-    "events": 215,
+    "events": 377,
     "tables": 3,
     "teams": 32
   },
@@ -1460,7 +1460,7 @@
     },
     {
       "away_score": null,
-      "away_team_id": 17337,
+      "away_team_id": 321,
       "date": "2026-09-05T19:00:00",
       "date_gmt": "2026-09-05T16:00:00",
       "day": "",
@@ -1473,12 +1473,12 @@
         432
       ],
       "minutes": "90",
-      "name": "JKT Tanzania vs pamba jiji fc",
+      "name": "JKT Tanzania vs pamba jiji",
       "outcome": {},
       "raw_main_results": [],
       "raw_teams": [
         268,
-        17337
+        321
       ],
       "seasons": [
         431
@@ -7121,9 +7121,5153 @@
         434
       ],
       "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "0009-11-20T16:00:00",
+      "date_gmt": "0009-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17835,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17835",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "0009-11-20T16:00:00",
+      "date_gmt": "0009-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17836,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17836",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14180,
+      "date": "0009-12-20T16:00:00",
+      "date_gmt": "0009-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 17838,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Bandari Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        14180
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17838",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "0009-12-20T16:00:00",
+      "date_gmt": "0009-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17839,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17839",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0009-12-20T16:00:00",
+      "date_gmt": "0009-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17841,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17841",
+      "status": "publish",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "0010-02-20T16:00:00",
+      "date_gmt": "0010-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17840,
+      "id": 17842,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "TMA vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17840,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17842",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "0010-02-20T16:00:00",
+      "date_gmt": "0010-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17843,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17843",
+      "status": "publish",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "0010-02-20T16:00:00",
+      "date_gmt": "0010-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17844,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17844",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0010-03-20T16:00:00",
+      "date_gmt": "0010-03-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17845,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17845",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0010-03-20T16:00:00",
+      "date_gmt": "0010-03-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17846,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17846",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "0010-03-20T16:00:00",
+      "date_gmt": "0010-03-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17847,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17847",
+      "status": "publish",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "0010-04-20T16:00:00",
+      "date_gmt": "0010-04-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17848,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17848",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "0010-04-20T16:00:00",
+      "date_gmt": "0010-04-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17849,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17849",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "0010-09-20T16:00:00",
+      "date_gmt": "0010-09-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17850,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17850",
+      "status": "publish",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "0010-09-20T16:00:00",
+      "date_gmt": "0010-09-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17851,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17851",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "0010-09-20T16:00:00",
+      "date_gmt": "0010-09-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17852,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17852",
+      "status": "publish",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "0010-10-20T16:00:00",
+      "date_gmt": "0010-10-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 312,
+      "id": 17853,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbeya Kwanza vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        312,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17853",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "0010-10-20T16:00:00",
+      "date_gmt": "0010-10-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17854,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17854",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "0010-11-20T16:00:00",
+      "date_gmt": "0010-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17855,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17855",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0010-11-20T16:00:00",
+      "date_gmt": "0010-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17856,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17856",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "0010-11-20T16:00:00",
+      "date_gmt": "0010-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17857,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17857",
+      "status": "publish",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "0011-01-20T16:00:00",
+      "date_gmt": "0011-01-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17859,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17859",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0011-01-20T16:00:00",
+      "date_gmt": "0011-01-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17860,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17860",
+      "status": "publish",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0011-06-20T16:00:00",
+      "date_gmt": "0011-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17861,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17861",
+      "status": "publish",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "0011-06-20T16:00:00",
+      "date_gmt": "0011-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17862,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17862",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "0011-07-20T16:00:00",
+      "date_gmt": "0011-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17863,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17863",
+      "status": "publish",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "0011-07-20T16:00:00",
+      "date_gmt": "0011-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17864,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17864",
+      "status": "publish",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "0011-07-20T16:00:00",
+      "date_gmt": "0011-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17840,
+      "id": 17865,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "TMA vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17840,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17865",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6048,
+      "date": "0011-08-20T16:00:00",
+      "date_gmt": "0011-08-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17866,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Kigamboni United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        6048
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17866",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "0011-08-20T16:00:00",
+      "date_gmt": "0011-08-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17858,
+      "id": 17867,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp FC vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17858,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17867",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0011-08-20T16:00:00",
+      "date_gmt": "0011-08-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17868,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17868",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "0012-04-20T16:00:00",
+      "date_gmt": "0012-04-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17869,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17869",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "0012-04-20T16:00:00",
+      "date_gmt": "0012-04-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17870,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17870",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14180,
+      "date": "0012-05-20T16:00:00",
+      "date_gmt": "0012-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17871,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Bandari Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        14180
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17871",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "0012-05-20T16:00:00",
+      "date_gmt": "0012-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 312,
+      "id": 17872,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbeya Kwanza vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        312,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17872",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "0012-05-20T16:00:00",
+      "date_gmt": "0012-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17873,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17873",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "0012-06-20T16:00:00",
+      "date_gmt": "0012-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17874,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17874",
+      "status": "publish",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17858,
+      "date": "0012-06-20T16:00:00",
+      "date_gmt": "0012-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17875,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs Transit Camp FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        17858
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17875",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0012-06-20T16:00:00",
+      "date_gmt": "0012-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17876,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17876",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "0012-11-20T16:00:00",
+      "date_gmt": "0012-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17877,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17877",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "0012-11-20T16:00:00",
+      "date_gmt": "0012-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 429,
+      "id": 17878,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Songea United vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        429,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17878",
+      "status": "publish",
+      "venues": [
+        104
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "0012-12-20T16:00:00",
+      "date_gmt": "0012-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17879,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17879",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6048,
+      "date": "0012-12-20T16:00:00",
+      "date_gmt": "0012-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17858,
+      "id": 17880,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp FC vs Kigamboni United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17858,
+        6048
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17880",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0012-12-20T16:00:00",
+      "date_gmt": "0012-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17881,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17881",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "0002-05-20T16:00:00",
+      "date_gmt": "0002-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 429,
+      "id": 17882,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Songea United vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        429,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17882",
+      "status": "publish",
+      "venues": [
+        104
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "0002-05-20T16:00:00",
+      "date_gmt": "0002-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17883,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17883",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "0002-05-20T16:00:00",
+      "date_gmt": "0002-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17884,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17884",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "0002-06-20T16:00:00",
+      "date_gmt": "0002-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17885,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17885",
+      "status": "publish",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 326,
+      "date": "0002-06-20T16:00:00",
+      "date_gmt": "0002-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 17886,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Transit Camp",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        326
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17886",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "0002-06-20T16:00:00",
+      "date_gmt": "0002-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17887,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17887",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0002-07-20T16:00:00",
+      "date_gmt": "0002-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17888,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17888",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "0002-07-20T16:00:00",
+      "date_gmt": "0002-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17889,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17889",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0002-12-20T16:00:00",
+      "date_gmt": "0002-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17890,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17890",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "0002-12-20T16:00:00",
+      "date_gmt": "0002-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17891,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17891",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "0003-05-20T16:00:00",
+      "date_gmt": "0003-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17892,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17892",
+      "status": "publish",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "0003-05-20T16:00:00",
+      "date_gmt": "0003-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17893,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17893",
+      "status": "publish",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14180,
+      "date": "0003-05-20T16:00:00",
+      "date_gmt": "0003-05-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17894,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Bandari Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        14180
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17894",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0003-06-20T16:00:00",
+      "date_gmt": "0003-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17895,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17895",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "0003-06-20T16:00:00",
+      "date_gmt": "0003-06-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17896,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17896",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0003-07-20T16:00:00",
+      "date_gmt": "0003-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17897,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17897",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "0003-07-20T16:00:00",
+      "date_gmt": "0003-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17898,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17898",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "0003-07-20T16:00:00",
+      "date_gmt": "0003-07-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17899,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17899",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "0003-12-20T16:00:00",
+      "date_gmt": "0003-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17900,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17900",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0003-12-20T16:00:00",
+      "date_gmt": "0003-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17901,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17901",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "0003-12-20T16:00:00",
+      "date_gmt": "0003-12-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17902,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17902",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "0004-09-20T16:00:00",
+      "date_gmt": "0004-09-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17903,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17903",
+      "status": "publish",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "0004-09-20T16:00:00",
+      "date_gmt": "0004-09-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17904,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17904",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "0004-09-20T16:00:00",
+      "date_gmt": "0004-09-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 312,
+      "id": 17905,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbeya Kwanza vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        312,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17905",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "0004-10-20T16:00:00",
+      "date_gmt": "0004-10-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17840,
+      "id": 17906,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "TMA vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17840,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17906",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6048,
+      "date": "0004-10-20T16:00:00",
+      "date_gmt": "0004-10-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17907,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Kigamboni United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        6048
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17907",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "0004-10-20T16:00:00",
+      "date_gmt": "0004-10-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17908,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17908",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "0004-11-20T16:00:00",
+      "date_gmt": "0004-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17909,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17909",
+      "status": "publish",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0004-11-20T16:00:00",
+      "date_gmt": "0004-11-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 17910,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17910",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17911,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17911",
+      "status": "publish",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17912,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17912",
+      "status": "publish",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17913,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17913",
+      "status": "publish",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 17914,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17914",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17915,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17915",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17916,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17916",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17917,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17917",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 326,
+      "date": "0005-02-20T16:00:00",
+      "date_gmt": "0005-02-20T13:32:44",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17918,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Transit Camp",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        326
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17918",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "2026-11-09T16:00:00",
+      "date_gmt": "2026-11-09T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17927,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17927",
+      "status": "future",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "2026-11-09T16:00:00",
+      "date_gmt": "2026-11-09T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17928,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17928",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14180,
+      "date": "2026-12-09T16:00:00",
+      "date_gmt": "2026-12-09T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 17929,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Bandari Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        14180
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17929",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "2026-12-09T16:00:00",
+      "date_gmt": "2026-12-09T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17930,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17930",
+      "status": "future",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2026-12-09T16:00:00",
+      "date_gmt": "2026-12-09T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17931,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17931",
+      "status": "future",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "2026-02-10T16:00:00",
+      "date_gmt": "2026-02-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17840,
+      "id": 17932,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "TMA vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17840,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17932",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "2026-02-10T16:00:00",
+      "date_gmt": "2026-02-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17933,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17933",
+      "status": "publish",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "2026-02-10T16:00:00",
+      "date_gmt": "2026-02-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17934,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17934",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2026-03-10T16:00:00",
+      "date_gmt": "2026-03-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17935,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17935",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2026-03-10T16:00:00",
+      "date_gmt": "2026-03-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17936,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17936",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "2026-03-10T16:00:00",
+      "date_gmt": "2026-03-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17937,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17937",
+      "status": "publish",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "2026-04-10T16:00:00",
+      "date_gmt": "2026-04-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17938,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17938",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "2026-04-10T16:00:00",
+      "date_gmt": "2026-04-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17939,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17939",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "2026-09-10T16:00:00",
+      "date_gmt": "2026-09-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17940,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17940",
+      "status": "future",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "2026-09-10T16:00:00",
+      "date_gmt": "2026-09-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17941,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17941",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "2026-09-10T16:00:00",
+      "date_gmt": "2026-09-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17942,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17942",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "2026-10-10T16:00:00",
+      "date_gmt": "2026-10-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 312,
+      "id": 17943,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbeya Kwanza vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        312,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17943",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "2026-10-10T16:00:00",
+      "date_gmt": "2026-10-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17944,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17944",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "2026-11-10T16:00:00",
+      "date_gmt": "2026-11-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17945,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17945",
+      "status": "future",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2026-11-10T16:00:00",
+      "date_gmt": "2026-11-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17946,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17946",
+      "status": "future",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "2026-11-10T16:00:00",
+      "date_gmt": "2026-11-10T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17947,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17947",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "2026-01-11T16:00:00",
+      "date_gmt": "2026-01-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17948,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17948",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2026-01-11T16:00:00",
+      "date_gmt": "2026-01-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17949,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17949",
+      "status": "publish",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2026-06-11T16:00:00",
+      "date_gmt": "2026-06-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17950,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17950",
+      "status": "publish",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "2026-06-11T16:00:00",
+      "date_gmt": "2026-06-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17951,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17951",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "2026-07-11T16:00:00",
+      "date_gmt": "2026-07-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 17952,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17952",
+      "status": "publish",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "2026-07-11T16:00:00",
+      "date_gmt": "2026-07-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17953,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17953",
+      "status": "publish",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "2026-07-11T16:00:00",
+      "date_gmt": "2026-07-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17840,
+      "id": 17954,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "TMA vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17840,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17954",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6048,
+      "date": "2026-08-11T16:00:00",
+      "date_gmt": "2026-08-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17955,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Kigamboni United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        6048
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17955",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "2026-08-11T16:00:00",
+      "date_gmt": "2026-08-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17858,
+      "id": 17956,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp FC vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17858,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17956",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2026-08-11T16:00:00",
+      "date_gmt": "2026-08-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17957,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17957",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "2026-04-12T16:00:00",
+      "date_gmt": "2026-04-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17958,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17958",
+      "status": "publish",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "2026-04-12T16:00:00",
+      "date_gmt": "2026-04-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17959,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17959",
+      "status": "publish",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14180,
+      "date": "2026-05-12T16:00:00",
+      "date_gmt": "2026-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17960,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Bandari Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        14180
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17960",
+      "status": "publish",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "2026-05-12T16:00:00",
+      "date_gmt": "2026-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 312,
+      "id": 17961,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbeya Kwanza vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        312,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17961",
+      "status": "publish",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "2026-05-12T16:00:00",
+      "date_gmt": "2026-05-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17962,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17962",
+      "status": "publish",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "2026-06-12T16:00:00",
+      "date_gmt": "2026-06-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17963,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17963",
+      "status": "publish",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17858,
+      "date": "2026-06-12T16:00:00",
+      "date_gmt": "2026-06-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17964,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs Transit Camp FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        17858
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17964",
+      "status": "publish",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2026-06-12T16:00:00",
+      "date_gmt": "2026-06-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17965,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17965",
+      "status": "publish",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "2026-11-12T16:00:00",
+      "date_gmt": "2026-11-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17966,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17966",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "2026-11-12T16:00:00",
+      "date_gmt": "2026-11-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 429,
+      "id": 17967,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Songea United vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        429,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17967",
+      "status": "future",
+      "venues": [
+        104
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "2026-12-12T16:00:00",
+      "date_gmt": "2026-12-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17968,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17968",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6048,
+      "date": "2026-12-12T16:00:00",
+      "date_gmt": "2026-12-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17858,
+      "id": 17969,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp FC vs Kigamboni United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17858,
+        6048
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17969",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2026-12-12T16:00:00",
+      "date_gmt": "2026-12-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17970,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17970",
+      "status": "future",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "2027-05-02T16:00:00",
+      "date_gmt": "2027-05-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 429,
+      "id": 17971,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Songea United vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        429,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17971",
+      "status": "future",
+      "venues": [
+        104
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "2027-05-02T16:00:00",
+      "date_gmt": "2027-05-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17972,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17972",
+      "status": "future",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "2027-05-02T16:00:00",
+      "date_gmt": "2027-05-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17973,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17973",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "2027-06-02T16:00:00",
+      "date_gmt": "2027-06-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 17974,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17974",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 326,
+      "date": "2027-06-02T16:00:00",
+      "date_gmt": "2027-06-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 17975,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Transit Camp",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        326
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17975",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "2027-06-02T16:00:00",
+      "date_gmt": "2027-06-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17976,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17976",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2027-07-02T16:00:00",
+      "date_gmt": "2027-07-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17977,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17977",
+      "status": "future",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 266,
+      "date": "2027-07-02T16:00:00",
+      "date_gmt": "2027-07-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17978,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Bigman FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        266
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17978",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2027-12-02T16:00:00",
+      "date_gmt": "2027-12-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17979,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17979",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "2027-12-02T16:00:00",
+      "date_gmt": "2027-12-02T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 17980,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17980",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 315,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17981,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs KenGold FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        315
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17981",
+      "status": "future",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17982,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17982",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14180,
+      "date": "2027-05-03T16:00:00",
+      "date_gmt": "2027-05-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17983,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Bandari Tanzania",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        14180
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17983",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2027-06-03T16:00:00",
+      "date_gmt": "2027-06-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17984,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17984",
+      "status": "future",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "2027-06-03T16:00:00",
+      "date_gmt": "2027-06-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 17985,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17985",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2027-07-03T16:00:00",
+      "date_gmt": "2027-07-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17986,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17986",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "2027-07-03T16:00:00",
+      "date_gmt": "2027-07-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 17987,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17987",
+      "status": "future",
+      "venues": [
+        442
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "2027-07-03T16:00:00",
+      "date_gmt": "2027-07-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17988,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17988",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "2027-12-03T16:00:00",
+      "date_gmt": "2027-12-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 330,
+      "id": 17989,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Rhino Rangers vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        330,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17989",
+      "status": "future",
+      "venues": [
+        423
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2027-12-03T16:00:00",
+      "date_gmt": "2027-12-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 283,
+      "id": 17990,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mtibwa Sugar vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        283,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17990",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "2027-12-03T16:00:00",
+      "date_gmt": "2027-12-03T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17991,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17991",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "2027-09-04T16:00:00",
+      "date_gmt": "2027-09-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 326,
+      "id": 17992,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Transit Camp vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        326,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17992",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "2027-09-04T16:00:00",
+      "date_gmt": "2027-09-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17837,
+      "id": 17993,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbuni vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17837,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17993",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 349,
+      "date": "2027-09-04T16:00:00",
+      "date_gmt": "2027-09-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 312,
+      "id": 17994,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Mbeya Kwanza vs Stand United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        312,
+        349
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17994",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 290,
+      "date": "2027-10-04T16:00:00",
+      "date_gmt": "2027-10-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 17840,
+      "id": 17995,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "TMA vs Tanzania Prisons",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        17840,
+        290
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17995",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6048,
+      "date": "2027-10-04T16:00:00",
+      "date_gmt": "2027-10-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 281,
+      "id": 17996,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KMC FC vs Kigamboni United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        281,
+        6048
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17996",
+      "status": "future",
+      "venues": [
+        309
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10894,
+      "date": "2027-10-04T16:00:00",
+      "date_gmt": "2027-10-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 17997,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Gunners FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        10894
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17997",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 14179,
+      "date": "2027-11-04T16:00:00",
+      "date_gmt": "2027-11-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 17998,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs IAA SC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        14179
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17998",
+      "status": "future",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2027-11-04T16:00:00",
+      "date_gmt": "2027-11-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 17999,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "17999",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17837,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 349,
+      "id": 18000,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Stand United vs Mbuni",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        349,
+        17837
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18000",
+      "status": "future",
+      "venues": [
+        275
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 17840,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 266,
+      "id": 18001,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bigman FC vs TMA",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        266,
+        17840
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18001",
+      "status": "future",
+      "venues": [
+        420
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 312,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14179,
+      "id": 18002,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "IAA SC vs Mbeya Kwanza",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14179,
+        312
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18002",
+      "status": "future",
+      "venues": [
+        143
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 283,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 315,
+      "id": 18003,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "KenGold FC vs Mtibwa Sugar",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        315,
+        283
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18003",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 429,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 14180,
+      "id": 18004,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Bandari Tanzania vs Songea United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        14180,
+        429
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18004",
+      "status": "future",
+      "venues": [
+        125
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 281,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10894,
+      "id": 18005,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Gunners FC vs KMC FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10894,
+        281
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18005",
+      "status": "future",
+      "venues": [
+        29
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 330,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 290,
+      "id": 18006,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Tanzania Prisons vs Rhino Rangers",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        290,
+        330
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18006",
+      "status": "future",
+      "venues": [
+        31
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 326,
+      "date": "2027-02-05T16:00:00",
+      "date_gmt": "2027-02-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6048,
+      "id": 18007,
+      "is_placeholder": false,
+      "leagues": [
+        445
+      ],
+      "minutes": "90",
+      "name": "Kigamboni United vs Transit Camp",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6048,
+        326
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "18007",
+      "status": "future",
+      "venues": [
+        442
+      ],
+      "winner_id": null
     }
   ],
-  "scraped_at": "2026-08-31T22:49:42+00:00",
+  "scraped_at": "2026-09-01T11:38:16+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

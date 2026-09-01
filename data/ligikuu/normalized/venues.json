@@ -107,7 +107,7 @@
       "slug": "ccm-gairo-stadium"
     },
     {
-      "count": 35,
+      "count": 42,
       "description": "",
       "id": 275,
       "name": "CCM Kambarage - Shinyanga",
@@ -163,7 +163,7 @@
       "slug": "highland-estates-mbeya"
     },
     {
-      "count": 16,
+      "count": 23,
       "description": "",
       "id": 420,
       "name": "Ilulu Stadium",
@@ -171,7 +171,7 @@
       "slug": "ilulu-stadium"
     },
     {
-      "count": 72,
+      "count": 84,
       "description": "",
       "id": 29,
       "name": "Jamhuri Stadium, Dodoma",
@@ -219,7 +219,7 @@
       "slug": "karume-stadium-mara"
     },
     {
-      "count": 68,
+      "count": 76,
       "description": "",
       "id": 309,
       "name": "KMC Complex, DSM",
@@ -243,7 +243,7 @@
       "slug": "liti-stadiumsingida"
     },
     {
-      "count": 132,
+      "count": 137,
       "description": "",
       "id": 38,
       "name": "Mabatini Stadium, Pwani",
@@ -267,7 +267,7 @@
       "slug": "majaliwa-stadium-lindi"
     },
     {
-      "count": 42,
+      "count": 44,
       "description": "",
       "id": 104,
       "name": "Majimaji Stadium, Songea",
@@ -323,7 +323,7 @@
       "slug": "namungo-fc"
     },
     {
-      "count": 45,
+      "count": 60,
       "description": "",
       "id": 125,
       "name": "Nangwanda Sijaona, Mtwara",
@@ -395,7 +395,7 @@
       "slug": "samora-stadium-iringa"
     },
     {
-      "count": 114,
+      "count": 121,
       "description": "",
       "id": 143,
       "name": "Sheikh Amri Abeid, Arusha",
@@ -411,7 +411,7 @@
       "slug": "singida-bs"
     },
     {
-      "count": 95,
+      "count": 107,
       "description": "",
       "id": 31,
       "name": "Sokoine Stadium, Mbeya",
@@ -419,7 +419,7 @@
       "slug": "sokoine-stadium-mbeya"
     },
     {
-      "count": 9,
+      "count": 17,
       "description": "",
       "id": 423,
       "name": "Tabora Boys Stadium, Tabora",
@@ -451,7 +451,7 @@
       "slug": "tff-center-miyanjani-tanga"
     },
     {
-      "count": 3,
+      "count": 12,
       "description": "",
       "id": 442,
       "name": "Uhuru Stadium",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-31T22:49:44+00:00",
+  "scraped_at": "2026-09-01T11:38:19+00:00",
   "source": "ligikuu"
 }

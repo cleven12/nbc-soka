@@ -2333,7 +2333,7 @@
           }
         ]
       },
-      "count": 17,
+      "count": 125,
       "description": "",
       "id": 445,
       "link": "https://ligikuu.co.tz/league/nbc-championship-league-2026-2027/",
@@ -3474,7 +3474,7 @@
           }
         ]
       },
-      "count": 177,
+      "count": 182,
       "description": "",
       "id": 432,
       "link": "https://ligikuu.co.tz/league/nbc-premier-league-2026-2027/",
@@ -4895,6 +4895,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-08-31T22:49:43+00:00",
+  "scraped_at": "2026-09-01T11:38:18+00:00",
   "source": "ligikuu"
 }

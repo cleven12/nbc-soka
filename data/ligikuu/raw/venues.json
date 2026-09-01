@@ -1572,7 +1572,7 @@
           }
         ]
       },
-      "count": 35,
+      "count": 42,
       "description": "",
       "id": 275,
       "link": "https://ligikuu.co.tz/venue/ccm-kambarage-shinyanga/",
@@ -2629,7 +2629,7 @@
           }
         ]
       },
-      "count": 16,
+      "count": 23,
       "description": "",
       "id": 420,
       "link": "https://ligikuu.co.tz/venue/ilulu-stadium/",
@@ -2780,7 +2780,7 @@
           }
         ]
       },
-      "count": 72,
+      "count": 84,
       "description": "",
       "id": 29,
       "link": "https://ligikuu.co.tz/venue/jamhuri-stadium-dodoma/",
@@ -3686,7 +3686,7 @@
           }
         ]
       },
-      "count": 68,
+      "count": 76,
       "description": "",
       "id": 309,
       "link": "https://ligikuu.co.tz/venue/kmc-complex/",
@@ -4139,7 +4139,7 @@
           }
         ]
       },
-      "count": 132,
+      "count": 137,
       "description": "",
       "id": 38,
       "link": "https://ligikuu.co.tz/venue/mabatini-stadium-pwani/",
@@ -4592,7 +4592,7 @@
           }
         ]
       },
-      "count": 42,
+      "count": 44,
       "description": "",
       "id": 104,
       "link": "https://ligikuu.co.tz/venue/majimaji-stadium-songea/",
@@ -5649,7 +5649,7 @@
           }
         ]
       },
-      "count": 45,
+      "count": 60,
       "description": "",
       "id": 125,
       "link": "https://ligikuu.co.tz/venue/nangwanda-sijaona-stadium/",
@@ -7008,7 +7008,7 @@
           }
         ]
       },
-      "count": 114,
+      "count": 121,
       "description": "",
       "id": 143,
       "link": "https://ligikuu.co.tz/venue/sheikh-amri-abeid/",
@@ -7310,7 +7310,7 @@
           }
         ]
       },
-      "count": 95,
+      "count": 107,
       "description": "",
       "id": 31,
       "link": "https://ligikuu.co.tz/venue/sokoine-stadium-mbeya/",
@@ -7461,7 +7461,7 @@
           }
         ]
       },
-      "count": 9,
+      "count": 17,
       "description": "",
       "id": 423,
       "link": "https://ligikuu.co.tz/venue/tabora-boys-stadium-tabora/",
@@ -8065,7 +8065,7 @@
           }
         ]
       },
-      "count": 3,
+      "count": 12,
       "description": "",
       "id": 442,
       "link": "https://ligikuu.co.tz/venue/uhuru-stadium/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-08-31T22:49:44+00:00",
+  "scraped_at": "2026-09-01T11:38:19+00:00",
   "source": "ligikuu"
 }
