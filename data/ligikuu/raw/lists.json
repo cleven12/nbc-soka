@@ -23,7 +23,7 @@
     "delta_count": 0,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-03T15:24:37+00:00"
+    "modified_after": "2026-09-03T20:01:23+00:00"
   },
   "items": [
     {
@@ -292903,6 +292903,6 @@
     }
   ],
   "resource": "lists",
-  "scraped_at": "2026-09-03T21:01:28+00:00",
+  "scraped_at": "2026-09-04T04:31:09+00:00",
   "source": "ligikuu"
 }
