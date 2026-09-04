@@ -1439,13 +1439,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 344,
       "date": "2026-09-04T19:00:00",
       "date_gmt": "2026-09-04T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 267,
       "id": 17335,
       "is_placeholder": false,
@@ -1454,8 +1454,14 @@
       ],
       "minutes": "90",
       "name": "Dodoma jiji vs Mashujaa FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "267": "win",
+        "344": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         267,
         344
@@ -1464,11 +1470,11 @@
         431
       ],
       "slug": "17335",
-      "status": "future",
+      "status": "publish",
       "venues": [
         29
       ],
-      "winner_id": null
+      "winner_id": 267
     },
     {
       "away_score": null,
@@ -12279,7 +12285,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-04T16:20:34+00:00",
+  "scraped_at": "2026-09-04T20:45:01+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
