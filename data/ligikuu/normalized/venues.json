@@ -171,7 +171,7 @@
       "slug": "ilulu-stadium"
     },
     {
-      "count": 84,
+      "count": 85,
       "description": "",
       "id": 29,
       "name": "Jamhuri Stadium, Dodoma",
@@ -395,7 +395,7 @@
       "slug": "samora-stadium-iringa"
     },
     {
-      "count": 121,
+      "count": 122,
       "description": "",
       "id": 143,
       "name": "Sheikh Amri Abeid, Arusha",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-04T11:16:28+00:00",
+  "scraped_at": "2026-09-04T16:20:36+00:00",
   "source": "ligikuu"
 }

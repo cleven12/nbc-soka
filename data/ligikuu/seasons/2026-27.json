@@ -1401,13 +1401,13 @@
       "winner_id": 2189
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 285,
       "date": "2026-09-04T16:00:00",
       "date_gmt": "2026-09-04T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 325,
       "id": 17334,
       "is_placeholder": false,
@@ -1416,8 +1416,14 @@
       ],
       "minutes": "90",
       "name": "TRA United vs Mbeya City",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "285": "draw",
+        "325": "draw"
+      },
+      "raw_main_results": [
+        "0",
+        "0"
+      ],
       "raw_teams": [
         325,
         285
@@ -1426,7 +1432,7 @@
         431
       ],
       "slug": "17334",
-      "status": "future",
+      "status": "publish",
       "venues": [
         143
       ],
@@ -12273,7 +12279,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-04T11:16:26+00:00",
+  "scraped_at": "2026-09-04T16:20:34+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
