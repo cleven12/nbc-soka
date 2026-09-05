@@ -1477,13 +1477,13 @@
       "winner_id": 267
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 321,
       "date": "2026-09-05T19:00:00",
       "date_gmt": "2026-09-05T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 3,
       "home_team_id": 268,
       "id": 17336,
       "is_placeholder": false,
@@ -1492,8 +1492,14 @@
       ],
       "minutes": "90",
       "name": "JKT Tanzania vs pamba jiji",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "268": "win",
+        "321": "loss"
+      },
+      "raw_main_results": [
+        "3",
+        "0"
+      ],
       "raw_teams": [
         268,
         321
@@ -1502,17 +1508,17 @@
         431
       ],
       "slug": "17336",
-      "status": "future",
+      "status": "publish",
       "venues": [
         279
       ],
-      "winner_id": null
+      "winner_id": 268
     },
     {
       "away_score": null,
       "away_team_id": 278,
-      "date": "2026-09-05T16:00:00",
-      "date_gmt": "2026-09-05T13:00:00",
+      "date": "2026-09-06T16:00:00",
+      "date_gmt": "2026-09-06T13:00:00",
       "day": "",
       "format": "league",
       "home_score": null,
@@ -12285,7 +12291,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-05T15:12:41+00:00",
+  "scraped_at": "2026-09-05T20:19:26+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
