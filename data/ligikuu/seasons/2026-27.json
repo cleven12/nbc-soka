@@ -1515,13 +1515,13 @@
       "winner_id": 268
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 278,
       "date": "2026-09-06T16:00:00",
       "date_gmt": "2026-09-06T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 288,
       "id": 17338,
       "is_placeholder": false,
@@ -1530,8 +1530,14 @@
       ],
       "minutes": "90",
       "name": "Polisi Tanzania vs Coastal union",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "278": "win",
+        "288": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        "2"
+      ],
       "raw_teams": [
         288,
         278
@@ -1540,11 +1546,11 @@
         431
       ],
       "slug": "17338",
-      "status": "future",
+      "status": "publish",
       "venues": [
         93
       ],
-      "winner_id": null
+      "winner_id": 278
     },
     {
       "away_score": null,
@@ -2093,8 +2099,8 @@
     {
       "away_score": null,
       "away_team_id": 286,
-      "date": "2026-10-12T20:30:00",
-      "date_gmt": "2026-10-12T17:30:00",
+      "date": "2026-09-07T19:00:00",
+      "date_gmt": "2026-09-07T16:00:00",
       "day": "",
       "format": "league",
       "home_score": null,
@@ -12291,7 +12297,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-07T04:39:11+00:00",
+  "scraped_at": "2026-09-07T12:30:29+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
