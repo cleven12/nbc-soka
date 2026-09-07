@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 3,
+    "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-07T03:39:11+00:00"
+    "modified_after": "2026-09-07T11:30:29+00:00"
   },
   "items": [
     {
@@ -65579,13 +65579,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 286,
       "date": "2026-09-07T19:00:00",
       "date_gmt": "2026-09-07T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 294,
       "id": 17356,
       "is_placeholder": false,
@@ -65594,8 +65594,14 @@
       ],
       "minutes": "90",
       "name": "Azam FC vs Namungo FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "286": "loss",
+        "294": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "0"
+      ],
       "raw_teams": [
         294,
         286
@@ -65604,11 +65610,11 @@
         431
       ],
       "slug": "17356",
-      "status": "future",
+      "status": "publish",
       "venues": [
         280
       ],
-      "winner_id": null
+      "winner_id": 294
     },
     {
       "away_score": null,
@@ -75780,6 +75786,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-07T12:30:34+00:00",
+  "scraped_at": "2026-09-07T21:30:12+00:00",
   "source": "ligikuu"
 }
