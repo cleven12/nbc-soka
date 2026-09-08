@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 30,
+  "count": 31,
   "filters": {},
   "items": [
     {
@@ -815,6 +815,169 @@
           ]
         },
         "title": "FIRST LEAGUE GROUP A 2025/2026 Archives - LIGI KUU",
+        "twitter_card": "summary_large_image"
+      }
+    },
+    {
+      "_links": {
+        "about": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/taxonomies/sp_league"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues"
+          }
+        ],
+        "curies": [
+          {
+            "href": "https://api.w.org/{rel}",
+            "name": "wp",
+            "templated": true
+          }
+        ],
+        "self": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/leagues/447"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/events?leagues=447"
+          },
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/calendars?leagues=447"
+          },
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/teams?leagues=447"
+          },
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/tables?leagues=447"
+          },
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/players?leagues=447"
+          },
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/lists?leagues=447"
+          },
+          {
+            "href": "https://ligikuu.co.tz/wp-json/wp/v2/staff?leagues=447"
+          }
+        ]
+      },
+      "count": 3,
+      "description": "",
+      "id": 447,
+      "link": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/",
+      "meta": [],
+      "name": "FIRST LEAGUE GROUP A 2026/2027",
+      "parent": 0,
+      "slug": "first-league-group-a-2026-2027-standing",
+      "taxonomy": "sp_league",
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>FIRST LEAGUE GROUP A 2026/2027 Archives - LIGI KUU</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"FIRST LEAGUE GROUP A 2026/2027 Archives - LIGI KUU\" />\n<meta property=\"og:url\" content=\"https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/\" />\n<meta property=\"og:site_name\" content=\"LIGI KUU\" />\n<meta property=\"og:image\" content=\"https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png\" />\n\t<meta property=\"og:image:width\" content=\"972\" />\n\t<meta property=\"og:image:height\" content=\"827\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/first-league-group-a-2026-2027-standing\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/league\\/first-league-group-a-2026-2027-standing\\/\",\"name\":\"FIRST LEAGUE GROUP A 2026\\/2027 Archives - LIGI KUU\",\"isPartOf\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/first-league-group-a-2026-2027-standing\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/league\\/first-league-group-a-2026-2027-standing\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/ligikuu.co.tz\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FIRST LEAGUE GROUP A 2026\\/2027\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#website\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"name\":\"TPLB\",\"description\":\"Tanzania Premier League Board\",\"publisher\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/ligikuu.co.tz\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#organization\",\"name\":\"TPLB\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"contentUrl\":\"https:\\/\\/ligikuu.co.tz\\/wp-content\\/uploads\\/2022\\/05\\/TPLB.png\",\"width\":345,\"height\":375,\"caption\":\"TPLB\"},\"image\":{\"@id\":\"https:\\/\\/ligikuu.co.tz\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "canonical": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/",
+        "og_image": [
+          {
+            "height": 827,
+            "type": "image/png",
+            "url": "https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png",
+            "width": 972
+          }
+        ],
+        "og_locale": "en_US",
+        "og_site_name": "LIGI KUU",
+        "og_title": "FIRST LEAGUE GROUP A 2026/2027 Archives - LIGI KUU",
+        "og_type": "article",
+        "og_url": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/",
+        "robots": {
+          "follow": "follow",
+          "index": "index",
+          "max-image-preview": "max-image-preview:large",
+          "max-snippet": "max-snippet:-1",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/",
+              "@type": "CollectionPage",
+              "breadcrumb": {
+                "@id": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ligikuu.co.tz/#website"
+              },
+              "name": "FIRST LEAGUE GROUP A 2026/2027 Archives - LIGI KUU",
+              "url": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://ligikuu.co.tz/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "FIRST LEAGUE GROUP A 2026/2027",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#website",
+              "@type": "WebSite",
+              "description": "Tanzania Premier League Board",
+              "inLanguage": "en-US",
+              "name": "TPLB",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://ligikuu.co.tz/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://ligikuu.co.tz/#organization"
+              },
+              "url": "https://ligikuu.co.tz/"
+            },
+            {
+              "@id": "https://ligikuu.co.tz/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://ligikuu.co.tz/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "TPLB",
+                "contentUrl": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "height": 375,
+                "inLanguage": "en-US",
+                "url": "https://www.ligikuu.co.tz/wp-content/uploads/2022/05/TPLB.png",
+                "width": 345
+              },
+              "name": "TPLB",
+              "url": "https://ligikuu.co.tz/"
+            }
+          ]
+        },
+        "title": "FIRST LEAGUE GROUP A 2026/2027 Archives - LIGI KUU",
         "twitter_card": "summary_large_image"
       }
     },
@@ -4895,6 +5058,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-09-08T04:33:55+00:00",
+  "scraped_at": "2026-09-08T11:17:17+00:00",
   "source": "ligikuu"
 }

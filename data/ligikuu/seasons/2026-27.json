@@ -29,7 +29,7 @@
   "counts": {
     "events": 377,
     "tables": 3,
-    "teams": 32
+    "teams": 35
   },
   "events": [
     {
@@ -12303,7 +12303,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-08T04:33:53+00:00",
+  "scraped_at": "2026-09-08T11:17:16+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
@@ -13874,6 +13874,30 @@
       ]
     },
     {
+      "abbreviation": "DAR CITY",
+      "id": 354,
+      "leagues": [
+        88,
+        322,
+        421,
+        447
+      ],
+      "name": "Dar City",
+      "seasons": [
+        87,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "dar-city",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        132
+      ]
+    },
+    {
       "abbreviation": "SONGEA UTD",
       "id": 429,
       "leagues": [
@@ -13973,6 +13997,29 @@
       ]
     },
     {
+      "abbreviation": "Barberian",
+      "id": 6039,
+      "leagues": [
+        88,
+        447,
+        419,
+        290
+      ],
+      "name": "Barberian FC",
+      "seasons": [
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "kiluvya-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        426
+      ]
+    },
+    {
       "abbreviation": "KUTD",
       "id": 6048,
       "leagues": [
@@ -13994,6 +14041,27 @@
       "url": null,
       "venues": [
         442
+      ]
+    },
+    {
+      "abbreviation": "HAUSUNG",
+      "id": 10893,
+      "leagues": [
+        322,
+        447,
+        419
+      ],
+      "name": "Hausung FC",
+      "seasons": [
+        288,
+        417,
+        431
+      ],
+      "slug": "hausang-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        105
       ]
     },
     {

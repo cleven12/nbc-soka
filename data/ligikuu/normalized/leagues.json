@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 30,
+  "count": 31,
   "filters": {},
   "items": [
     {
@@ -42,6 +42,14 @@
       "name": "FIRST LEAGUE GROUP A 2025/2026",
       "parent": 0,
       "slug": "first-league-group-a-2025-2026"
+    },
+    {
+      "count": 3,
+      "description": "",
+      "id": 447,
+      "name": "FIRST LEAGUE GROUP A 2026/2027",
+      "parent": 0,
+      "slug": "first-league-group-a-2026-2027-standing"
     },
     {
       "count": 4,
@@ -245,6 +253,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-09-08T04:33:55+00:00",
+  "scraped_at": "2026-09-08T11:17:17+00:00",
   "source": "ligikuu"
 }

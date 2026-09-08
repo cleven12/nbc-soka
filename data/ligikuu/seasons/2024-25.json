@@ -23463,7 +23463,7 @@
       "winner_id": 2582
     }
   ],
-  "scraped_at": "2026-09-08T04:33:53+00:00",
+  "scraped_at": "2026-09-08T11:17:16+00:00",
   "season": {
     "id": 288,
     "name": "2024/25",
@@ -25730,14 +25730,16 @@
       "leagues": [
         88,
         322,
-        421
+        421,
+        447
       ],
       "name": "Dar City",
       "seasons": [
         87,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "dar-city",
       "status": "publish",
@@ -25873,6 +25875,7 @@
       "id": 6039,
       "leagues": [
         88,
+        447,
         419,
         290
       ],
@@ -25880,13 +25883,14 @@
       "seasons": [
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "kiluvya-fc",
       "status": "publish",
       "url": null,
       "venues": [
-        38
+        426
       ]
     },
     {
@@ -26023,12 +26027,14 @@
       "id": 10893,
       "leagues": [
         322,
+        447,
         419
       ],
       "name": "Hausung FC",
       "seasons": [
         288,
-        417
+        417,
+        431
       ],
       "slug": "hausang-fc",
       "status": "publish",
