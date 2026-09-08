@@ -3686,7 +3686,7 @@
           }
         ]
       },
-      "count": 76,
+      "count": 77,
       "description": "",
       "id": 309,
       "link": "https://ligikuu.co.tz/venue/kmc-complex/",
@@ -3837,7 +3837,7 @@
           }
         ]
       },
-      "count": 33,
+      "count": 34,
       "description": "",
       "id": 97,
       "link": "https://ligikuu.co.tz/venue/lake-tanganyika-stadium-kigoma/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-08T11:17:18+00:00",
+  "scraped_at": "2026-09-08T16:37:18+00:00",
   "source": "ligikuu"
 }
