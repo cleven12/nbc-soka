@@ -1553,13 +1553,13 @@
       "winner_id": 278
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 2189,
       "date": "2026-09-09T16:00:00",
       "date_gmt": "2026-09-09T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 344,
       "id": 17339,
       "is_placeholder": false,
@@ -1568,8 +1568,14 @@
       ],
       "minutes": "90",
       "name": "Mashujaa FC vs Singida BS",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2189": "loss",
+        "344": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         344,
         2189
@@ -1578,11 +1584,11 @@
         431
       ],
       "slug": "17339",
-      "status": "future",
+      "status": "publish",
       "venues": [
         97
       ],
-      "winner_id": null
+      "winner_id": 344
     },
     {
       "away_score": null,
@@ -12303,7 +12309,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-09T11:21:17+00:00",
+  "scraped_at": "2026-09-09T16:37:25+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

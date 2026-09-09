@@ -227,7 +227,7 @@
       "slug": "kmc-complex"
     },
     {
-      "count": 33,
+      "count": 34,
       "description": "",
       "id": 97,
       "name": "Lake Tanganyika Stadium, Kigoma",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-09T11:21:20+00:00",
+  "scraped_at": "2026-09-09T16:37:27+00:00",
   "source": "ligikuu"
 }

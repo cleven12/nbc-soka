@@ -3837,7 +3837,7 @@
           }
         ]
       },
-      "count": 33,
+      "count": 34,
       "description": "",
       "id": 97,
       "link": "https://ligikuu.co.tz/venue/lake-tanganyika-stadium-kigoma/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-09T11:21:20+00:00",
+  "scraped_at": "2026-09-09T16:37:27+00:00",
   "source": "ligikuu"
 }
