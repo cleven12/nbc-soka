@@ -219,7 +219,7 @@
       "slug": "karume-stadium-mara"
     },
     {
-      "count": 77,
+      "count": 76,
       "description": "",
       "id": 309,
       "name": "KMC Complex, DSM",
@@ -227,7 +227,7 @@
       "slug": "kmc-complex"
     },
     {
-      "count": 34,
+      "count": 33,
       "description": "",
       "id": 97,
       "name": "Lake Tanganyika Stadium, Kigoma",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-09T04:40:13+00:00",
+  "scraped_at": "2026-09-09T11:21:20+00:00",
   "source": "ligikuu"
 }

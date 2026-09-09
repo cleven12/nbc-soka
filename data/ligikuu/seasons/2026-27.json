@@ -1555,8 +1555,8 @@
     {
       "away_score": null,
       "away_team_id": 2189,
-      "date": "2026-09-08T16:00:00",
-      "date_gmt": "2026-09-08T13:00:00",
+      "date": "2026-09-09T16:00:00",
+      "date_gmt": "2026-09-09T13:00:00",
       "day": "",
       "format": "league",
       "home_score": null,
@@ -1587,8 +1587,8 @@
     {
       "away_score": null,
       "away_team_id": 322,
-      "date": "2026-09-08T19:00:00",
-      "date_gmt": "2026-09-08T16:00:00",
+      "date": "2026-09-15T19:00:00",
+      "date_gmt": "2026-09-15T16:00:00",
       "day": "",
       "format": "league",
       "home_score": null,
@@ -1619,8 +1619,8 @@
     {
       "away_score": null,
       "away_team_id": 291,
-      "date": "2026-09-09T19:00:00",
-      "date_gmt": "2026-09-09T16:00:00",
+      "date": "2026-09-16T19:00:00",
+      "date_gmt": "2026-09-16T16:00:00",
       "day": "",
       "format": "league",
       "home_score": null,
@@ -12303,7 +12303,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-09T04:40:11+00:00",
+  "scraped_at": "2026-09-09T11:21:17+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
