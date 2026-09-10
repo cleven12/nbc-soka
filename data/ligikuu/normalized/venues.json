@@ -107,7 +107,7 @@
       "slug": "ccm-gairo-stadium"
     },
     {
-      "count": 46,
+      "count": 49,
       "description": "",
       "id": 275,
       "name": "CCM Kambarage - Shinyanga",
@@ -219,7 +219,7 @@
       "slug": "karume-stadium-mara"
     },
     {
-      "count": 79,
+      "count": 82,
       "description": "",
       "id": 309,
       "name": "KMC Complex, DSM",
@@ -243,7 +243,7 @@
       "slug": "liti-stadiumsingida"
     },
     {
-      "count": 138,
+      "count": 141,
       "description": "",
       "id": 38,
       "name": "Mabatini Stadium, Pwani",
@@ -267,7 +267,7 @@
       "slug": "majaliwa-stadium-lindi"
     },
     {
-      "count": 44,
+      "count": 43,
       "description": "",
       "id": 104,
       "name": "Majimaji Stadium, Songea",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-10T11:17:53+00:00",
+  "scraped_at": "2026-09-10T16:23:11+00:00",
   "source": "ligikuu"
 }

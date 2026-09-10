@@ -1572,7 +1572,7 @@
           }
         ]
       },
-      "count": 46,
+      "count": 49,
       "description": "",
       "id": 275,
       "link": "https://ligikuu.co.tz/venue/ccm-kambarage-shinyanga/",
@@ -3686,7 +3686,7 @@
           }
         ]
       },
-      "count": 79,
+      "count": 82,
       "description": "",
       "id": 309,
       "link": "https://ligikuu.co.tz/venue/kmc-complex/",
@@ -4139,7 +4139,7 @@
           }
         ]
       },
-      "count": 138,
+      "count": 141,
       "description": "",
       "id": 38,
       "link": "https://ligikuu.co.tz/venue/mabatini-stadium-pwani/",
@@ -4592,7 +4592,7 @@
           }
         ]
       },
-      "count": 44,
+      "count": 43,
       "description": "",
       "id": 104,
       "link": "https://ligikuu.co.tz/venue/majimaji-stadium-songea/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-10T11:17:53+00:00",
+  "scraped_at": "2026-09-10T16:23:11+00:00",
   "source": "ligikuu"
 }
