@@ -107,7 +107,7 @@
       "slug": "ccm-gairo-stadium"
     },
     {
-      "count": 42,
+      "count": 46,
       "description": "",
       "id": 275,
       "name": "CCM Kambarage - Shinyanga",
@@ -163,7 +163,7 @@
       "slug": "highland-estates-mbeya"
     },
     {
-      "count": 23,
+      "count": 27,
       "description": "",
       "id": 420,
       "name": "Ilulu Stadium",
@@ -171,7 +171,7 @@
       "slug": "ilulu-stadium"
     },
     {
-      "count": 85,
+      "count": 89,
       "description": "",
       "id": 29,
       "name": "Jamhuri Stadium, Dodoma",
@@ -219,7 +219,7 @@
       "slug": "karume-stadium-mara"
     },
     {
-      "count": 76,
+      "count": 79,
       "description": "",
       "id": 309,
       "name": "KMC Complex, DSM",
@@ -243,7 +243,7 @@
       "slug": "liti-stadiumsingida"
     },
     {
-      "count": 136,
+      "count": 138,
       "description": "",
       "id": 38,
       "name": "Mabatini Stadium, Pwani",
@@ -323,7 +323,7 @@
       "slug": "namungo-fc"
     },
     {
-      "count": 60,
+      "count": 64,
       "description": "",
       "id": 125,
       "name": "Nangwanda Sijaona, Mtwara",
@@ -395,7 +395,7 @@
       "slug": "samora-stadium-iringa"
     },
     {
-      "count": 122,
+      "count": 125,
       "description": "",
       "id": 143,
       "name": "Sheikh Amri Abeid, Arusha",
@@ -411,7 +411,7 @@
       "slug": "singida-bs"
     },
     {
-      "count": 107,
+      "count": 112,
       "description": "",
       "id": 31,
       "name": "Sokoine Stadium, Mbeya",
@@ -419,7 +419,7 @@
       "slug": "sokoine-stadium-mbeya"
     },
     {
-      "count": 17,
+      "count": 18,
       "description": "",
       "id": 423,
       "name": "Tabora Boys Stadium, Tabora",
@@ -451,7 +451,7 @@
       "slug": "tff-center-miyanjani-tanga"
     },
     {
-      "count": 12,
+      "count": 15,
       "description": "",
       "id": 442,
       "name": "Uhuru Stadium",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-10T04:41:07+00:00",
+  "scraped_at": "2026-09-10T11:17:53+00:00",
   "source": "ligikuu"
 }
