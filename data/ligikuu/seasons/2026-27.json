@@ -1655,13 +1655,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 286,
       "date": "2026-09-11T19:00:00",
       "date_gmt": "2026-09-11T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 267,
       "id": 17342,
       "is_placeholder": false,
@@ -1670,8 +1670,14 @@
       ],
       "minutes": "90",
       "name": "Dodoma Jiji vs Namungo FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "267": "win",
+        "286": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        " 0"
+      ],
       "raw_teams": [
         267,
         286
@@ -1680,11 +1686,11 @@
         431
       ],
       "slug": "17342",
-      "status": "future",
+      "status": "publish",
       "venues": [
         29
       ],
-      "winner_id": null
+      "winner_id": 267
     },
     {
       "away_score": null,
@@ -45265,13 +45271,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 290,
       "date": "2026-09-11T16:00:00",
       "date_gmt": "2026-09-11T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 330,
       "id": 19129,
       "is_placeholder": false,
@@ -45280,8 +45286,14 @@
       ],
       "minutes": "90",
       "name": "Rhino Rangers vs Tanzania Prisons",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "290": "loss",
+        "330": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         330,
         290
@@ -45290,20 +45302,20 @@
         431
       ],
       "slug": "19129",
-      "status": "future",
+      "status": "publish",
       "venues": [
         423
       ],
-      "winner_id": null
+      "winner_id": 330
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 340,
       "date": "2026-09-11T16:00:00",
       "date_gmt": "2026-09-11T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 5,
       "home_team_id": 281,
       "id": 19130,
       "is_placeholder": false,
@@ -45312,8 +45324,14 @@
       ],
       "minutes": "90",
       "name": "KMC FC vs Mbuni FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "281": "win",
+        "340": "loss"
+      },
+      "raw_main_results": [
+        "5",
+        "1"
+      ],
       "raw_teams": [
         281,
         340
@@ -45322,11 +45340,11 @@
         431
       ],
       "slug": "19130",
-      "status": "future",
+      "status": "publish",
       "venues": [
         309
       ],
-      "winner_id": null
+      "winner_id": 281
     },
     {
       "away_score": null,
@@ -45361,13 +45379,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 4536,
       "date": "2026-09-11T16:00:00",
       "date_gmt": "2026-09-11T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 6048,
       "id": 19132,
       "is_placeholder": false,
@@ -45376,8 +45394,14 @@
       ],
       "minutes": "90",
       "name": "Kigamboni United vs TMA",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "4536": "loss",
+        "6048": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         6048,
         4536
@@ -45390,7 +45414,7 @@
       "venues": [
         442
       ],
-      "winner_id": null
+      "winner_id": 6048
     },
     {
       "away_score": null,
@@ -52877,7 +52901,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-11T16:27:21+00:00",
+  "scraped_at": "2026-09-11T20:57:01+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
