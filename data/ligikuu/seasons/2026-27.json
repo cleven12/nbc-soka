@@ -45363,8 +45363,8 @@
     {
       "away_score": null,
       "away_team_id": 4536,
-      "date": "2026-09-12T16:00:00",
-      "date_gmt": "2026-09-12T13:00:00",
+      "date": "2026-09-11T16:00:00",
+      "date_gmt": "2026-09-11T13:00:00",
       "day": "",
       "format": "league",
       "home_score": null,
@@ -45386,7 +45386,7 @@
         431
       ],
       "slug": "19132",
-      "status": "future",
+      "status": "publish",
       "venues": [
         442
       ],
@@ -52877,7 +52877,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-11T11:19:21+00:00",
+  "scraped_at": "2026-09-11T16:27:21+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",

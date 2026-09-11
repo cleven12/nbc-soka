@@ -171,7 +171,7 @@
       "slug": "ilulu-stadium"
     },
     {
-      "count": 73,
+      "count": 74,
       "description": "",
       "id": 29,
       "name": "Jamhuri Stadium, Dodoma",
@@ -219,7 +219,7 @@
       "slug": "karume-stadium-mara"
     },
     {
-      "count": 68,
+      "count": 69,
       "description": "",
       "id": 309,
       "name": "KMC Complex, DSM",
@@ -419,7 +419,7 @@
       "slug": "sokoine-stadium-mbeya"
     },
     {
-      "count": 9,
+      "count": 10,
       "description": "",
       "id": 423,
       "name": "Tabora Boys Stadium, Tabora",
@@ -451,7 +451,7 @@
       "slug": "tff-center-miyanjani-tanga"
     },
     {
-      "count": 3,
+      "count": 4,
       "description": "",
       "id": 442,
       "name": "Uhuru Stadium",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-11T11:19:23+00:00",
+  "scraped_at": "2026-09-11T16:27:24+00:00",
   "source": "ligikuu"
 }

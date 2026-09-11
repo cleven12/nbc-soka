@@ -2780,7 +2780,7 @@
           }
         ]
       },
-      "count": 73,
+      "count": 74,
       "description": "",
       "id": 29,
       "link": "https://ligikuu.co.tz/venue/jamhuri-stadium-dodoma/",
@@ -3686,7 +3686,7 @@
           }
         ]
       },
-      "count": 68,
+      "count": 69,
       "description": "",
       "id": 309,
       "link": "https://ligikuu.co.tz/venue/kmc-complex/",
@@ -7461,7 +7461,7 @@
           }
         ]
       },
-      "count": 9,
+      "count": 10,
       "description": "",
       "id": 423,
       "link": "https://ligikuu.co.tz/venue/tabora-boys-stadium-tabora/",
@@ -8065,7 +8065,7 @@
           }
         ]
       },
-      "count": 3,
+      "count": 4,
       "description": "",
       "id": 442,
       "link": "https://ligikuu.co.tz/venue/uhuru-stadium/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-11T11:19:23+00:00",
+  "scraped_at": "2026-09-11T16:27:24+00:00",
   "source": "ligikuu"
 }
