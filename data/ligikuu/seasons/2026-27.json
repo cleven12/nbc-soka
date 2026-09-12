@@ -1693,13 +1693,13 @@
       "winner_id": 267
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 285,
       "date": "2026-09-12T16:00:00",
       "date_gmt": "2026-09-12T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 288,
       "id": 17343,
       "is_placeholder": false,
@@ -1708,8 +1708,14 @@
       ],
       "minutes": "90",
       "name": "Polisi Tanzania vs Mbeya City",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "285": "loss",
+        "288": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "0"
+      ],
       "raw_teams": [
         288,
         285
@@ -1718,11 +1724,11 @@
         431
       ],
       "slug": "17343",
-      "status": "future",
+      "status": "publish",
       "venues": [
         93
       ],
-      "winner_id": null
+      "winner_id": 288
     },
     {
       "away_score": null,
@@ -52901,7 +52907,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-12T10:44:26+00:00",
+  "scraped_at": "2026-09-12T15:30:57+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
