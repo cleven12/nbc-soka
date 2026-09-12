@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 1,
+    "delta_count": 2,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-12T09:44:26+00:00"
+    "modified_after": "2026-09-12T14:30:57+00:00"
   },
   "items": [
     {
@@ -108835,13 +108835,13 @@
       "winner_id": 281
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 14180,
       "date": "2026-09-12T16:00:00",
       "date_gmt": "2026-09-12T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 315,
       "id": 19131,
       "is_placeholder": false,
@@ -108850,8 +108850,14 @@
       ],
       "minutes": "90",
       "name": "KenGold FC vs Bandari Tanzania",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "14180": "draw",
+        "315": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         315,
         14180
@@ -108860,7 +108866,7 @@
         431
       ],
       "slug": "19131",
-      "status": "future",
+      "status": "publish",
       "venues": [
         31
       ],
@@ -116390,6 +116396,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-12T15:31:02+00:00",
+  "scraped_at": "2026-09-12T20:32:37+00:00",
   "source": "ligikuu"
 }
