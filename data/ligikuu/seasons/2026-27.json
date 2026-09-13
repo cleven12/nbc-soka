@@ -1731,13 +1731,13 @@
       "winner_id": 288
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 268,
       "date": "2026-09-12T19:00:00",
       "date_gmt": "2026-09-12T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 278,
       "id": 17344,
       "is_placeholder": false,
@@ -1746,8 +1746,14 @@
       ],
       "minutes": "90",
       "name": "Coastal Union vs JKT Tanzania",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "268": "loss",
+        "278": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         278,
         268
@@ -1756,11 +1762,11 @@
         431
       ],
       "slug": "17344",
-      "status": "future",
+      "status": "publish",
       "venues": [
         25
       ],
-      "winner_id": null
+      "winner_id": 278
     },
     {
       "away_score": null,
@@ -45429,13 +45435,13 @@
       "winner_id": 6048
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 312,
       "date": "2026-09-12T16:00:00",
       "date_gmt": "2026-09-12T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 349,
       "id": 19133,
       "is_placeholder": false,
@@ -45444,8 +45450,14 @@
       ],
       "minutes": "90",
       "name": "Stand United vs Mbeya Kwanza",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "312": "loss",
+        "349": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         349,
         312
@@ -45454,11 +45466,11 @@
         431
       ],
       "slug": "19133",
-      "status": "future",
+      "status": "publish",
       "venues": [
         275
       ],
-      "winner_id": null
+      "winner_id": 349
     },
     {
       "away_score": null,
@@ -52913,7 +52925,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-12T20:32:32+00:00",
+  "scraped_at": "2026-09-13T11:50:05+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
