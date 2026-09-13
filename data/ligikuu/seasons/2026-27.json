@@ -1807,13 +1807,13 @@
       "winner_id": 325
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 2582,
       "date": "2026-09-13T19:00:00",
       "date_gmt": "2026-09-13T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 269,
       "id": 17346,
       "is_placeholder": false,
@@ -1822,8 +1822,14 @@
       ],
       "minutes": "90",
       "name": "Kagera Sugar vs Fountain Gate",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "2582": "draw",
+        "269": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         269,
         2582
@@ -1832,7 +1838,7 @@
         431
       ],
       "slug": "17346",
-      "status": "future",
+      "status": "publish",
       "venues": [
         95
       ],
@@ -45519,8 +45525,8 @@
     {
       "away_score": null,
       "away_team_id": 283,
-      "date": "2026-09-13T16:00:00",
-      "date_gmt": "2026-09-13T13:00:00",
+      "date": "2026-09-14T16:00:00",
+      "date_gmt": "2026-09-14T13:00:00",
       "day": "",
       "format": "league",
       "home_score": null,
@@ -45549,13 +45555,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 10894,
       "date": "2026-09-13T16:00:00",
       "date_gmt": "2026-09-13T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 429,
       "id": 19136,
       "is_placeholder": false,
@@ -45564,8 +45570,14 @@
       ],
       "minutes": "90",
       "name": "Songea United vs Gunners FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "10894": "draw",
+        "429": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         429,
         10894
@@ -45574,7 +45586,7 @@
         431
       ],
       "slug": "19136",
-      "status": "future",
+      "status": "publish",
       "venues": [
         104
       ],
@@ -52937,7 +52949,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-13T16:15:50+00:00",
+  "scraped_at": "2026-09-13T20:48:41+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
