@@ -23,7 +23,7 @@
     "delta_count": 2,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-12T19:32:32+00:00"
+    "modified_after": "2026-09-13T10:50:05+00:00"
   },
   "items": [
     {
@@ -65251,13 +65251,13 @@
       "winner_id": 278
     },
     {
-      "away_score": null,
+      "away_score": 3,
       "away_team_id": 325,
       "date": "2026-09-13T16:00:00",
       "date_gmt": "2026-09-13T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 321,
       "id": 17345,
       "is_placeholder": false,
@@ -65266,8 +65266,14 @@
       ],
       "minutes": "90",
       "name": "Pamba Jiji vs TRA United",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "321": "loss",
+        "325": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "3"
+      ],
       "raw_teams": [
         321,
         325
@@ -65276,11 +65282,11 @@
         431
       ],
       "slug": "17345",
-      "status": "future",
+      "status": "publish",
       "venues": [
         106
       ],
-      "winner_id": null
+      "winner_id": 325
     },
     {
       "away_score": null,
@@ -108955,13 +108961,13 @@
       "winner_id": 349
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 266,
       "date": "2026-09-13T16:00:00",
       "date_gmt": "2026-09-13T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 14179,
       "id": 19134,
       "is_placeholder": false,
@@ -108970,8 +108976,14 @@
       ],
       "minutes": "90",
       "name": "IAA SC vs Bigman FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "14179": "win",
+        "266": "loss"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         14179,
         266
@@ -108980,11 +108992,11 @@
         431
       ],
       "slug": "19134",
-      "status": "future",
+      "status": "publish",
       "venues": [
         143
       ],
-      "winner_id": null
+      "winner_id": 14179
     },
     {
       "away_score": null,
@@ -116408,6 +116420,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-13T11:50:10+00:00",
+  "scraped_at": "2026-09-13T16:15:55+00:00",
   "source": "ligikuu"
 }

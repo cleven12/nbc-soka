@@ -115,7 +115,7 @@
       "slug": "ccm-kambarage-shinyanga"
     },
     {
-      "count": 49,
+      "count": 50,
       "description": "",
       "id": 106,
       "name": "CCM Kirumba, Mwanza",
@@ -203,7 +203,7 @@
       "slug": "kagera-sugar"
     },
     {
-      "count": 32,
+      "count": 33,
       "description": "",
       "id": 95,
       "name": "Kaitaba Stadium, Bukoba",
@@ -243,7 +243,7 @@
       "slug": "liti-stadiumsingida"
     },
     {
-      "count": 131,
+      "count": 132,
       "description": "",
       "id": 38,
       "name": "Mabatini Stadium, Pwani",
@@ -267,7 +267,7 @@
       "slug": "majaliwa-stadium-lindi"
     },
     {
-      "count": 42,
+      "count": 43,
       "description": "",
       "id": 104,
       "name": "Majimaji Stadium, Songea",
@@ -395,7 +395,7 @@
       "slug": "samora-stadium-iringa"
     },
     {
-      "count": 115,
+      "count": 116,
       "description": "",
       "id": 143,
       "name": "Sheikh Amri Abeid, Arusha",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-13T11:50:07+00:00",
+  "scraped_at": "2026-09-13T16:15:52+00:00",
   "source": "ligikuu"
 }

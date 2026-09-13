@@ -1723,7 +1723,7 @@
           }
         ]
       },
-      "count": 49,
+      "count": 50,
       "description": "",
       "id": 106,
       "link": "https://ligikuu.co.tz/venue/ccm-kirumba-mwanza/",
@@ -3384,7 +3384,7 @@
           }
         ]
       },
-      "count": 32,
+      "count": 33,
       "description": "",
       "id": 95,
       "link": "https://ligikuu.co.tz/venue/kaitaba-stadium-bukoba/",
@@ -4139,7 +4139,7 @@
           }
         ]
       },
-      "count": 131,
+      "count": 132,
       "description": "",
       "id": 38,
       "link": "https://ligikuu.co.tz/venue/mabatini-stadium-pwani/",
@@ -4592,7 +4592,7 @@
           }
         ]
       },
-      "count": 42,
+      "count": 43,
       "description": "",
       "id": 104,
       "link": "https://ligikuu.co.tz/venue/majimaji-stadium-songea/",
@@ -7008,7 +7008,7 @@
           }
         ]
       },
-      "count": 115,
+      "count": 116,
       "description": "",
       "id": 143,
       "link": "https://ligikuu.co.tz/venue/sheikh-amri-abeid/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-13T11:50:07+00:00",
+  "scraped_at": "2026-09-13T16:15:52+00:00",
   "source": "ligikuu"
 }
