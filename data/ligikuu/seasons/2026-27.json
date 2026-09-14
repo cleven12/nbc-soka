@@ -27,9 +27,9 @@
     }
   ],
   "counts": {
-    "events": 1656,
+    "events": 1712,
     "tables": 3,
-    "teams": 35
+    "teams": 44
   },
   "events": [
     {
@@ -52947,9 +52947,1749 @@
         442
       ],
       "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6039,
+      "date": "2026-10-29T16:00:00",
+      "date_gmt": "2026-10-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10893,
+      "id": 19405,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Hausang vs Barberian",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10893,
+        6039
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19405",
+      "status": "future",
+      "venues": [
+        105
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6043,
+      "date": "2026-10-30T16:00:00",
+      "date_gmt": "2026-10-30T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6041,
+      "id": 19408,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Magnet FC vs Nyumbu",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6041,
+        6043
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19408",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 337,
+      "date": "2026-10-30T16:00:00",
+      "date_gmt": "2026-10-30T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 341,
+      "id": 19410,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Cosmopolitan vs Pan African",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        341,
+        337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19410",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10892,
+      "date": "2026-10-31T16:00:00",
+      "date_gmt": "2026-10-31T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 354,
+      "id": 19412,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Dar City vs Moro Kids",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        354,
+        10892
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19412",
+      "status": "future",
+      "venues": [
+        132
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 337,
+      "date": "2026-11-06T16:00:00",
+      "date_gmt": "2026-11-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 354,
+      "id": 19413,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Dar City vs Pan African",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        354,
+        337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19413",
+      "status": "future",
+      "venues": [
+        132
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10892,
+      "date": "2026-11-07T16:00:00",
+      "date_gmt": "2026-11-07T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19406,
+      "id": 19414,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Hausang vs Moro Kids",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19406,
+        10892
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19414",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6041,
+      "date": "2026-11-07T16:00:00",
+      "date_gmt": "2026-11-07T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19407,
+      "id": 19415,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Barberian vs Magnet FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19407,
+        6041
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19415",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19411,
+      "date": "2026-11-08T16:00:00",
+      "date_gmt": "2026-11-08T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19409,
+      "id": 19416,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Nyumbu vs Cosmopolitan",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19409,
+        19411
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19416",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 354,
+      "date": "2026-11-13T16:00:00",
+      "date_gmt": "2026-11-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19406,
+      "id": 19417,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Hausang vs Dar City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19406,
+        354
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19417",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19411,
+      "date": "2026-11-14T16:00:00",
+      "date_gmt": "2026-11-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10892,
+      "id": 19418,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Moro Kids vs Cosmopolitan",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10892,
+        19411
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19418",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 337,
+      "date": "2026-11-14T16:00:00",
+      "date_gmt": "2026-11-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6041,
+      "id": 19419,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Magnet FC vs Pan African",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6041,
+        337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19419",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19409,
+      "date": "2026-11-15T16:00:00",
+      "date_gmt": "2026-11-15T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19407,
+      "id": 19420,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Barberian vs Nyumbu",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19407,
+        19409
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19420",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19407,
+      "date": "2026-11-27T16:00:00",
+      "date_gmt": "2026-11-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10892,
+      "id": 19421,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Moro Kids vs Barberian",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10892,
+        19407
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19421",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19409,
+      "date": "2026-11-28T16:00:00",
+      "date_gmt": "2026-11-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 337,
+      "id": 19422,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Pan African vs Nyumbu",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        337,
+        19409
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19422",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19406,
+      "date": "2026-11-29T16:00:00",
+      "date_gmt": "2026-11-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6041,
+      "id": 19423,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Magnet FC vs Hausang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6041,
+        19406
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19423",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 354,
+      "date": "2026-11-29T16:00:00",
+      "date_gmt": "2026-11-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19411,
+      "id": 19424,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Cosmopolitan vs Dar City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19411,
+        354
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19424",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6041,
+      "date": "2026-12-04T16:00:00",
+      "date_gmt": "2026-12-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10892,
+      "id": 19425,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Moro Kids vs Magnet FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10892,
+        6041
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19425",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19406,
+      "date": "2026-12-04T16:00:00",
+      "date_gmt": "2026-12-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 337,
+      "id": 19426,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Pan African vs Hausang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        337,
+        19406
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19426",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 354,
+      "date": "2026-12-05T16:00:00",
+      "date_gmt": "2026-12-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19409,
+      "id": 19427,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Nyumbu vs Dar City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19409,
+        354
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19427",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19407,
+      "date": "2026-12-06T16:00:00",
+      "date_gmt": "2026-12-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19411,
+      "id": 19428,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Cosmopolitan vs Barberian",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19411,
+        19407
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19428",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6041,
+      "date": "2026-12-11T16:00:00",
+      "date_gmt": "2026-12-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19411,
+      "id": 19429,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Cosmopolitan vs Magnet FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19411,
+        6041
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19429",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19406,
+      "date": "2026-12-12T16:00:00",
+      "date_gmt": "2026-12-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19409,
+      "id": 19430,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Nyumbu vs Hausang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19409,
+        19406
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19430",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19407,
+      "date": "2026-12-12T16:00:00",
+      "date_gmt": "2026-12-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 354,
+      "id": 19431,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Dar City vs Barberian",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        354,
+        19407
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19431",
+      "status": "future",
+      "venues": [
+        132
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10892,
+      "date": "2026-12-13T16:00:00",
+      "date_gmt": "2026-12-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 337,
+      "id": 19432,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Pan African vs Moro Kids",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        337,
+        10892
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19432",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6041,
+      "date": "2026-12-18T16:00:00",
+      "date_gmt": "2026-12-18T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 354,
+      "id": 19433,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Dar City vs Magnet FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        354,
+        6041
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19433",
+      "status": "future",
+      "venues": [
+        132
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 337,
+      "date": "2026-12-19T16:00:00",
+      "date_gmt": "2026-12-19T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19407,
+      "id": 19434,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Barberian vs Pan African",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19407,
+        337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19434",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19411,
+      "date": "2026-12-19T16:00:00",
+      "date_gmt": "2026-12-19T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19406,
+      "id": 19435,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Hausang vs Cosmopolitan",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19406,
+        19411
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19435",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10892,
+      "date": "2026-12-20T16:00:00",
+      "date_gmt": "2026-12-20T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19409,
+      "id": 19436,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Nyumbu vs Moro Kids",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19409,
+        10892
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19436",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 337,
+      "date": "2027-01-22T16:00:00",
+      "date_gmt": "2027-01-22T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19406,
+      "id": 19437,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Hausang vs Pan African",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19406,
+        337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19437",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 354,
+      "date": "2027-01-22T16:00:00",
+      "date_gmt": "2027-01-22T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10892,
+      "id": 19438,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Moro Kids vs Dar City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10892,
+        354
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19438",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19409,
+      "date": "2027-01-23T16:00:00",
+      "date_gmt": "2027-01-23T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19411,
+      "id": 19439,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Cosmopolitan vs Nyumbu",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19411,
+        19409
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19439",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19407,
+      "date": "2027-01-24T16:00:00",
+      "date_gmt": "2027-01-24T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6041,
+      "id": 19440,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Magnet FC vs Barberian",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6041,
+        19407
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19440",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19407,
+      "date": "2027-02-12T16:00:00",
+      "date_gmt": "2027-02-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19409,
+      "id": 19441,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Nyumbu vs Barberian",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19409,
+        19407
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19441",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6041,
+      "date": "2027-02-13T16:00:00",
+      "date_gmt": "2027-02-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19406,
+      "id": 19442,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Hausang vs Magnet FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19406,
+        6041
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19442",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 337,
+      "date": "2027-02-13T16:00:00",
+      "date_gmt": "2027-02-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10892,
+      "id": 19443,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Moro Kids vs Pan African",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10892,
+        337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19443",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19411,
+      "date": "2027-02-14T16:00:00",
+      "date_gmt": "2027-02-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 354,
+      "id": 19444,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Dar City vs Cosmopolitan",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        354,
+        19411
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19444",
+      "status": "future",
+      "venues": [
+        132
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19406,
+      "date": "2027-02-26T16:00:00",
+      "date_gmt": "2027-02-26T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19407,
+      "id": 19445,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Barberian vs Hausang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19407,
+        19406
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19445",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10892,
+      "date": "2027-02-26T16:00:00",
+      "date_gmt": "2027-02-26T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19411,
+      "id": 19446,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Cosmopolitan vs Moro Kids",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19411,
+        10892
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19446",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 354,
+      "date": "2027-02-27T16:00:00",
+      "date_gmt": "2027-02-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 337,
+      "id": 19447,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Pan African vs Dar City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        337,
+        354
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19447",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6041,
+      "date": "2027-02-28T16:00:00",
+      "date_gmt": "2027-02-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19409,
+      "id": 19448,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Nyumbu vs Magnet FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19409,
+        6041
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19448",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10892,
+      "date": "2027-03-05T16:00:00",
+      "date_gmt": "2027-03-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19407,
+      "id": 19449,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Barberian vs Moro Kids",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19407,
+        10892
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19449",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19406,
+      "date": "2027-03-06T16:00:00",
+      "date_gmt": "2027-03-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19411,
+      "id": 19450,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Cosmopolitan vs Hausang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19411,
+        19406
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19450",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 337,
+      "date": "2027-03-06T16:00:00",
+      "date_gmt": "2027-03-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19409,
+      "id": 19451,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Nyumbu vs Pan African",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19409,
+        337
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19451",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 354,
+      "date": "2027-03-07T16:00:00",
+      "date_gmt": "2027-03-07T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6041,
+      "id": 19452,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Magnet FC vs Dar City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6041,
+        354
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19452",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19409,
+      "date": "2027-03-12T16:00:00",
+      "date_gmt": "2027-03-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19406,
+      "id": 19453,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Hausang vs Nyumbu",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19406,
+        19409
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19453",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 354,
+      "date": "2027-03-12T16:00:00",
+      "date_gmt": "2027-03-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19407,
+      "id": 19454,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Barberian vs Dar City",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19407,
+        354
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19454",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 10892,
+      "date": "2027-03-13T16:00:00",
+      "date_gmt": "2027-03-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6041,
+      "id": 19455,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Magnet FC vs Moro Kids",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6041,
+        10892
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19455",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19411,
+      "date": "2027-03-14T16:00:00",
+      "date_gmt": "2027-03-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 337,
+      "id": 19456,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Pan African vs Cosmopolitan",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        337,
+        19411
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19456",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19411,
+      "date": "2027-03-19T16:00:00",
+      "date_gmt": "2027-03-19T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 6041,
+      "id": 19457,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Magnet FC vs Cosmopolitan",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        6041,
+        19411
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19457",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19409,
+      "date": "2027-03-20T16:00:00",
+      "date_gmt": "2027-03-20T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 354,
+      "id": 19458,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Dar City vs Nyumbu",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        354,
+        19409
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19458",
+      "status": "future",
+      "venues": [
+        132
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19406,
+      "date": "2027-03-21T16:00:00",
+      "date_gmt": "2027-03-21T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10892,
+      "id": 19459,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Moro Kids vs Hausang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10892,
+        19406
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19459",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19407,
+      "date": "2027-03-21T16:00:00",
+      "date_gmt": "2027-03-21T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 337,
+      "id": 19460,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Pan African vs Barberian",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        337,
+        19407
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19460",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19411,
+      "date": "2027-03-26T16:00:00",
+      "date_gmt": "2027-03-26T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19407,
+      "id": 19461,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Barberian vs Cosmopolitan",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19407,
+        19411
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19461",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 6041,
+      "date": "2027-03-27T16:00:00",
+      "date_gmt": "2027-03-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 337,
+      "id": 19462,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Pan African vs Magnet FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        337,
+        6041
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19462",
+      "status": "future",
+      "venues": [
+        38
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19409,
+      "date": "2027-03-27T16:00:00",
+      "date_gmt": "2027-03-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 10892,
+      "id": 19463,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Moro Kids vs Nyumbu",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        10892,
+        19409
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19463",
+      "status": "future",
+      "venues": [
+        30
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19406,
+      "date": "2027-03-28T16:00:00",
+      "date_gmt": "2027-03-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 354,
+      "id": 19464,
+      "is_placeholder": false,
+      "leagues": [
+        447
+      ],
+      "minutes": "90",
+      "name": "Dar City vs Hausang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        354,
+        19406
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19464",
+      "status": "future",
+      "venues": [
+        132
+      ],
+      "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-14T04:54:21+00:00",
+  "scraped_at": "2026-09-14T12:44:18+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
@@ -54443,6 +56183,34 @@
       ]
     },
     {
+      "abbreviation": "Pan",
+      "id": 337,
+      "leagues": [
+        238,
+        322,
+        421,
+        447,
+        151,
+        22
+      ],
+      "name": "Pan African",
+      "seasons": [
+        23,
+        87,
+        135,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "pan-african",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
       "abbreviation": "MBUNI",
       "id": 340,
       "leagues": [
@@ -54466,6 +56234,31 @@
       "url": null,
       "venues": [
         143
+      ]
+    },
+    {
+      "abbreviation": "Cosmo",
+      "id": 341,
+      "leagues": [
+        238,
+        421,
+        447,
+        290,
+        22
+      ],
+      "name": "Cosmopolitan FC",
+      "seasons": [
+        23,
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "cosmopolitan-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        30
       ]
     },
     {
@@ -54666,6 +56459,52 @@
       ]
     },
     {
+      "abbreviation": "Magnet",
+      "id": 6041,
+      "leagues": [
+        88,
+        322,
+        421,
+        447
+      ],
+      "name": "Magnet FC",
+      "seasons": [
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "malimao-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
+      "abbreviation": "Nyumbu",
+      "id": 6043,
+      "leagues": [
+        88,
+        322,
+        421,
+        447
+      ],
+      "name": "Nyumbu FC",
+      "seasons": [
+        235,
+        288,
+        417,
+        431
+      ],
+      "slug": "nyumbu-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        38
+      ]
+    },
+    {
       "abbreviation": "KUTD",
       "id": 6048,
       "leagues": [
@@ -54687,6 +56526,27 @@
       "url": null,
       "venues": [
         442
+      ]
+    },
+    {
+      "abbreviation": "Moro Kids",
+      "id": 10892,
+      "leagues": [
+        322,
+        421,
+        447
+      ],
+      "name": "Moro Kids",
+      "seasons": [
+        288,
+        417,
+        431
+      ],
+      "slug": "moro-kids-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        30
       ]
     },
     {
@@ -54768,6 +56628,66 @@
       "venues": [
         125
       ]
+    },
+    {
+      "abbreviation": null,
+      "id": 19406,
+      "leagues": [
+        447
+      ],
+      "name": "Hausang",
+      "seasons": [
+        431
+      ],
+      "slug": "hausang",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19407,
+      "leagues": [
+        447
+      ],
+      "name": "Barberian",
+      "seasons": [
+        431
+      ],
+      "slug": "barberian",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19409,
+      "leagues": [
+        447
+      ],
+      "name": "Nyumbu",
+      "seasons": [
+        431
+      ],
+      "slug": "nyumbu",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19411,
+      "leagues": [
+        447
+      ],
+      "name": "Cosmopolitan",
+      "seasons": [
+        431
+      ],
+      "slug": "cosmopolitan",
+      "status": "publish",
+      "url": null,
+      "venues": []
     }
   ]
 }

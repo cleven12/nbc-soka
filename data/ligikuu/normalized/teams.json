@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 51,
+  "count": 55,
   "filters": {
     "active_league_ids": [
       236,
@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 10,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-13T19:48:41+00:00"
+    "modified_after": "2026-09-14T03:54:21+00:00"
   },
   "items": [
     {
@@ -706,6 +706,7 @@
         238,
         322,
         421,
+        447,
         151,
         22
       ],
@@ -716,7 +717,8 @@
         135,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "pan-african",
       "status": "publish",
@@ -781,6 +783,7 @@
       "leagues": [
         238,
         421,
+        447,
         290,
         22
       ],
@@ -789,7 +792,8 @@
         23,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "cosmopolitan-fc",
       "status": "publish",
@@ -1044,13 +1048,15 @@
       "leagues": [
         88,
         322,
-        421
+        421,
+        447
       ],
       "name": "Magnet FC",
       "seasons": [
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "malimao-fc",
       "status": "publish",
@@ -1065,13 +1071,15 @@
       "leagues": [
         88,
         322,
-        421
+        421,
+        447
       ],
       "name": "Nyumbu FC",
       "seasons": [
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "nyumbu-fc",
       "status": "publish",
@@ -1153,12 +1161,14 @@
       "id": 10892,
       "leagues": [
         322,
-        421
+        421,
+        447
       ],
       "name": "Moro Kids",
       "seasons": [
         288,
-        417
+        417,
+        431
       ],
       "slug": "moro-kids-fc",
       "status": "publish",
@@ -1263,9 +1273,69 @@
       "venues": [
         125
       ]
+    },
+    {
+      "abbreviation": null,
+      "id": 19406,
+      "leagues": [
+        447
+      ],
+      "name": "Hausang",
+      "seasons": [
+        431
+      ],
+      "slug": "hausang",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19407,
+      "leagues": [
+        447
+      ],
+      "name": "Barberian",
+      "seasons": [
+        431
+      ],
+      "slug": "barberian",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19409,
+      "leagues": [
+        447
+      ],
+      "name": "Nyumbu",
+      "seasons": [
+        431
+      ],
+      "slug": "nyumbu",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19411,
+      "leagues": [
+        447
+      ],
+      "name": "Cosmopolitan",
+      "seasons": [
+        431
+      ],
+      "slug": "cosmopolitan",
+      "status": "publish",
+      "url": null,
+      "venues": []
     }
   ],
   "resource": "teams",
-  "scraped_at": "2026-09-14T04:54:23+00:00",
+  "scraped_at": "2026-09-14T12:44:21+00:00",
   "source": "ligikuu"
 }

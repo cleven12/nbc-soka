@@ -44,7 +44,7 @@
       "slug": "first-league-group-a-2025-2026"
     },
     {
-      "count": 3,
+      "count": 15,
       "description": "",
       "id": 447,
       "name": "FIRST LEAGUE GROUP A 2026/2027",
@@ -180,7 +180,7 @@
       "slug": "nbc-premier-league-2025-2026"
     },
     {
-      "count": 207,
+      "count": 214,
       "description": "",
       "id": 432,
       "name": "NBC PREMIER LEAGUE 2026/2027",
@@ -253,6 +253,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-09-14T04:54:22+00:00",
+  "scraped_at": "2026-09-14T12:44:20+00:00",
   "source": "ligikuu"
 }
