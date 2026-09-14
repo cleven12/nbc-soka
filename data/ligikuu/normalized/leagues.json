@@ -124,7 +124,7 @@
       "slug": "nbc-championship-2025-2026"
     },
     {
-      "count": 25,
+      "count": 26,
       "description": "",
       "id": 445,
       "name": "NBC CHAMPIONSHIP LEAGUE 2026/2027",
@@ -253,6 +253,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-09-14T12:44:20+00:00",
+  "scraped_at": "2026-09-14T21:48:41+00:00",
   "source": "ligikuu"
 }

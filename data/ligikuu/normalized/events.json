@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 60,
+    "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-14T03:54:21+00:00"
+    "modified_after": "2026-09-14T11:44:18+00:00"
   },
   "items": [
     {
@@ -109005,13 +109005,13 @@
       "winner_id": 14179
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 283,
       "date": "2026-09-14T16:00:00",
       "date_gmt": "2026-09-14T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 326,
       "id": 19135,
       "is_placeholder": false,
@@ -109020,8 +109020,14 @@
       ],
       "minutes": "90",
       "name": "Transit Camp vs Mtibwa Sugar",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "283": "draw",
+        "326": "draw"
+      },
+      "raw_main_results": [
+        "1",
+        "1"
+      ],
       "raw_teams": [
         326,
         283
@@ -109030,7 +109036,7 @@
         431
       ],
       "slug": "19135",
-      "status": "future",
+      "status": "publish",
       "venues": [
         38
       ],
@@ -118172,6 +118178,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-14T12:44:25+00:00",
+  "scraped_at": "2026-09-14T21:48:45+00:00",
   "source": "ligikuu"
 }
