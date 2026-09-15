@@ -3837,7 +3837,7 @@
           }
         ]
       },
-      "count": 34,
+      "count": 35,
       "description": "",
       "id": 97,
       "link": "https://ligikuu.co.tz/venue/lake-tanganyika-stadium-kigoma/",
@@ -6404,7 +6404,7 @@
           }
         ]
       },
-      "count": 45,
+      "count": 46,
       "description": "",
       "id": 112,
       "link": "https://ligikuu.co.tz/venue/nyankumbu-stadium/",
@@ -8216,7 +8216,7 @@
           }
         ]
       },
-      "count": 61,
+      "count": 62,
       "description": "",
       "id": 93,
       "link": "https://ligikuu.co.tz/venue/ushirika-stadium-kilimanjaro/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-15T04:52:58+00:00",
+  "scraped_at": "2026-09-15T11:42:51+00:00",
   "source": "ligikuu"
 }

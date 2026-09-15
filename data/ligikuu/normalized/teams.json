@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 55,
+  "count": 62,
   "filters": {
     "active_league_ids": [
       236,
@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 12,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-14T20:48:39+00:00"
+    "modified_after": "2026-09-15T03:52:56+00:00"
   },
   "items": [
     {
@@ -454,6 +454,7 @@
       "id": 311,
       "leagues": [
         88,
+        448,
         419,
         151,
         290
@@ -464,7 +465,8 @@
         135,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "african-sports-fc",
       "status": "publish",
@@ -683,14 +685,16 @@
         89,
         258,
         323,
-        422
+        422,
+        448
       ],
       "name": "Alliance FC",
       "seasons": [
         87,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "alliance-fc",
       "status": "publish",
@@ -929,6 +933,7 @@
         238,
         323,
         422,
+        448,
         151
       ],
       "name": "Copco FC",
@@ -936,7 +941,8 @@
         135,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "copco-fc",
       "status": "publish",
@@ -1117,13 +1123,15 @@
         58,
         258,
         323,
-        422
+        422,
+        448
       ],
       "name": "Endument FC",
       "seasons": [
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "tra-fc",
       "status": "publish",
@@ -1223,11 +1231,13 @@
       "abbreviation": "NKIM",
       "id": 14178,
       "leagues": [
-        422
+        422,
+        448
       ],
       "name": "NKIM FC",
       "seasons": [
-        417
+        417,
+        431
       ],
       "slug": "misitu-fc",
       "status": "publish",
@@ -1333,9 +1343,120 @@
       "status": "publish",
       "url": null,
       "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19469,
+      "leagues": [
+        448
+      ],
+      "name": "Kigoma FC",
+      "seasons": [
+        431
+      ],
+      "slug": "kigoma-fc",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        97
+      ]
+    },
+    {
+      "abbreviation": null,
+      "id": 19472,
+      "leagues": [
+        448
+      ],
+      "name": "Mt.Hanang",
+      "seasons": [
+        431
+      ],
+      "slug": "mt-hanang",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        93
+      ]
+    },
+    {
+      "abbreviation": null,
+      "id": 19476,
+      "leagues": [
+        448
+      ],
+      "name": "Madini United",
+      "seasons": [
+        431
+      ],
+      "slug": "madini-united",
+      "status": "publish",
+      "url": null,
+      "venues": [
+        112
+      ]
+    },
+    {
+      "abbreviation": null,
+      "id": 19483,
+      "leagues": [
+        448
+      ],
+      "name": "Alliance",
+      "seasons": [
+        431
+      ],
+      "slug": "alliance",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19485,
+      "leagues": [
+        448
+      ],
+      "name": "Mt. Hanang",
+      "seasons": [
+        431
+      ],
+      "slug": "mt-hanang-2",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19487,
+      "leagues": [
+        448
+      ],
+      "name": "NKIM",
+      "seasons": [
+        431
+      ],
+      "slug": "nkim",
+      "status": "publish",
+      "url": null,
+      "venues": []
+    },
+    {
+      "abbreviation": null,
+      "id": 19489,
+      "leagues": [
+        448
+      ],
+      "name": "Endument",
+      "seasons": [
+        431
+      ],
+      "slug": "endument",
+      "status": "publish",
+      "url": null,
+      "venues": []
     }
   ],
   "resource": "teams",
-  "scraped_at": "2026-09-15T04:52:58+00:00",
+  "scraped_at": "2026-09-15T11:42:53+00:00",
   "source": "ligikuu"
 }

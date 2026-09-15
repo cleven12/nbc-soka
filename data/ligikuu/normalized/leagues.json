@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 31,
+  "count": 32,
   "filters": {},
   "items": [
     {
@@ -82,6 +82,14 @@
       "name": "FIRST LEAGUE GROUP B 2025/2026",
       "parent": 0,
       "slug": "first-league-group-b-2025-2026"
+    },
+    {
+      "count": 14,
+      "description": "",
+      "id": 448,
+      "name": "FIRST LEAGUE GROUP B 2026/2027",
+      "parent": 0,
+      "slug": "first-league-group-b-2026-2027"
     },
     {
       "count": 139,
@@ -253,6 +261,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-09-15T04:52:57+00:00",
+  "scraped_at": "2026-09-15T11:42:51+00:00",
   "source": "ligikuu"
 }

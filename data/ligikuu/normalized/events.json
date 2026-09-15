@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 3412,
+  "count": 3468,
   "filters": {
     "active_league_ids": [
       236,
@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 56,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-14T20:48:39+00:00"
+    "modified_after": "2026-09-15T03:52:56+00:00"
   },
   "items": [
     {
@@ -118175,9 +118175,1745 @@
         132
       ],
       "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19476,
+      "date": "2026-10-29T16:00:00",
+      "date_gmt": "2026-10-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19483,
+      "id": 19482,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Alliance vs Madini United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19483,
+        19476
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19482",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19485,
+      "date": "2026-10-29T16:00:00",
+      "date_gmt": "2026-10-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19469,
+      "id": 19484,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Kigoma FC vs Mt. Hanang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19469,
+        19485
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19484",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 311,
+      "date": "2026-10-30T16:00:00",
+      "date_gmt": "2026-10-30T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19487,
+      "id": 19486,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "NKIM vs African Sports",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19487,
+        311
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19486",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19489,
+      "date": "2026-10-31T16:00:00",
+      "date_gmt": "2026-10-31T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 1665,
+      "id": 19488,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Copco FC vs Endument",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        1665,
+        19489
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19488",
+      "status": "future",
+      "venues": [
+        101
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19476,
+      "date": "2026-11-06T16:00:00",
+      "date_gmt": "2026-11-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 1665,
+      "id": 19490,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Copco FC vs Madini United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        1665,
+        19476
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19490",
+      "status": "future",
+      "venues": [
+        101
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19487,
+      "date": "2026-11-06T16:00:00",
+      "date_gmt": "2026-11-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19469,
+      "id": 19491,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Kigoma FC vs NKIM",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19469,
+        19487
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19491",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 311,
+      "date": "2026-11-07T16:00:00",
+      "date_gmt": "2026-11-07T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19485,
+      "id": 19492,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Mt. Hanang vs African Sports",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19485,
+        311
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19492",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19489,
+      "date": "2026-11-08T16:00:00",
+      "date_gmt": "2026-11-08T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19483,
+      "id": 19493,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Alliance vs Endument",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19483,
+        19489
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19493",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19489,
+      "date": "2026-11-13T16:00:00",
+      "date_gmt": "2026-11-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19476,
+      "id": 19494,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Madini United vs Endument",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19476,
+        19489
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19494",
+      "status": "future",
+      "venues": [
+        112
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19483,
+      "date": "2026-11-14T16:00:00",
+      "date_gmt": "2026-11-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 1665,
+      "id": 19495,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Copco FC vs Alliance",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        1665,
+        19483
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19495",
+      "status": "future",
+      "venues": [
+        101
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19487,
+      "date": "2026-11-15T16:00:00",
+      "date_gmt": "2026-11-15T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19485,
+      "id": 19496,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Mt. Hanang vs NKIM",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19485,
+        19487
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19496",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 311,
+      "date": "2026-11-15T16:00:00",
+      "date_gmt": "2026-11-15T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19469,
+      "id": 19497,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Kigoma FC vs African Sports",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19469,
+        311
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19497",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19476,
+      "date": "2026-11-27T16:00:00",
+      "date_gmt": "2026-11-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 311,
+      "id": 19498,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "African Sports vs Madini United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        311,
+        19476
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19498",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19469,
+      "date": "2026-11-27T16:00:00",
+      "date_gmt": "2026-11-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19483,
+      "id": 19499,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Alliance vs Kigoma FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19483,
+        19469
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19499",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 1665,
+      "date": "2026-11-28T16:00:00",
+      "date_gmt": "2026-11-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19487,
+      "id": 19500,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "NKIM vs Copco FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19487,
+        1665
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19500",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19485,
+      "date": "2026-11-29T16:00:00",
+      "date_gmt": "2026-11-29T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19489,
+      "id": 19501,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Endument vs Mt. Hanang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19489,
+        19485
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19501",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19483,
+      "date": "2026-12-04T16:00:00",
+      "date_gmt": "2026-12-04T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19485,
+      "id": 19502,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Mt. Hanang vs Alliance",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19485,
+        19483
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19502",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19489,
+      "date": "2026-12-05T16:00:00",
+      "date_gmt": "2026-12-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19469,
+      "id": 19503,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Kigoma FC vs Endument",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19469,
+        19489
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19503",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19476,
+      "date": "2026-12-05T16:00:00",
+      "date_gmt": "2026-12-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19487,
+      "id": 19504,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "NKIM vs Madini United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19487,
+        19476
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19504",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 1665,
+      "date": "2026-12-06T16:00:00",
+      "date_gmt": "2026-12-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 311,
+      "id": 19505,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "African Sports vs Copco FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        311,
+        1665
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19505",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 311,
+      "date": "2026-12-11T16:00:00",
+      "date_gmt": "2026-12-11T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19489,
+      "id": 19506,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Endument vs African Sports",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19489,
+        311
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19506",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19469,
+      "date": "2026-12-12T16:00:00",
+      "date_gmt": "2026-12-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19476,
+      "id": 19507,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Madini United vs Kigoma FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19476,
+        19469
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19507",
+      "status": "future",
+      "venues": [
+        112
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19483,
+      "date": "2026-12-13T16:00:00",
+      "date_gmt": "2026-12-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19487,
+      "id": 19508,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "NKIM vs Alliance",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19487,
+        19483
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19508",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 1665,
+      "date": "2026-12-13T16:00:00",
+      "date_gmt": "2026-12-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19485,
+      "id": 19509,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Mt. Hanang vs Copco FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19485,
+        1665
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19509",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19483,
+      "date": "2026-12-18T16:00:00",
+      "date_gmt": "2026-12-18T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 311,
+      "id": 19510,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "African Sports vs Alliance",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        311,
+        19483
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19510",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19487,
+      "date": "2026-12-18T16:00:00",
+      "date_gmt": "2026-12-18T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19489,
+      "id": 19511,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Endument vs NKIM",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19489,
+        19487
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19511",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19485,
+      "date": "2026-12-19T16:00:00",
+      "date_gmt": "2026-12-19T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19476,
+      "id": 19512,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Madini United vs Mt. Hanang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19476,
+        19485
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19512",
+      "status": "future",
+      "venues": [
+        112
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19469,
+      "date": "2026-12-20T16:00:00",
+      "date_gmt": "2026-12-20T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 1665,
+      "id": 19513,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Copco FC vs Kigoma FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        1665,
+        19469
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19513",
+      "status": "future",
+      "venues": [
+        101
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19489,
+      "date": "2027-01-22T16:00:00",
+      "date_gmt": "2027-01-22T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19487,
+      "id": 19514,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "NKIM vs Endument",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19487,
+        19489
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19514",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 1665,
+      "date": "2027-01-23T16:00:00",
+      "date_gmt": "2027-01-23T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19483,
+      "id": 19515,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Alliance vs Copco FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19483,
+        1665
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19515",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19485,
+      "date": "2027-01-24T16:00:00",
+      "date_gmt": "2027-01-24T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 311,
+      "id": 19516,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "African Sports vs Mt. Hanang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        311,
+        19485
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19516",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19476,
+      "date": "2027-01-24T16:00:00",
+      "date_gmt": "2027-01-24T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19469,
+      "id": 19517,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Kigoma FC vs Madini United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19469,
+        19476
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19517",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19483,
+      "date": "2027-02-12T16:00:00",
+      "date_gmt": "2027-02-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19476,
+      "id": 19518,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Madini United vs Alliance",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19476,
+        19483
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19518",
+      "status": "future",
+      "venues": [
+        112
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19469,
+      "date": "2027-02-12T16:00:00",
+      "date_gmt": "2027-02-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19485,
+      "id": 19519,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Mt. Hanang vs Kigoma FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19485,
+        19469
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19519",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19487,
+      "date": "2027-02-13T16:00:00",
+      "date_gmt": "2027-02-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 311,
+      "id": 19520,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "African Sports vs NKIM",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        311,
+        19487
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19520",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 1665,
+      "date": "2027-02-14T16:00:00",
+      "date_gmt": "2027-02-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19489,
+      "id": 19521,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Endument vs Copco FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19489,
+        1665
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19521",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19483,
+      "date": "2027-02-26T16:00:00",
+      "date_gmt": "2027-02-26T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19489,
+      "id": 19522,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Endument vs Alliance",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19489,
+        19483
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19522",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19485,
+      "date": "2027-02-27T16:00:00",
+      "date_gmt": "2027-02-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19487,
+      "id": 19523,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "NKIM vs Mt. Hanang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19487,
+        19485
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19523",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 311,
+      "date": "2027-02-28T16:00:00",
+      "date_gmt": "2027-02-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19476,
+      "id": 19524,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Madini United vs African Sports",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19476,
+        311
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19524",
+      "status": "future",
+      "venues": [
+        112
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 1665,
+      "date": "2027-02-28T16:00:00",
+      "date_gmt": "2027-02-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19469,
+      "id": 19525,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Kigoma FC vs Copco FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19469,
+        1665
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19525",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19483,
+      "date": "2027-03-05T16:00:00",
+      "date_gmt": "2027-03-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19469,
+      "id": 19526,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Kigoma FC vs Alliance",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19469,
+        19483
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19526",
+      "status": "future",
+      "venues": [
+        97
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 311,
+      "date": "2027-03-05T16:00:00",
+      "date_gmt": "2027-03-05T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 1665,
+      "id": 19527,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Copco FC vs African Sports",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        1665,
+        311
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19527",
+      "status": "future",
+      "venues": [
+        101
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19489,
+      "date": "2027-03-06T16:00:00",
+      "date_gmt": "2027-03-06T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19485,
+      "id": 19528,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Mt. Hanang vs Endument",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19485,
+        19489
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19528",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19487,
+      "date": "2027-03-07T16:00:00",
+      "date_gmt": "2027-03-07T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19476,
+      "id": 19529,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Madini United vs NKIM",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19476,
+        19487
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19529",
+      "status": "future",
+      "venues": [
+        112
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19469,
+      "date": "2027-03-12T16:00:00",
+      "date_gmt": "2027-03-12T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19489,
+      "id": 19530,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Endument vs Kigoma FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19489,
+        19469
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19530",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 311,
+      "date": "2027-03-13T16:00:00",
+      "date_gmt": "2027-03-13T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19483,
+      "id": 19531,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Alliance vs African Sports",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19483,
+        311
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19531",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19487,
+      "date": "2027-03-14T16:00:00",
+      "date_gmt": "2027-03-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 1665,
+      "id": 19532,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Copco FC vs NKIM",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        1665,
+        19487
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19532",
+      "status": "future",
+      "venues": [
+        101
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19476,
+      "date": "2027-03-14T16:00:00",
+      "date_gmt": "2027-03-14T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19485,
+      "id": 19533,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Mt. Hanang vs Madini United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19485,
+        19476
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19533",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19487,
+      "date": "2027-03-19T16:00:00",
+      "date_gmt": "2027-03-19T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19483,
+      "id": 19534,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Alliance vs NKIM",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19483,
+        19487
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19534",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19476,
+      "date": "2027-03-19T16:00:00",
+      "date_gmt": "2027-03-19T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19489,
+      "id": 19535,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Endument vs Madini United",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19489,
+        19476
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19535",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19485,
+      "date": "2027-03-20T16:00:00",
+      "date_gmt": "2027-03-20T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 1665,
+      "id": 19536,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Copco FC vs Mt. Hanang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        1665,
+        19485
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19536",
+      "status": "future",
+      "venues": [
+        101
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19469,
+      "date": "2027-03-21T16:00:00",
+      "date_gmt": "2027-03-21T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 311,
+      "id": 19537,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "African Sports vs Kigoma FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        311,
+        19469
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19537",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19489,
+      "date": "2027-03-26T16:00:00",
+      "date_gmt": "2027-03-26T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 311,
+      "id": 19538,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "African Sports vs Endument",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        311,
+        19489
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19538",
+      "status": "future",
+      "venues": [
+        25
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 1665,
+      "date": "2027-03-26T16:00:00",
+      "date_gmt": "2027-03-26T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19476,
+      "id": 19539,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Madini United vs Copco FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19476,
+        1665
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19539",
+      "status": "future",
+      "venues": [
+        112
+      ],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19485,
+      "date": "2027-03-27T16:00:00",
+      "date_gmt": "2027-03-27T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19483,
+      "id": 19540,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "Alliance vs Mt. Hanang",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19483,
+        19485
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19540",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
+    },
+    {
+      "away_score": null,
+      "away_team_id": 19469,
+      "date": "2027-03-28T16:00:00",
+      "date_gmt": "2027-03-28T13:00:00",
+      "day": "",
+      "format": "league",
+      "home_score": null,
+      "home_team_id": 19487,
+      "id": 19541,
+      "is_placeholder": false,
+      "leagues": [
+        448
+      ],
+      "minutes": "90",
+      "name": "NKIM vs Kigoma FC",
+      "outcome": {},
+      "raw_main_results": [],
+      "raw_teams": [
+        19487,
+        19469
+      ],
+      "seasons": [
+        431
+      ],
+      "slug": "19541",
+      "status": "future",
+      "venues": [],
+      "winner_id": null
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-15T04:53:00+00:00",
+  "scraped_at": "2026-09-15T11:42:56+00:00",
   "source": "ligikuu"
 }

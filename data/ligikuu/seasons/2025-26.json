@@ -22641,7 +22641,7 @@
       "winner_id": 286
     }
   ],
-  "scraped_at": "2026-09-15T04:52:56+00:00",
+  "scraped_at": "2026-09-15T11:42:49+00:00",
   "season": {
     "id": 417,
     "name": "2025/26",
@@ -24464,6 +24464,7 @@
       "id": 311,
       "leagues": [
         88,
+        448,
         419,
         151,
         290
@@ -24474,7 +24475,8 @@
         135,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "african-sports-fc",
       "status": "publish",
@@ -24673,14 +24675,16 @@
         89,
         258,
         323,
-        422
+        422,
+        448
       ],
       "name": "Alliance FC",
       "seasons": [
         87,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "alliance-fc",
       "status": "publish",
@@ -24899,6 +24903,7 @@
         238,
         323,
         422,
+        448,
         151
       ],
       "name": "Copco FC",
@@ -24906,7 +24911,8 @@
         135,
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "copco-fc",
       "status": "publish",
@@ -25087,13 +25093,15 @@
         58,
         258,
         323,
-        422
+        422,
+        448
       ],
       "name": "Endument FC",
       "seasons": [
         235,
         288,
-        417
+        417,
+        431
       ],
       "slug": "tra-fc",
       "status": "publish",
@@ -25193,11 +25201,13 @@
       "abbreviation": "NKIM",
       "id": 14178,
       "leagues": [
-        422
+        422,
+        448
       ],
       "name": "NKIM FC",
       "seasons": [
-        417
+        417,
+        431
       ],
       "slug": "misitu-fc",
       "status": "publish",
