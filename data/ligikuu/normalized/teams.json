@@ -1,6 +1,6 @@
 {
   "api_root": "https://ligikuu.co.tz/wp-json/sportspress/v2",
-  "count": 62,
+  "count": 54,
   "filters": {
     "active_league_ids": [
       236,
@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 10,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-15T10:42:49+00:00"
+    "modified_after": "2026-09-15T15:58:17+00:00"
   },
   "items": [
     {
@@ -1286,66 +1286,6 @@
     },
     {
       "abbreviation": null,
-      "id": 19406,
-      "leagues": [
-        447
-      ],
-      "name": "Hausang",
-      "seasons": [
-        431
-      ],
-      "slug": "hausang",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19407,
-      "leagues": [
-        447
-      ],
-      "name": "Barberian",
-      "seasons": [
-        431
-      ],
-      "slug": "barberian",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19409,
-      "leagues": [
-        447
-      ],
-      "name": "Nyumbu",
-      "seasons": [
-        431
-      ],
-      "slug": "nyumbu",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19411,
-      "leagues": [
-        447
-      ],
-      "name": "Cosmopolitan",
-      "seasons": [
-        431
-      ],
-      "slug": "cosmopolitan",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
       "id": 19469,
       "leagues": [
         448
@@ -1359,23 +1299,6 @@
       "url": null,
       "venues": [
         97
-      ]
-    },
-    {
-      "abbreviation": null,
-      "id": 19472,
-      "leagues": [
-        448
-      ],
-      "name": "Mt.Hanang",
-      "seasons": [
-        431
-      ],
-      "slug": "mt-hanang",
-      "status": "publish",
-      "url": null,
-      "venues": [
-        93
       ]
     },
     {
@@ -1397,21 +1320,6 @@
     },
     {
       "abbreviation": null,
-      "id": 19483,
-      "leagues": [
-        448
-      ],
-      "name": "Alliance",
-      "seasons": [
-        431
-      ],
-      "slug": "alliance",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
       "id": 19485,
       "leagues": [
         448
@@ -1424,39 +1332,9 @@
       "status": "publish",
       "url": null,
       "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19487,
-      "leagues": [
-        448
-      ],
-      "name": "NKIM",
-      "seasons": [
-        431
-      ],
-      "slug": "nkim",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19489,
-      "leagues": [
-        448
-      ],
-      "name": "Endument",
-      "seasons": [
-        431
-      ],
-      "slug": "endument",
-      "status": "publish",
-      "url": null,
-      "venues": []
     }
   ],
   "resource": "teams",
-  "scraped_at": "2026-09-15T16:58:19+00:00",
+  "scraped_at": "2026-09-15T21:19:47+00:00",
   "source": "ligikuu"
 }

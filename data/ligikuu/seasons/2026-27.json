@@ -28,8 +28,8 @@
   ],
   "counts": {
     "events": 1768,
-    "tables": 3,
-    "teams": 56
+    "tables": 5,
+    "teams": 48
   },
   "events": [
     {
@@ -1591,13 +1591,13 @@
       "winner_id": 344
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 322,
       "date": "2026-09-15T19:00:00",
       "date_gmt": "2026-09-15T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 292,
       "id": 17340,
       "is_placeholder": false,
@@ -1606,8 +1606,14 @@
       ],
       "minutes": "90",
       "name": "Young Africans vs Geita Gold",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "292": "win",
+        "322": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         292,
         322
@@ -1616,11 +1622,11 @@
         431
       ],
       "slug": "17340",
-      "status": "future",
+      "status": "publish",
       "venues": [
         309
       ],
-      "winner_id": null
+      "winner_id": 292
     },
     {
       "away_score": null,
@@ -56431,7 +56437,7 @@
       "winner_id": null
     }
   ],
-  "scraped_at": "2026-09-15T16:58:17+00:00",
+  "scraped_at": "2026-09-15T21:19:44+00:00",
   "season": {
     "id": 431,
     "name": "2026/27",
@@ -57333,6 +57339,502 @@
             "w": "0"
           },
           "team_id": 326,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Club",
+          "played": 0,
+          "points": 0,
+          "pos": null,
+          "raw": {
+            "a": "GA",
+            "awayrecord": "Away Record",
+            "d": "D",
+            "f": "GF",
+            "gd": "GD",
+            "l": "L",
+            "name": "Club",
+            "p": "P",
+            "pos": "Pos",
+            "pts": "Pts",
+            "w": "W"
+          },
+          "team_id": 0,
+          "won": 0
+        }
+      ],
+      "status": "publish"
+    },
+    {
+      "id": 19557,
+      "leagues": [
+        447
+      ],
+      "name": "FIRST LEAGUE GROUP A 2026/2027 STANDING",
+      "seasons": [
+        431
+      ],
+      "slug": "first-league-group-a-2026-2027-standing",
+      "standings": [
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Barberian",
+          "played": 0,
+          "points": 0,
+          "pos": 1,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Barberian",
+            "p": "0",
+            "pos": 1,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 6039,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Cosmopolitan",
+          "played": 0,
+          "points": 0,
+          "pos": 2,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Cosmopolitan",
+            "p": "0",
+            "pos": 2,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 341,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Dar City",
+          "played": 0,
+          "points": 0,
+          "pos": 3,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Dar City",
+            "p": "0",
+            "pos": 3,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 354,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Hausung",
+          "played": 0,
+          "points": 0,
+          "pos": 4,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Hausung",
+            "p": "0",
+            "pos": 4,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 10893,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Magnet",
+          "played": 0,
+          "points": 0,
+          "pos": 5,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Magnet",
+            "p": "0",
+            "pos": 5,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 6041,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Moro Kids",
+          "played": 0,
+          "points": 0,
+          "pos": 6,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Moro Kids",
+            "p": "0",
+            "pos": 6,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 10892,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Nyumbu",
+          "played": 0,
+          "points": 0,
+          "pos": 7,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Nyumbu",
+            "p": "0",
+            "pos": 7,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 6043,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Pan African",
+          "played": 0,
+          "points": 0,
+          "pos": 8,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Pan African",
+            "p": "0",
+            "pos": 8,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 337,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Club",
+          "played": 0,
+          "points": 0,
+          "pos": null,
+          "raw": {
+            "a": "GA",
+            "awayrecord": "Away Record",
+            "d": "D",
+            "f": "GF",
+            "gd": "GD",
+            "l": "L",
+            "name": "Club",
+            "p": "P",
+            "pos": "Pos",
+            "pts": "Pts",
+            "w": "W"
+          },
+          "team_id": 0,
+          "won": 0
+        }
+      ],
+      "status": "publish"
+    },
+    {
+      "id": 19560,
+      "leagues": [
+        448
+      ],
+      "name": "FIRST LEAGUE GROUP B 2026/2027 STANDING",
+      "seasons": [
+        431
+      ],
+      "slug": "first-league-group-a-2026-2027-standing-2",
+      "standings": [
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "A.Sports",
+          "played": 0,
+          "points": 0,
+          "pos": 1,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "A.Sports",
+            "p": "0",
+            "pos": 1,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 311,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Alliance",
+          "played": 0,
+          "points": 0,
+          "pos": 2,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Alliance",
+            "p": "0",
+            "pos": 2,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 333,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Copco",
+          "played": 0,
+          "points": 0,
+          "pos": 3,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Copco",
+            "p": "0",
+            "pos": 3,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 1665,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Endument",
+          "played": 0,
+          "points": 0,
+          "pos": 4,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Endument",
+            "p": "0",
+            "pos": 4,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 6046,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Kigoma FC",
+          "played": 0,
+          "points": 0,
+          "pos": 5,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Kigoma FC",
+            "p": "0",
+            "pos": 5,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 19469,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Madini United",
+          "played": 0,
+          "points": 0,
+          "pos": 6,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Madini United",
+            "p": "0",
+            "pos": 6,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 19476,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "Mt. Hanang",
+          "played": 0,
+          "points": 0,
+          "pos": 7,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "Mt. Hanang",
+            "p": "0",
+            "pos": 7,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 19485,
+          "won": 0
+        },
+        {
+          "drawn": 0,
+          "goal_diff": 0,
+          "goals_against": 0,
+          "goals_for": 0,
+          "lost": 0,
+          "name": "NKIM",
+          "played": 0,
+          "points": 0,
+          "pos": 8,
+          "raw": {
+            "a": "0",
+            "awayrecord": "0",
+            "d": "0",
+            "f": "0",
+            "gd": "0",
+            "l": "0",
+            "name": "NKIM",
+            "p": "0",
+            "pos": 8,
+            "pts": "0",
+            "w": "0"
+          },
+          "team_id": 14178,
           "won": 0
         },
         {
@@ -58493,66 +58995,6 @@
     },
     {
       "abbreviation": null,
-      "id": 19406,
-      "leagues": [
-        447
-      ],
-      "name": "Hausang",
-      "seasons": [
-        431
-      ],
-      "slug": "hausang",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19407,
-      "leagues": [
-        447
-      ],
-      "name": "Barberian",
-      "seasons": [
-        431
-      ],
-      "slug": "barberian",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19409,
-      "leagues": [
-        447
-      ],
-      "name": "Nyumbu",
-      "seasons": [
-        431
-      ],
-      "slug": "nyumbu",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19411,
-      "leagues": [
-        447
-      ],
-      "name": "Cosmopolitan",
-      "seasons": [
-        431
-      ],
-      "slug": "cosmopolitan",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
       "id": 19469,
       "leagues": [
         448
@@ -58566,23 +59008,6 @@
       "url": null,
       "venues": [
         97
-      ]
-    },
-    {
-      "abbreviation": null,
-      "id": 19472,
-      "leagues": [
-        448
-      ],
-      "name": "Mt.Hanang",
-      "seasons": [
-        431
-      ],
-      "slug": "mt-hanang",
-      "status": "publish",
-      "url": null,
-      "venues": [
-        93
       ]
     },
     {
@@ -58604,21 +59029,6 @@
     },
     {
       "abbreviation": null,
-      "id": 19483,
-      "leagues": [
-        448
-      ],
-      "name": "Alliance",
-      "seasons": [
-        431
-      ],
-      "slug": "alliance",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
       "id": 19485,
       "leagues": [
         448
@@ -58628,36 +59038,6 @@
         431
       ],
       "slug": "mt-hanang-2",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19487,
-      "leagues": [
-        448
-      ],
-      "name": "NKIM",
-      "seasons": [
-        431
-      ],
-      "slug": "nkim",
-      "status": "publish",
-      "url": null,
-      "venues": []
-    },
-    {
-      "abbreviation": null,
-      "id": 19489,
-      "leagues": [
-        448
-      ],
-      "name": "Endument",
-      "seasons": [
-        431
-      ],
-      "slug": "endument",
       "status": "publish",
       "url": null,
       "venues": []

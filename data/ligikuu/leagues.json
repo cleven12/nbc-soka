@@ -866,7 +866,7 @@
           }
         ]
       },
-      "count": 15,
+      "count": 10,
       "description": "",
       "id": 447,
       "link": "https://ligikuu.co.tz/league/first-league-group-a-2026-2027-standing/",
@@ -1681,7 +1681,7 @@
           }
         ]
       },
-      "count": 14,
+      "count": 10,
       "description": "",
       "id": 448,
       "link": "https://ligikuu.co.tz/league/first-league-group-b-2026-2027/",
@@ -5221,6 +5221,6 @@
     }
   ],
   "resource": "leagues",
-  "scraped_at": "2026-09-15T16:58:18+00:00",
+  "scraped_at": "2026-09-15T21:19:45+00:00",
   "source": "ligikuu"
 }
