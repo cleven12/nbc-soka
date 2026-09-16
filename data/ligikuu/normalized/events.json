@@ -23,7 +23,7 @@
     "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-16T03:47:39+00:00"
+    "modified_after": "2026-09-16T10:31:07+00:00"
   },
   "items": [
     {
@@ -65111,13 +65111,13 @@
       "winner_id": 292
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 291,
       "date": "2026-09-16T19:00:00",
       "date_gmt": "2026-09-16T16:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 294,
       "id": 17341,
       "is_placeholder": false,
@@ -65126,8 +65126,14 @@
       ],
       "minutes": "90",
       "name": "Azam FC vs Simba SC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "291": "win",
+        "294": "loss"
+      },
+      "raw_main_results": [
+        "0",
+        "2"
+      ],
       "raw_teams": [
         294,
         291
@@ -65136,11 +65142,11 @@
         431
       ],
       "slug": "17341",
-      "status": "future",
+      "status": "publish",
       "venues": [
         280
       ],
-      "winner_id": null
+      "winner_id": 291
     },
     {
       "away_score": 0,
@@ -119920,6 +119926,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-16T11:31:12+00:00",
+  "scraped_at": "2026-09-16T21:17:02+00:00",
   "source": "ligikuu"
 }
