@@ -1,6 +1,6 @@
 {
   "mode": "incremental",
-  "modified_after_used": "2026-09-16T20:16:57+00:00",
+  "modified_after_used": "2026-09-17T04:01:28+00:00",
   "ok": true,
   "resource_counts": {
     "calendars": 26,
@@ -12,7 +12,7 @@
     "teams": 54,
     "venues": 55
   },
-  "scraped_at": "2026-09-17T05:01:28+00:00",
+  "scraped_at": "2026-09-17T11:39:47+00:00",
   "season_plan": {
     "active_league_ids": [
       236,
