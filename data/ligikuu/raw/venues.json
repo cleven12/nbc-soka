@@ -1572,7 +1572,7 @@
           }
         ]
       },
-      "count": 36,
+      "count": 37,
       "description": "",
       "id": 275,
       "link": "https://ligikuu.co.tz/venue/ccm-kambarage-shinyanga/",
@@ -5649,7 +5649,7 @@
           }
         ]
       },
-      "count": 45,
+      "count": 46,
       "description": "",
       "id": 125,
       "link": "https://ligikuu.co.tz/venue/nangwanda-sijaona-stadium/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-18T11:12:26+00:00",
+  "scraped_at": "2026-09-18T16:23:09+00:00",
   "source": "ligikuu"
 }
