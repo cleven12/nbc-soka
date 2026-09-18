@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 11,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-17T20:21:08+00:00"
+    "modified_after": "2026-09-18T03:42:03+00:00"
   },
   "items": [
     {
@@ -65436,7 +65436,7 @@
     },
     {
       "away_score": null,
-      "away_team_id": 325,
+      "away_team_id": 294,
       "date": "2026-10-08T21:00:00",
       "date_gmt": "2026-10-08T18:00:00",
       "day": "",
@@ -65449,12 +65449,12 @@
         432
       ],
       "minutes": "90",
-      "name": "Coastal Union vs TRA United",
+      "name": "Coastal Union vs Azam FC",
       "outcome": {},
       "raw_main_results": [],
       "raw_teams": [
         278,
-        325
+        294
       ],
       "seasons": [
         431
@@ -65468,7 +65468,7 @@
     },
     {
       "away_score": null,
-      "away_team_id": 294,
+      "away_team_id": 268,
       "date": "2026-10-09T14:00:00",
       "date_gmt": "2026-10-09T11:00:00",
       "day": "",
@@ -65481,12 +65481,12 @@
         432
       ],
       "minutes": "90",
-      "name": "Fountain Gate vs Azam FC",
+      "name": "Fountain Gate vs JKT Tanzania",
       "outcome": {},
       "raw_main_results": [],
       "raw_teams": [
         2582,
-        294
+        268
       ],
       "seasons": [
         431
@@ -119926,6 +119926,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-18T04:42:08+00:00",
+  "scraped_at": "2026-09-18T11:12:29+00:00",
   "source": "ligikuu"
 }
