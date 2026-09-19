@@ -171,7 +171,7 @@
       "slug": "ilulu-stadium"
     },
     {
-      "count": 74,
+      "count": 76,
       "description": "",
       "id": 29,
       "name": "Jamhuri Stadium, Dodoma",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-19T10:57:12+00:00",
+  "scraped_at": "2026-09-19T15:52:22+00:00",
   "source": "ligikuu"
 }
