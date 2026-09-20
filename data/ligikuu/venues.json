@@ -2629,7 +2629,7 @@
           }
         ]
       },
-      "count": 16,
+      "count": 17,
       "description": "",
       "id": 420,
       "link": "https://ligikuu.co.tz/venue/ilulu-stadium/",
@@ -4139,7 +4139,7 @@
           }
         ]
       },
-      "count": 132,
+      "count": 133,
       "description": "",
       "id": 38,
       "link": "https://ligikuu.co.tz/venue/mabatini-stadium-pwani/",
@@ -4592,7 +4592,7 @@
           }
         ]
       },
-      "count": 43,
+      "count": 44,
       "description": "",
       "id": 104,
       "link": "https://ligikuu.co.tz/venue/majimaji-stadium-songea/",
@@ -7310,7 +7310,7 @@
           }
         ]
       },
-      "count": 96,
+      "count": 97,
       "description": "",
       "id": 31,
       "link": "https://ligikuu.co.tz/venue/sokoine-stadium-mbeya/",
@@ -8333,6 +8333,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-20T04:52:37+00:00",
+  "scraped_at": "2026-09-20T16:05:21+00:00",
   "source": "ligikuu"
 }

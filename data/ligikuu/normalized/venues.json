@@ -163,7 +163,7 @@
       "slug": "highland-estates-mbeya"
     },
     {
-      "count": 16,
+      "count": 17,
       "description": "",
       "id": 420,
       "name": "Ilulu Stadium",
@@ -243,7 +243,7 @@
       "slug": "liti-stadiumsingida"
     },
     {
-      "count": 132,
+      "count": 133,
       "description": "",
       "id": 38,
       "name": "Mabatini Stadium, Pwani",
@@ -267,7 +267,7 @@
       "slug": "majaliwa-stadium-lindi"
     },
     {
-      "count": 43,
+      "count": 44,
       "description": "",
       "id": 104,
       "name": "Majimaji Stadium, Songea",
@@ -411,7 +411,7 @@
       "slug": "singida-bs"
     },
     {
-      "count": 96,
+      "count": 97,
       "description": "",
       "id": 31,
       "name": "Sokoine Stadium, Mbeya",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-20T04:52:37+00:00",
+  "scraped_at": "2026-09-20T16:05:21+00:00",
   "source": "ligikuu"
 }
