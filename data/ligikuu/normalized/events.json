@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 4,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-19T14:52:20+00:00"
+    "modified_after": "2026-09-19T19:38:41+00:00"
   },
   "items": [
     {
@@ -109093,13 +109093,13 @@
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team_id": 290,
       "date": "2026-09-18T16:00:00",
       "date_gmt": "2026-09-18T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 312,
       "id": 19137,
       "is_placeholder": false,
@@ -109108,8 +109108,14 @@
       ],
       "minutes": "90",
       "name": "Mbeya Kwanza vs Tanzania Prisons",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "290": "win",
+        "312": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        "2"
+      ],
       "raw_teams": [
         312,
         290
@@ -109118,20 +109124,20 @@
         431
       ],
       "slug": "19137",
-      "status": "future",
+      "status": "publish",
       "venues": [
         125
       ],
-      "winner_id": null
+      "winner_id": 290
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 6048,
       "date": "2026-09-18T16:00:00",
       "date_gmt": "2026-09-18T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 349,
       "id": 19138,
       "is_placeholder": false,
@@ -109140,8 +109146,14 @@
       ],
       "minutes": "90",
       "name": "Stand United vs Kigamboni United",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "349": "win",
+        "6048": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         349,
         6048
@@ -109150,20 +109162,20 @@
         431
       ],
       "slug": "19138",
-      "status": "future",
+      "status": "publish",
       "venues": [
         275
       ],
-      "winner_id": null
+      "winner_id": 349
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 14180,
       "date": "2026-09-19T16:00:00",
       "date_gmt": "2026-09-19T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 10894,
       "id": 19139,
       "is_placeholder": false,
@@ -109172,8 +109184,14 @@
       ],
       "minutes": "90",
       "name": "Gunners FC vs Bandari Tanzania",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "10894": "loss",
+        "14180": "win"
+      },
+      "raw_main_results": [
+        "0",
+        "1"
+      ],
       "raw_teams": [
         10894,
         14180
@@ -109182,20 +109200,20 @@
         431
       ],
       "slug": "19139",
-      "status": "future",
+      "status": "publish",
       "venues": [
         29
       ],
-      "winner_id": null
+      "winner_id": 14180
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team_id": 340,
       "date": "2026-09-19T16:00:00",
       "date_gmt": "2026-09-19T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 283,
       "id": 19140,
       "is_placeholder": false,
@@ -109204,8 +109222,14 @@
       ],
       "minutes": "90",
       "name": "Mtibwa Sugar vs Mbuni FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "283": "win",
+        "340": "loss"
+      },
+      "raw_main_results": [
+        "2",
+        "1"
+      ],
       "raw_teams": [
         283,
         340
@@ -109214,11 +109238,11 @@
         431
       ],
       "slug": "19140",
-      "status": "future",
+      "status": "publish",
       "venues": [
         29
       ],
-      "winner_id": null
+      "winner_id": 283
     },
     {
       "away_score": null,
@@ -119926,6 +119950,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-19T20:38:46+00:00",
+  "scraped_at": "2026-09-20T04:52:40+00:00",
   "source": "ligikuu"
 }
