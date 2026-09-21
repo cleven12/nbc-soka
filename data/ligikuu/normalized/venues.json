@@ -171,7 +171,7 @@
       "slug": "ilulu-stadium"
     },
     {
-      "count": 76,
+      "count": 75,
       "description": "",
       "id": 29,
       "name": "Jamhuri Stadium, Dodoma",
@@ -275,7 +275,7 @@
       "slug": "majimaji-stadium-songea"
     },
     {
-      "count": 37,
+      "count": 38,
       "description": "",
       "id": 132,
       "name": "Manungu - Turiani, Morogoro",
@@ -468,6 +468,6 @@
     }
   ],
   "resource": "venues",
-  "scraped_at": "2026-09-20T20:47:55+00:00",
+  "scraped_at": "2026-09-21T12:46:07+00:00",
   "source": "ligikuu"
 }

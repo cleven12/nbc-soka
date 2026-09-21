@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 0,
+    "delta_count": 8,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-20T15:05:19+00:00"
+    "modified_after": "2026-09-20T19:47:53+00:00"
   },
   "items": [
     {
@@ -109240,50 +109240,56 @@
       "slug": "19140",
       "status": "publish",
       "venues": [
-        29
+        132
       ],
       "winner_id": 283
     },
     {
-      "away_score": null,
-      "away_team_id": null,
+      "away_score": 0,
+      "away_team_id": 4536,
       "date": "2026-09-20T16:00:00",
       "date_gmt": "2026-09-20T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 326,
       "id": 19141,
-      "is_placeholder": true,
+      "is_placeholder": false,
       "leagues": [
         445
       ],
       "minutes": "90",
       "name": "Transit Camp vs TMA",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "326": "win",
+        "4536": "loss"
+      },
+      "raw_main_results": [
+        "1",
+        "0"
+      ],
       "raw_teams": [
         326,
-        -1
+        4536
       ],
       "seasons": [
         431
       ],
       "slug": "19141",
-      "status": "future",
+      "status": "publish",
       "venues": [
         38
       ],
-      "winner_id": null
+      "winner_id": 326
     },
     {
-      "away_score": null,
+      "away_score": 3,
       "away_team_id": 281,
       "date": "2026-09-20T16:00:00",
       "date_gmt": "2026-09-20T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 1,
       "home_team_id": 266,
       "id": 19142,
       "is_placeholder": false,
@@ -109292,8 +109298,14 @@
       ],
       "minutes": "90",
       "name": "Bigman FC vs KMC FC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "266": "loss",
+        "281": "win"
+      },
+      "raw_main_results": [
+        "1",
+        "3"
+      ],
       "raw_teams": [
         266,
         281
@@ -109302,20 +109314,20 @@
         431
       ],
       "slug": "19142",
-      "status": "future",
+      "status": "publish",
       "venues": [
         420
       ],
-      "winner_id": null
+      "winner_id": 281
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 330,
       "date": "2026-09-20T16:00:00",
       "date_gmt": "2026-09-20T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 0,
       "home_team_id": 429,
       "id": 19143,
       "is_placeholder": false,
@@ -109324,8 +109336,14 @@
       ],
       "minutes": "90",
       "name": "Songea United vs Rhino Rangers",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "330": "draw",
+        "429": "draw"
+      },
+      "raw_main_results": [
+        "0",
+        "0"
+      ],
       "raw_teams": [
         429,
         330
@@ -109334,20 +109352,20 @@
         431
       ],
       "slug": "19143",
-      "status": "future",
+      "status": "publish",
       "venues": [
         104
       ],
       "winner_id": null
     },
     {
-      "away_score": null,
+      "away_score": 0,
       "away_team_id": 14179,
       "date": "2026-09-20T16:00:00",
       "date_gmt": "2026-09-20T13:00:00",
       "day": "",
       "format": "league",
-      "home_score": null,
+      "home_score": 2,
       "home_team_id": 315,
       "id": 19144,
       "is_placeholder": false,
@@ -109356,8 +109374,14 @@
       ],
       "minutes": "90",
       "name": "KenGold FC vs IAA SC",
-      "outcome": {},
-      "raw_main_results": [],
+      "outcome": {
+        "14179": "loss",
+        "315": "win"
+      },
+      "raw_main_results": [
+        "2",
+        "0"
+      ],
       "raw_teams": [
         315,
         14179
@@ -109366,11 +109390,11 @@
         431
       ],
       "slug": "19144",
-      "status": "future",
+      "status": "publish",
       "venues": [
         31
       ],
-      "winner_id": null
+      "winner_id": 315
     },
     {
       "away_score": null,
@@ -119950,6 +119974,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-20T20:47:58+00:00",
+  "scraped_at": "2026-09-21T12:46:10+00:00",
   "source": "ligikuu"
 }
