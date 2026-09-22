@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 2,
+    "delta_count": 0,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-22T10:36:20+00:00"
+    "modified_after": "2026-09-22T15:56:39+00:00"
   },
   "items": [
     {
@@ -295015,6 +295015,6 @@
     }
   ],
   "resource": "lists",
-  "scraped_at": "2026-09-22T16:56:45+00:00",
+  "scraped_at": "2026-09-22T21:17:23+00:00",
   "source": "ligikuu"
 }
