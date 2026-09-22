@@ -20,10 +20,10 @@
       417,
       431
     ],
-    "delta_count": 4,
+    "delta_count": 1,
     "full": false,
     "incremental": true,
-    "modified_after": "2026-09-21T11:46:05+00:00"
+    "modified_after": "2026-09-22T03:53:47+00:00"
   },
   "items": [
     {
@@ -109404,7 +109404,7 @@
       "day": "",
       "format": "league",
       "home_score": null,
-      "home_team_id": 17840,
+      "home_team_id": 4536,
       "id": 19145,
       "is_placeholder": false,
       "leagues": [
@@ -109415,7 +109415,7 @@
       "outcome": {},
       "raw_main_results": [],
       "raw_teams": [
-        17840,
+        4536,
         349
       ],
       "seasons": [
@@ -109423,7 +109423,9 @@
       ],
       "slug": "19145",
       "status": "future",
-      "venues": [],
+      "venues": [
+        143
+      ],
       "winner_id": null
     },
     {
@@ -119974,6 +119976,6 @@
     }
   ],
   "resource": "events",
-  "scraped_at": "2026-09-22T04:53:52+00:00",
+  "scraped_at": "2026-09-22T11:36:25+00:00",
   "source": "ligikuu"
 }
